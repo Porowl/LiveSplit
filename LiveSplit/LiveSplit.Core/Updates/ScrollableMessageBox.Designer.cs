@@ -51,7 +51,7 @@
             this.Controls.Add(this.txtMessage);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "ScrollableMessageBox";
-            this.Text = "Message";
+            this.Text = Properties.StringRes.ScrollableMessageBox;
             this.TopMost = true;
             this.Load += new System.EventHandler(this.ScrollableMessageBox_Load);
             this.Resize += new System.EventHandler(this.ScrollableMessageBox_Resize);

@@ -51,7 +51,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(31, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Font:";
+            this.label1.Text = Properties.StringRes.FontDialog_label1;
             // 
             // label2
             // 
@@ -60,7 +60,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(30, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Size:";
+            this.label2.Text = Properties.StringRes.FontDialog_label2;
             // 
             // lstSize
             // 
@@ -105,7 +105,7 @@
             this.chbBold.Name = "chbBold";
             this.chbBold.Size = new System.Drawing.Size(47, 17);
             this.chbBold.TabIndex = 6;
-            this.chbBold.Text = "Bold";
+            this.chbBold.Text = Properties.StringRes.FontDialog_chbBold;
             this.chbBold.UseVisualStyleBackColor = true;
             this.chbBold.CheckedChanged += new System.EventHandler(this.chb_CheckedChanged);
             // 
@@ -116,7 +116,7 @@
             this.chbItalic.Name = "chbItalic";
             this.chbItalic.Size = new System.Drawing.Size(48, 17);
             this.chbItalic.TabIndex = 7;
-            this.chbItalic.Text = "Italic";
+            this.chbItalic.Text = Properties.StringRes.FontDialog_chbItalic;
             this.chbItalic.UseVisualStyleBackColor = true;
             this.chbItalic.CheckedChanged += new System.EventHandler(this.chb_CheckedChanged);
             // 
@@ -129,7 +129,7 @@
             this.groupBox1.Size = new System.Drawing.Size(113, 83);
             this.groupBox1.TabIndex = 8;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Font Style";
+            this.groupBox1.Text = Properties.StringRes.FontDialog_groupBox1;
             // 
             // groupBox2
             // 
@@ -139,7 +139,7 @@
             this.groupBox2.Size = new System.Drawing.Size(235, 79);
             this.groupBox2.TabIndex = 9;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Sample Text";
+            this.groupBox2.Text = Properties.StringRes.FontDialog_groupBox2;
             // 
             // lblSampleText
             // 
@@ -148,7 +148,7 @@
             this.lblSampleText.Name = "lblSampleText";
             this.lblSampleText.Size = new System.Drawing.Size(223, 53);
             this.lblSampleText.TabIndex = 0;
-            this.lblSampleText.Text = "AaBbCcXxYyZz";
+            this.lblSampleText.Text = Properties.StringRes.FontDialog_lblSampleText;
             this.lblSampleText.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnCancel
@@ -158,7 +158,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 10;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = Properties.StringRes.FontDialog_btnCancel;
             this.btnCancel.UseVisualStyleBackColor = true;
             // 
             // btnOK
@@ -168,7 +168,7 @@
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
             this.btnOK.TabIndex = 11;
-            this.btnOK.Text = "OK";
+            this.btnOK.Text = Properties.StringRes.FontDialog_btnOK;
             this.btnOK.UseVisualStyleBackColor = true;
             // 
             // lstFont
@@ -196,7 +196,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FontDialog";
             this.ShowIcon = false;
-            this.Text = "Font";
+            this.Text = Properties.StringRes.FontDialog;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FontDialog_FormClosing);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

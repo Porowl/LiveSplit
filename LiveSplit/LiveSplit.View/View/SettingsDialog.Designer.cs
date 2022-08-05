@@ -128,7 +128,7 @@
             this.btnChooseRaceProvider.Name = "btnChooseRaceProvider";
             this.btnChooseRaceProvider.Size = new System.Drawing.Size(190, 23);
             this.btnChooseRaceProvider.TabIndex = 6;
-            this.btnChooseRaceProvider.Text = "Manage Racing Services...";
+            this.btnChooseRaceProvider.Text = Properties.StringRes.SettingsDialog_btnChooseRaceProvider;
             this.btnChooseRaceProvider.UseVisualStyleBackColor = true;
             this.btnChooseRaceProvider.Click += new System.EventHandler(this.btnChooseRaceProvider_Click);
             // 
@@ -140,7 +140,7 @@
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
             this.btnOK.TabIndex = 0;
-            this.btnOK.Text = "OK";
+            this.btnOK.Text = Properties.StringRes.SettingsDialog_btnOK;
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
@@ -152,7 +152,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(178, 13);
             this.label5.TabIndex = 10;
-            this.label5.Text = "Saved Accounts:";
+            this.label5.Text = Properties.StringRes.SettingsDialog_label5;
             // 
             // btnLogOut
             // 
@@ -162,7 +162,7 @@
             this.btnLogOut.Name = "btnLogOut";
             this.btnLogOut.Size = new System.Drawing.Size(190, 23);
             this.btnLogOut.TabIndex = 8;
-            this.btnLogOut.Text = "Log Out of All Accounts";
+            this.btnLogOut.Text = Properties.StringRes.SettingsDialog_btnLogOut;
             this.btnLogOut.UseVisualStyleBackColor = true;
             this.btnLogOut.Click += new System.EventHandler(this.btnLogOut_Click);
             // 
@@ -176,7 +176,7 @@
             this.groupBox1.Size = new System.Drawing.Size(374, 421);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Hotkeys";
+            this.groupBox1.Text = Properties.StringRes.SettingsDialog_groupBox1;
             // 
             // tableLayoutPanel2
             // 
@@ -238,7 +238,7 @@
             this.chkDeactivateForOtherPrograms.Name = "chkDeactivateForOtherPrograms";
             this.chkDeactivateForOtherPrograms.Size = new System.Drawing.Size(172, 23);
             this.chkDeactivateForOtherPrograms.TabIndex = 10;
-            this.chkDeactivateForOtherPrograms.Text = "Deactivate For Other Programs";
+            this.chkDeactivateForOtherPrograms.Text = Properties.StringRes.SettingsDialog_chkDeactivateForOtherPrograms;
             this.chkDeactivateForOtherPrograms.UseVisualStyleBackColor = true;
             // 
             // label1
@@ -249,7 +249,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(172, 13);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Start / Split:";
+            this.label1.Text = Properties.StringRes.SettingsDialog_label1;
             // 
             // chkGlobalHotkeys
             // 
@@ -261,7 +261,7 @@
             this.chkGlobalHotkeys.Name = "chkGlobalHotkeys";
             this.chkGlobalHotkeys.Size = new System.Drawing.Size(98, 23);
             this.chkGlobalHotkeys.TabIndex = 9;
-            this.chkGlobalHotkeys.Text = "Global Hotkeys";
+            this.chkGlobalHotkeys.Text = Properties.StringRes.SettingsDialog_chkGlobalHotkeys;
             this.chkGlobalHotkeys.UseVisualStyleBackColor = true;
             this.chkGlobalHotkeys.CheckedChanged += new System.EventHandler(this.chkGlobalHotkeys_CheckedChanged);
             // 
@@ -274,7 +274,7 @@
             this.chkDoubleTap.Name = "chkDoubleTap";
             this.chkDoubleTap.Size = new System.Drawing.Size(168, 17);
             this.chkDoubleTap.TabIndex = 11;
-            this.chkDoubleTap.Text = "Double Tap Prevention";
+            this.chkDoubleTap.Text = Properties.StringRes.SettingsDialog_chkDoubleTap;
             this.chkDoubleTap.UseVisualStyleBackColor = true;
             // 
             // txtStartSplit
@@ -296,7 +296,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(172, 13);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Reset:";
+            this.label2.Text = Properties.StringRes.SettingsDialog_label2;
             // 
             // label6
             // 
@@ -306,7 +306,7 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(172, 13);
             this.label6.TabIndex = 8;
-            this.label6.Text = "Pause:";
+            this.label6.Text = Properties.StringRes.SettingsDialog_label6;
             // 
             // txtReset
             // 
@@ -338,7 +338,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(172, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Skip Split:";
+            this.label3.Text = Properties.StringRes.SettingsDialog_label3;
             // 
             // label4
             // 
@@ -348,7 +348,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(172, 13);
             this.label4.TabIndex = 7;
-            this.label4.Text = "Undo Split:";
+            this.label4.Text = Properties.StringRes.SettingsDialog_label4;
             // 
             // txtSkip
             // 
@@ -380,7 +380,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(172, 13);
             this.label7.TabIndex = 9;
-            this.label7.Text = "Toggle Global Hotkeys:";
+            this.label7.Text = Properties.StringRes.SettingsDialog_label7;
             // 
             // txtToggle
             // 
@@ -401,7 +401,7 @@
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(172, 13);
             this.label8.TabIndex = 10;
-            this.label8.Text = "Switch Comparison (Previous):";
+            this.label8.Text = Properties.StringRes.SettingsDialog_label8;
             // 
             // label9
             // 
@@ -411,7 +411,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(172, 13);
             this.label9.TabIndex = 12;
-            this.label9.Text = "Switch Comparison (Next):";
+            this.label9.Text = Properties.StringRes.SettingsDialog_label9;
             // 
             // txtSwitchPrevious
             // 
@@ -443,7 +443,7 @@
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(128, 13);
             this.label10.TabIndex = 14;
-            this.label10.Text = "Hotkey Delay (Seconds):";
+            this.label10.Text = Properties.StringRes.SettingsDialog_label10;
             // 
             // txtDelay
             // 
@@ -464,7 +464,7 @@
             this.grpHotkeyProfiles.Size = new System.Drawing.Size(362, 77);
             this.grpHotkeyProfiles.TabIndex = 13;
             this.grpHotkeyProfiles.TabStop = false;
-            this.grpHotkeyProfiles.Text = "Hotkey Profiles";
+            this.grpHotkeyProfiles.Text = Properties.StringRes.SettingsDialog_grpHotkeyProfiles;
             // 
             // tableLayoutPanel3
             // 
@@ -495,7 +495,7 @@
             this.lblProfile.Name = "lblProfile";
             this.lblProfile.Size = new System.Drawing.Size(166, 13);
             this.lblProfile.TabIndex = 0;
-            this.lblProfile.Text = "Active Hotkey Profile:";
+            this.lblProfile.Text = Properties.StringRes.SettingsDialog_lblProfile;
             // 
             // cmbHotkeyProfiles
             // 
@@ -516,7 +516,7 @@
             this.btnRemoveProfile.Name = "btnRemoveProfile";
             this.btnRemoveProfile.Size = new System.Drawing.Size(75, 23);
             this.btnRemoveProfile.TabIndex = 3;
-            this.btnRemoveProfile.Text = "Remove";
+            this.btnRemoveProfile.Text = Properties.StringRes.SettingsDialog_btnRemoveProfile;
             this.btnRemoveProfile.UseVisualStyleBackColor = true;
             this.btnRemoveProfile.Click += new System.EventHandler(this.btnRemoveProfile_Click);
             // 
@@ -527,7 +527,7 @@
             this.btnRenameProfile.Name = "btnRenameProfile";
             this.btnRenameProfile.Size = new System.Drawing.Size(75, 23);
             this.btnRenameProfile.TabIndex = 2;
-            this.btnRenameProfile.Text = "Rename";
+            this.btnRenameProfile.Text = Properties.StringRes.SettingsDialog_btnRenameProfile;
             this.btnRenameProfile.UseVisualStyleBackColor = true;
             this.btnRenameProfile.Click += new System.EventHandler(this.btnRenameProfile_Click);
             // 
@@ -539,7 +539,7 @@
             this.btnNewProfile.Name = "btnNewProfile";
             this.btnNewProfile.Size = new System.Drawing.Size(75, 23);
             this.btnNewProfile.TabIndex = 1;
-            this.btnNewProfile.Text = "New";
+            this.btnNewProfile.Text = Properties.StringRes.SettingsDialog_btnNewProfile;
             this.btnNewProfile.UseVisualStyleBackColor = true;
             this.btnNewProfile.Click += new System.EventHandler(this.btnNewProfile_Click);
             // 
@@ -552,7 +552,7 @@
             this.chkAllowGamepads.Name = "chkAllowGamepads";
             this.chkAllowGamepads.Size = new System.Drawing.Size(168, 17);
             this.chkAllowGamepads.TabIndex = 15;
-            this.chkAllowGamepads.Text = "Allow Gamepads as Hotkeys";
+            this.chkAllowGamepads.Text = Properties.StringRes.SettingsDialog_chkAllowGamepads;
             this.chkAllowGamepads.UseVisualStyleBackColor = true;
             // 
             // btnCancel
@@ -565,7 +565,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 1;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = Properties.StringRes.SettingsDialog_btnCancel;
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
@@ -593,7 +593,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(178, 13);
             this.label11.TabIndex = 15;
-            this.label11.Text = "Race Viewer:";
+            this.label11.Text = Properties.StringRes.SettingsDialog_label11;
             // 
             // label12
             // 
@@ -603,7 +603,7 @@
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(178, 13);
             this.label12.TabIndex = 17;
-            this.label12.Text = "Active Comparisons:";
+            this.label12.Text = Properties.StringRes.SettingsDialog_label12;
             // 
             // label13
             // 
@@ -613,7 +613,7 @@
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(178, 13);
             this.label13.TabIndex = 18;
-            this.label13.Text = "Racing Services:";
+            this.label13.Text = Properties.StringRes.SettingsDialog_label13;
             // 
             // btnChooseComparisons
             // 
@@ -623,7 +623,7 @@
             this.btnChooseComparisons.Name = "btnChooseComparisons";
             this.btnChooseComparisons.Size = new System.Drawing.Size(190, 23);
             this.btnChooseComparisons.TabIndex = 7;
-            this.btnChooseComparisons.Text = "Choose Active Comparisons...";
+            this.btnChooseComparisons.Text = Properties.StringRes.SettingsDialog_btnChooseComparisons;
             this.btnChooseComparisons.UseVisualStyleBackColor = true;
             this.btnChooseComparisons.Click += new System.EventHandler(this.btnChooseComparisons_Click);
             // 
@@ -636,7 +636,7 @@
             this.chkSimpleSOB.Name = "chkSimpleSOB";
             this.chkSimpleSOB.Size = new System.Drawing.Size(174, 17);
             this.chkSimpleSOB.TabIndex = 3;
-            this.chkSimpleSOB.Text = "Simple Sum of Best Calculation";
+            this.chkSimpleSOB.Text = Properties.StringRes.SettingsDialog_chkSimpleSOB;
             this.chkSimpleSOB.UseVisualStyleBackColor = true;
             this.chkSimpleSOB.CheckedChanged += new System.EventHandler(this.chkSimpleSOB_CheckedChanged);
             // 
@@ -650,7 +650,7 @@
             this.chkWarnOnReset.Name = "chkWarnOnReset";
             this.chkWarnOnReset.Size = new System.Drawing.Size(186, 17);
             this.chkWarnOnReset.TabIndex = 4;
-            this.chkWarnOnReset.Text = "Warn On Reset If Better Times";
+            this.chkWarnOnReset.Text = Properties.StringRes.SettingsDialog_chkWarnOnReset;
             this.chkWarnOnReset.UseVisualStyleBackColor = true;
             // 
             // panelRefreshRate
@@ -681,7 +681,7 @@
             this.labelRefreshRate.Name = "labelRefreshRate";
             this.labelRefreshRate.Size = new System.Drawing.Size(93, 13);
             this.labelRefreshRate.TabIndex = 19;
-            this.labelRefreshRate.Text = "Refresh Rate (Hz):";
+            this.labelRefreshRate.Text = Properties.StringRes.SettingsDialog_labelRefreshRate;
             // 
             // SettingsDialog
             // 
@@ -693,7 +693,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "SettingsDialog";
             this.Padding = new System.Windows.Forms.Padding(7);
-            this.Text = "Settings";
+            this.Text = Properties.StringRes.SettingsDialog;
             this.Load += new System.EventHandler(this.SettingsDialog_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();

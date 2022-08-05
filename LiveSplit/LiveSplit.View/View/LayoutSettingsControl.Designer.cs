@@ -136,7 +136,7 @@
             this.chkMousePassThroughWhileRunning.Name = "chkMousePassThroughWhileRunning";
             this.chkMousePassThroughWhileRunning.Size = new System.Drawing.Size(249, 23);
             this.chkMousePassThroughWhileRunning.TabIndex = 27;
-            this.chkMousePassThroughWhileRunning.Text = "Ignore Mouse While Running and Not In Focus";
+            this.chkMousePassThroughWhileRunning.Text = Properties.StringRes.LayoutSettingsControl_chkMousePassThroughWhileRunning;
             this.chkMousePassThroughWhileRunning.UseVisualStyleBackColor = true;
             // 
             // groupBox2
@@ -149,7 +149,7 @@
             this.groupBox2.Size = new System.Drawing.Size(456, 222);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Colors";
+            this.groupBox2.Text = Properties.StringRes.LayoutSettingsControl_groupBox2;
             // 
             // tableLayoutPanel2
             // 
@@ -209,7 +209,7 @@
             this.lblOutlines.Name = "lblOutlines";
             this.lblOutlines.Size = new System.Drawing.Size(160, 13);
             this.lblOutlines.TabIndex = 46;
-            this.lblOutlines.Text = "Text Outlines:";
+            this.lblOutlines.Text = Properties.StringRes.LayoutSettingsControl_lblOutlines;
             // 
             // label9
             // 
@@ -219,7 +219,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(160, 13);
             this.label9.TabIndex = 27;
-            this.label9.Text = "Best Segment:";
+            this.label9.Text = Properties.StringRes.LayoutSettingsControl_label9;
             // 
             // btnGlod
             // 
@@ -242,7 +242,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(160, 13);
             this.label5.TabIndex = 23;
-            this.label5.Text = "Ahead (Gaining Time):";
+            this.label5.Text = Properties.StringRes.LayoutSettingsControl_label5;
             // 
             // label6
             // 
@@ -252,7 +252,7 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(160, 13);
             this.label6.TabIndex = 24;
-            this.label6.Text = "Ahead (Losing Time):";
+            this.label6.Text = Properties.StringRes.LayoutSettingsControl_label6;
             // 
             // label7
             // 
@@ -262,7 +262,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(160, 13);
             this.label7.TabIndex = 25;
-            this.label7.Text = "Behind (Gaining Time):";
+            this.label7.Text = Properties.StringRes.LayoutSettingsControl_label7;
             // 
             // label11
             // 
@@ -272,7 +272,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(160, 13);
             this.label11.TabIndex = 29;
-            this.label11.Text = "Text:";
+            this.label11.Text = Properties.StringRes.LayoutSettingsControl_label11;
             // 
             // label8
             // 
@@ -282,7 +282,7 @@
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(160, 13);
             this.label8.TabIndex = 26;
-            this.label8.Text = "Behind (Losing Time):";
+            this.label8.Text = Properties.StringRes.LayoutSettingsControl_label8;
             // 
             // btnAheadGaining
             // 
@@ -359,7 +359,7 @@
             this.chkRainbow.Name = "chkRainbow";
             this.chkRainbow.Size = new System.Drawing.Size(216, 17);
             this.chkRainbow.TabIndex = 12;
-            this.chkRainbow.Text = "Use Rainbow Best Segment Color";
+            this.chkRainbow.Text = Properties.StringRes.LayoutSettingsControl_chkRainbow;
             this.chkRainbow.UseVisualStyleBackColor = true;
             this.chkRainbow.CheckedChanged += new System.EventHandler(this.chkRainbow_CheckedChanged);
             // 
@@ -371,7 +371,7 @@
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(191, 13);
             this.label10.TabIndex = 28;
-            this.label10.Text = "Not Running:";
+            this.label10.Text = Properties.StringRes.LayoutSettingsControl_label10;
             // 
             // label2
             // 
@@ -381,7 +381,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(191, 13);
             this.label2.TabIndex = 20;
-            this.label2.Text = "Thin Separators:";
+            this.label2.Text = Properties.StringRes.LayoutSettingsControl_label2;
             // 
             // label4
             // 
@@ -391,7 +391,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(191, 13);
             this.label4.TabIndex = 22;
-            this.label4.Text = "Personal Best:";
+            this.label4.Text = Properties.StringRes.LayoutSettingsControl_label4;
             // 
             // label3
             // 
@@ -401,7 +401,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(191, 13);
             this.label3.TabIndex = 21;
-            this.label3.Text = "Separators:";
+            this.label3.Text = Properties.StringRes.LayoutSettingsControl_label3;
             // 
             // label12
             // 
@@ -411,7 +411,7 @@
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(191, 13);
             this.label12.TabIndex = 41;
-            this.label12.Text = "Paused:";
+            this.label12.Text = Properties.StringRes.LayoutSettingsControl_label12;
             // 
             // btnNotRunning
             // 
@@ -499,7 +499,7 @@
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(191, 13);
             this.label14.TabIndex = 44;
-            this.label14.Text = "Shadows:";
+            this.label14.Text = Properties.StringRes.LayoutSettingsControl_label14;
             // 
             // btnTextOutlineColor
             // 
@@ -524,7 +524,7 @@
             this.chkAlwaysOnTop.Name = "chkAlwaysOnTop";
             this.chkAlwaysOnTop.Size = new System.Drawing.Size(96, 23);
             this.chkAlwaysOnTop.TabIndex = 25;
-            this.chkAlwaysOnTop.Text = "Always on Top";
+            this.chkAlwaysOnTop.Text = Properties.StringRes.LayoutSettingsControl_chkAlwaysOnTop;
             this.chkAlwaysOnTop.UseVisualStyleBackColor = true;
             // 
             // groupBox1
@@ -537,7 +537,7 @@
             this.groupBox1.Size = new System.Drawing.Size(456, 136);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Fonts";
+            this.groupBox1.Text = Properties.StringRes.LayoutSettingsControl_groupBox1;
             // 
             // tableLayoutPanel1
             // 
@@ -578,7 +578,7 @@
             this.chkAntiAliasing.Name = "chkAntiAliasing";
             this.chkAntiAliasing.Size = new System.Drawing.Size(214, 17);
             this.chkAntiAliasing.TabIndex = 9;
-            this.chkAntiAliasing.Text = "Anti-Aliasing";
+            this.chkAntiAliasing.Text = Properties.StringRes.LayoutSettingsControl_chkAntiAliasing;
             this.chkAntiAliasing.UseVisualStyleBackColor = true;
             this.chkAntiAliasing.CheckedChanged += new System.EventHandler(this.chkAntiAliasing_CheckedChanged);
             // 
@@ -590,7 +590,7 @@
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(57, 13);
             this.label16.TabIndex = 20;
-            this.label16.Text = "Timer:";
+            this.label16.Text = Properties.StringRes.LayoutSettingsControl_label16;
             // 
             // label17
             // 
@@ -600,7 +600,7 @@
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(57, 13);
             this.label17.TabIndex = 21;
-            this.label17.Text = "Times:";
+            this.label17.Text = Properties.StringRes.LayoutSettingsControl_label17;
             // 
             // label18
             // 
@@ -610,7 +610,7 @@
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(57, 13);
             this.label18.TabIndex = 22;
-            this.label18.Text = "Text:";
+            this.label18.Text = Properties.StringRes.LayoutSettingsControl_label18;
             // 
             // btnTimer
             // 
@@ -619,7 +619,7 @@
             this.btnTimer.Name = "btnTimer";
             this.btnTimer.Size = new System.Drawing.Size(75, 23);
             this.btnTimer.TabIndex = 6;
-            this.btnTimer.Text = "Choose...";
+            this.btnTimer.Text = Properties.StringRes.LayoutSettingsControl_btnTimer;
             this.btnTimer.UseVisualStyleBackColor = true;
             this.btnTimer.Click += new System.EventHandler(this.btnTimer_Click);
             // 
@@ -630,7 +630,7 @@
             this.btnTimes.Name = "btnTimes";
             this.btnTimes.Size = new System.Drawing.Size(75, 23);
             this.btnTimes.TabIndex = 7;
-            this.btnTimes.Text = "Choose...";
+            this.btnTimes.Text = Properties.StringRes.LayoutSettingsControl_btnTimes;
             this.btnTimes.UseVisualStyleBackColor = true;
             this.btnTimes.Click += new System.EventHandler(this.btnTimes_Click);
             // 
@@ -641,7 +641,7 @@
             this.btnTextFont.Name = "btnTextFont";
             this.btnTextFont.Size = new System.Drawing.Size(75, 23);
             this.btnTextFont.TabIndex = 8;
-            this.btnTextFont.Text = "Choose...";
+            this.btnTextFont.Text = Properties.StringRes.LayoutSettingsControl_btnTextFont;
             this.btnTextFont.UseVisualStyleBackColor = true;
             this.btnTextFont.Click += new System.EventHandler(this.btnTextFont_Click);
             // 
@@ -655,7 +655,7 @@
             this.chkDropShadows.Name = "chkDropShadows";
             this.chkDropShadows.Size = new System.Drawing.Size(216, 17);
             this.chkDropShadows.TabIndex = 10;
-            this.chkDropShadows.Text = "Drop Shadows";
+            this.chkDropShadows.Text = Properties.StringRes.LayoutSettingsControl_chkDropShadows;
             this.chkDropShadows.UseVisualStyleBackColor = true;
             // 
             // lblTimer
@@ -667,7 +667,7 @@
             this.lblTimer.Name = "lblTimer";
             this.lblTimer.Size = new System.Drawing.Size(300, 13);
             this.lblTimer.TabIndex = 23;
-            this.lblTimer.Text = "something";
+            this.lblTimer.Text = Properties.StringRes.LayoutSettingsControl_lblTimer;
             // 
             // lblTimes
             // 
@@ -678,7 +678,7 @@
             this.lblTimes.Name = "lblTimes";
             this.lblTimes.Size = new System.Drawing.Size(300, 13);
             this.lblTimes.TabIndex = 24;
-            this.lblTimes.Text = "something";
+            this.lblTimes.Text = Properties.StringRes.LayoutSettingsControl_lblTimes;
             // 
             // lblText
             // 
@@ -689,7 +689,7 @@
             this.lblText.Name = "lblText";
             this.lblText.Size = new System.Drawing.Size(300, 13);
             this.lblText.TabIndex = 25;
-            this.lblText.Text = "something";
+            this.lblText.Text = Properties.StringRes.LayoutSettingsControl_lblText;
             // 
             // chkBestSegments
             // 
@@ -702,7 +702,7 @@
             this.chkBestSegments.Name = "chkBestSegments";
             this.chkBestSegments.Size = new System.Drawing.Size(127, 23);
             this.chkBestSegments.TabIndex = 26;
-            this.chkBestSegments.Text = "Show Best Segments";
+            this.chkBestSegments.Text = Properties.StringRes.LayoutSettingsControl_chkBestSegments;
             this.chkBestSegments.UseVisualStyleBackColor = true;
             // 
             // label13
@@ -713,7 +713,7 @@
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(91, 13);
             this.label13.TabIndex = 16;
-            this.label13.Text = "Opacity:";
+            this.label13.Text = Properties.StringRes.LayoutSettingsControl_label13;
             // 
             // trkOpacity
             // 
@@ -738,7 +738,7 @@
             this.groupBox3.Size = new System.Drawing.Size(456, 78);
             this.groupBox3.TabIndex = 17;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Background";
+            this.groupBox3.Text = Properties.StringRes.LayoutSettingsControl_groupBox3;
             // 
             // tableLayoutPanel3
             // 
@@ -814,7 +814,7 @@
             this.lblBackground.Name = "lblBackground";
             this.lblBackground.Size = new System.Drawing.Size(85, 13);
             this.lblBackground.TabIndex = 19;
-            this.lblBackground.Text = "Color:";
+            this.lblBackground.Text = Properties.StringRes.LayoutSettingsControl_lblBackground;
             // 
             // btnBackground2
             // 
@@ -851,7 +851,7 @@
             this.lblImageOpacity.Name = "lblImageOpacity";
             this.lblImageOpacity.Size = new System.Drawing.Size(85, 13);
             this.lblImageOpacity.TabIndex = 20;
-            this.lblImageOpacity.Text = "Image Opacity:";
+            this.lblImageOpacity.Text = Properties.StringRes.LayoutSettingsControl_lblImageOpacity;
             // 
             // lblBlur
             // 
@@ -861,7 +861,7 @@
             this.lblBlur.Name = "lblBlur";
             this.lblBlur.Size = new System.Drawing.Size(87, 13);
             this.lblBlur.TabIndex = 22;
-            this.lblBlur.Text = "Image Blur:";
+            this.lblBlur.Text = Properties.StringRes.LayoutSettingsControl_lblBlur;
             // 
             // LayoutSettingsControl
             // 

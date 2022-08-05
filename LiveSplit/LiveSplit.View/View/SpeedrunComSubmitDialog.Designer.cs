@@ -73,7 +73,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(37, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Video:";
+            this.label1.Text = Properties.StringRes.SpeedrunComSubmitDialog_label1;
             // 
             // txtVideo
             // 
@@ -106,7 +106,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(54, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Comment:";
+            this.label2.Text = Properties.StringRes.SpeedrunComSubmitDialog_label2;
             // 
             // btnSubmit
             // 
@@ -115,7 +115,7 @@
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(75, 23);
             this.btnSubmit.TabIndex = 30;
-            this.btnSubmit.Text = "Submit";
+            this.btnSubmit.Text = Properties.StringRes.SpeedrunComSubmitDialog_btnSubmit;
             this.btnSubmit.UseVisualStyleBackColor = true;
             this.btnSubmit.Click += new System.EventHandler(this.btnSubmit_Click);
             // 
@@ -127,7 +127,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 31;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = Properties.StringRes.SpeedrunComSubmitDialog_btnCancel;
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
@@ -141,7 +141,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimumSize = new System.Drawing.Size(252, 188);
             this.Name = "SpeedrunComSubmitDialog";
-            this.Text = "Submitting to Speedrun.com";
+            this.Text = Properties.StringRes.SpeedrunComSubmitDialog;
             this.tableLayoutPanel.ResumeLayout(false);
             this.tableLayoutPanel.PerformLayout();
             this.ResumeLayout(false);

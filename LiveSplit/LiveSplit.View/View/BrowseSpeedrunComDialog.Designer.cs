@@ -81,7 +81,7 @@
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(81, 23);
             this.btnSearch.TabIndex = 1;
-            this.btnSearch.Text = "Search";
+            this.btnSearch.Text = Properties.StringRes.BrowseSpeedrunComDialog_btnSearch;
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
@@ -93,7 +93,7 @@
             this.btnDownload.Name = "btnDownload";
             this.btnDownload.Size = new System.Drawing.Size(81, 22);
             this.btnDownload.TabIndex = 6;
-            this.btnDownload.Text = "Download";
+            this.btnDownload.Text = Properties.StringRes.BrowseSpeedrunComDialog_btnDownload;
             this.btnDownload.UseVisualStyleBackColor = true;
             this.btnDownload.Click += new System.EventHandler(this.btnDownload_Click);
             // 
@@ -116,7 +116,7 @@
             this.chkDownloadEmpty.Name = "chkDownloadEmpty";
             this.chkDownloadEmpty.Size = new System.Drawing.Size(106, 17);
             this.chkDownloadEmpty.TabIndex = 3;
-            this.chkDownloadEmpty.Text = "Download Empty";
+            this.chkDownloadEmpty.Text = Properties.StringRes.BrowseSpeedrunComDialog_chkDownloadEmpty;
             this.chkDownloadEmpty.UseVisualStyleBackColor = true;
             this.chkDownloadEmpty.CheckedChanged += new System.EventHandler(this.chkDownloadEmpty_CheckedChanged);
             // 
@@ -130,7 +130,7 @@
             this.chkIncludeTimes.Name = "chkIncludeTimes";
             this.chkIncludeTimes.Size = new System.Drawing.Size(164, 17);
             this.chkIncludeTimes.TabIndex = 4;
-            this.chkIncludeTimes.Text = "Include Times as Comparison";
+            this.chkIncludeTimes.Text = Properties.StringRes.BrowseSpeedrunComDialog_chkIncludeTimes;
             this.chkIncludeTimes.UseVisualStyleBackColor = true;
             // 
             // btnShowOnSpeedrunCom
@@ -141,7 +141,7 @@
             this.btnShowOnSpeedrunCom.Name = "btnShowOnSpeedrunCom";
             this.btnShowOnSpeedrunCom.Size = new System.Drawing.Size(129, 23);
             this.btnShowOnSpeedrunCom.TabIndex = 5;
-            this.btnShowOnSpeedrunCom.Text = "Show on Speedrun.com";
+            this.btnShowOnSpeedrunCom.Text = Properties.StringRes.BrowseSpeedrunComDialog_btnShowOnSpeedrunCom;
             this.btnShowOnSpeedrunCom.UseVisualStyleBackColor = true;
             this.btnShowOnSpeedrunCom.Click += new System.EventHandler(this.btnShowOnSpeedrunCom_Click);
             // 
@@ -155,7 +155,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimumSize = new System.Drawing.Size(545, 200);
             this.Name = "BrowseSpeedrunComDialog";
-            this.Text = "Browse Speedrun.com";
+            this.Text = Properties.StringRes.BrowseSpeedrunComDialog;
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

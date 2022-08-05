@@ -93,7 +93,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 4;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = Properties.StringRes.AuthenticationDialog_btnCancel;
             this.btnCancel.UseVisualStyleBackColor = true;
             // 
             // btnOK
@@ -103,7 +103,7 @@
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
             this.btnOK.TabIndex = 3;
-            this.btnOK.Text = "OK";
+            this.btnOK.Text = Properties.StringRes.AuthenticationDialog_btnOK;
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
@@ -115,7 +115,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(56, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Password:";
+            this.label2.Text = Properties.StringRes.AuthenticationDialog_label2;
             // 
             // label1
             // 
@@ -125,7 +125,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(58, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Username:";
+            this.label1.Text = Properties.StringRes.AuthenticationDialog_label1;
             // 
             // chkRememberPassword
             // 
@@ -135,7 +135,7 @@
             this.chkRememberPassword.Name = "chkRememberPassword";
             this.chkRememberPassword.Size = new System.Drawing.Size(126, 17);
             this.chkRememberPassword.TabIndex = 2;
-            this.chkRememberPassword.Text = "Remember Password";
+            this.chkRememberPassword.Text = Properties.StringRes.AuthenticationDialog_chkRememberPassword;
             this.chkRememberPassword.UseVisualStyleBackColor = true;
             // 
             // AuthenticationDialog
@@ -150,7 +150,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "AuthenticationDialog";
             this.Padding = new System.Windows.Forms.Padding(7);
-            this.Text = "Authentication";
+            this.Text = Properties.StringRes.AuthenticationDialog;
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

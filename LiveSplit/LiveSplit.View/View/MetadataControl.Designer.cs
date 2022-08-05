@@ -91,7 +91,7 @@
             this.lblRegion.Name = "lblRegion";
             this.lblRegion.Size = new System.Drawing.Size(97, 13);
             this.lblRegion.TabIndex = 0;
-            this.lblRegion.Text = "Region:";
+            this.lblRegion.Text = Properties.StringRes.MetadataControl_lblRegion;
             // 
             // lblPlatform
             // 
@@ -101,7 +101,7 @@
             this.lblPlatform.Name = "lblPlatform";
             this.lblPlatform.Size = new System.Drawing.Size(106, 13);
             this.lblPlatform.TabIndex = 1;
-            this.lblPlatform.Text = "Platform:";
+            this.lblPlatform.Text = Properties.StringRes.MetadataControl_lblPlatform;
             // 
             // cmbRegion
             // 
@@ -122,7 +122,7 @@
             this.lblRules.Name = "lblRules";
             this.lblRules.Size = new System.Drawing.Size(97, 13);
             this.lblRules.TabIndex = 4;
-            this.lblRules.Text = "Rules:";
+            this.lblRules.Text = Properties.StringRes.MetadataControl_lblRules;
             // 
             // btnAssociate
             // 
@@ -135,7 +135,7 @@
             this.btnAssociate.Name = "btnAssociate";
             this.btnAssociate.Size = new System.Drawing.Size(166, 23);
             this.btnAssociate.TabIndex = 6;
-            this.btnAssociate.Text = "Associate with Speedrun.com...";
+            this.btnAssociate.Text = Properties.StringRes.MetadataControl_btnAssociate;
             this.btnAssociate.UseVisualStyleBackColor = true;
             this.btnAssociate.Click += new System.EventHandler(this.btnAssociate_Click);
             // 
@@ -151,7 +151,7 @@
             this.tbxRules.ReadOnly = true;
             this.tbxRules.Size = new System.Drawing.Size(523, 100);
             this.tbxRules.TabIndex = 7;
-            this.tbxRules.Text = "";
+            this.tbxRules.Text = Properties.StringRes.MetadataControl_tbxRules;
             this.tbxRules.LinkClicked += new System.Windows.Forms.LinkClickedEventHandler(this.tbxRules_LinkClicked);
             // 
             // btnSubmit
@@ -162,7 +162,7 @@
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(81, 23);
             this.btnSubmit.TabIndex = 8;
-            this.btnSubmit.Text = "Submit Run...";
+            this.btnSubmit.Text = Properties.StringRes.MetadataControl_btnSubmit;
             this.btnSubmit.UseVisualStyleBackColor = true;
             this.btnSubmit.Click += new System.EventHandler(this.btnSubmit_Click);
             // 

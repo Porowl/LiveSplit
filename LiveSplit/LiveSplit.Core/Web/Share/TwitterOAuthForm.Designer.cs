@@ -51,7 +51,7 @@
             this.Controls.Add(this.OAuthWebBrowser);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "TwitterOAuthForm";
-            this.Text = "Authorize LiveSplit";
+            this.Text = Properties.StringRes.TwitterOAuthForm;
             this.Load += new System.EventHandler(this.OAuthForm_Load);
             this.ResumeLayout(false);
 

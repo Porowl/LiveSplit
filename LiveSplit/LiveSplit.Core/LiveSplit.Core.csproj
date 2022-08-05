@@ -158,6 +158,11 @@
     <Compile Include="Options\RaceProviderSettings.cs" />
     <Compile Include="Options\RecentSplitsFile.cs" />
     <Compile Include="Options\SettingsFactories\StandardLayoutSettingsFactory.cs" />
+    <Compile Include="Properties\StringRes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StringRes.resx</DependentUpon>
+    </Compile>
     <Compile Include="Server\Connection.cs" />
     <Compile Include="Server\CSharpScript.cs" />
     <Compile Include="Server\IScript.cs" />
@@ -326,6 +331,11 @@
     <None Include="Updates\GitInfo\branch.txt" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Properties\StringRes.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>StringRes.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Resources\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

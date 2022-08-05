@@ -91,7 +91,7 @@
 			this.buttonPicker.Name = "buttonPicker";
 			this.buttonPicker.Size = new System.Drawing.Size(90, 23);
 			this.buttonPicker.TabIndex = 4;
-			this.buttonPicker.Text = "ColorPicker";
+			this.buttonPicker.Text = Properties.StringRes.MainForm_buttonPicker;
 			this.buttonPicker.UseVisualStyleBackColor = true;
 			this.buttonPicker.Click += new System.EventHandler(this.buttonPicker_Click);
 			// 
@@ -102,7 +102,7 @@
 			this.buttonPickerWithAlpha.Name = "buttonPickerWithAlpha";
 			this.buttonPickerWithAlpha.Size = new System.Drawing.Size(90, 23);
 			this.buttonPickerWithAlpha.TabIndex = 5;
-			this.buttonPickerWithAlpha.Text = "ColorPicker +A";
+			this.buttonPickerWithAlpha.Text = Properties.StringRes.MainForm_buttonPickerWithAlpha;
 			this.buttonPickerWithAlpha.UseVisualStyleBackColor = true;
 			this.buttonPickerWithAlpha.Click += new System.EventHandler(this.buttonPickerWithAlpha_Click);
 			// 
@@ -118,7 +118,7 @@
 			this.Controls.Add(this.colorSliderHue);
 			this.Controls.Add(this.colorPanel);
 			this.Name = "MainForm";
-			this.Text = "Form1";
+			this.Text = Properties.StringRes.MainForm_			this;
 			this.ResumeLayout(false);
 
 		}

@@ -186,7 +186,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(48, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Platform:";
+            this.label1.Text = Properties.StringRes.ShareRunDialog_label1;
             // 
             // label2
             // 
@@ -196,7 +196,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(58, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Username:";
+            this.label2.Text = Properties.StringRes.ShareRunDialog_label2;
             // 
             // label3
             // 
@@ -206,7 +206,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(56, 13);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Password:";
+            this.label3.Text = Properties.StringRes.ShareRunDialog_label3;
             // 
             // label4
             // 
@@ -216,7 +216,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(38, 13);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Game:";
+            this.label4.Text = Properties.StringRes.ShareRunDialog_label4;
             // 
             // label5
             // 
@@ -226,7 +226,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(52, 13);
             this.label5.TabIndex = 4;
-            this.label5.Text = "Category:";
+            this.label5.Text = Properties.StringRes.ShareRunDialog_label5;
             // 
             // label6
             // 
@@ -236,7 +236,7 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(45, 13);
             this.label6.TabIndex = 5;
-            this.label6.Text = "Version:";
+            this.label6.Text = Properties.StringRes.ShareRunDialog_label6;
             // 
             // label7
             // 
@@ -246,7 +246,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(62, 13);
             this.label7.TabIndex = 6;
-            this.label7.Text = "Video URL:";
+            this.label7.Text = Properties.StringRes.ShareRunDialog_label7;
             // 
             // label8
             // 
@@ -256,7 +256,7 @@
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(31, 13);
             this.label8.TabIndex = 7;
-            this.label8.Text = "Text:";
+            this.label8.Text = Properties.StringRes.ShareRunDialog_label8;
             // 
             // txtNotes
             // 
@@ -303,7 +303,7 @@
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(75, 23);
             this.btnClose.TabIndex = 23;
-            this.btnClose.Text = "Close";
+            this.btnClose.Text = Properties.StringRes.ShareRunDialog_btnClose;
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
@@ -328,7 +328,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(36, 13);
             this.label9.TabIndex = 11;
-            this.label9.Text = "Insert:";
+            this.label9.Text = Properties.StringRes.ShareRunDialog_label9;
             // 
             // btnInsertGame
             // 
@@ -336,7 +336,7 @@
             this.btnInsertGame.Name = "btnInsertGame";
             this.btnInsertGame.Size = new System.Drawing.Size(75, 23);
             this.btnInsertGame.TabIndex = 12;
-            this.btnInsertGame.Text = "Game";
+            this.btnInsertGame.Text = Properties.StringRes.ShareRunDialog_btnInsertGame;
             this.btnInsertGame.UseVisualStyleBackColor = true;
             this.btnInsertGame.Click += new System.EventHandler(this.btnInsertGame_Click);
             // 
@@ -346,7 +346,7 @@
             this.btnInsertCategory.Name = "btnInsertCategory";
             this.btnInsertCategory.Size = new System.Drawing.Size(75, 23);
             this.btnInsertCategory.TabIndex = 13;
-            this.btnInsertCategory.Text = "Category";
+            this.btnInsertCategory.Text = Properties.StringRes.ShareRunDialog_btnInsertCategory;
             this.btnInsertCategory.UseVisualStyleBackColor = true;
             this.btnInsertCategory.Click += new System.EventHandler(this.btnInsertCategory_Click);
             // 
@@ -356,7 +356,7 @@
             this.btnInsertTitle.Name = "btnInsertTitle";
             this.btnInsertTitle.Size = new System.Drawing.Size(75, 23);
             this.btnInsertTitle.TabIndex = 14;
-            this.btnInsertTitle.Text = "Title";
+            this.btnInsertTitle.Text = Properties.StringRes.ShareRunDialog_btnInsertTitle;
             this.btnInsertTitle.UseVisualStyleBackColor = true;
             this.btnInsertTitle.Click += new System.EventHandler(this.btnInsertTitle_Click);
             // 
@@ -366,7 +366,7 @@
             this.btnInsertPB.Name = "btnInsertPB";
             this.btnInsertPB.Size = new System.Drawing.Size(75, 23);
             this.btnInsertPB.TabIndex = 15;
-            this.btnInsertPB.Text = "PB";
+            this.btnInsertPB.Text = Properties.StringRes.ShareRunDialog_btnInsertPB;
             this.btnInsertPB.UseVisualStyleBackColor = true;
             this.btnInsertPB.Click += new System.EventHandler(this.btnInsertPB_Click);
             // 
@@ -378,7 +378,7 @@
             this.btnPreview.Name = "btnPreview";
             this.btnPreview.Size = new System.Drawing.Size(75, 23);
             this.btnPreview.TabIndex = 16;
-            this.btnPreview.Text = "Preview...";
+            this.btnPreview.Text = Properties.StringRes.ShareRunDialog_btnPreview;
             this.btnPreview.UseVisualStyleBackColor = true;
             this.btnPreview.Click += new System.EventHandler(this.btnPreview_Click);
             // 
@@ -388,7 +388,7 @@
             this.btnInsertSplitName.Name = "btnInsertSplitName";
             this.btnInsertSplitName.Size = new System.Drawing.Size(75, 23);
             this.btnInsertSplitName.TabIndex = 17;
-            this.btnInsertSplitName.Text = "Split Name";
+            this.btnInsertSplitName.Text = Properties.StringRes.ShareRunDialog_btnInsertSplitName;
             this.btnInsertSplitName.UseVisualStyleBackColor = true;
             this.btnInsertSplitName.Click += new System.EventHandler(this.btnInsertSplitName_Click);
             // 
@@ -398,7 +398,7 @@
             this.btnInsertDeltaTime.Name = "btnInsertDeltaTime";
             this.btnInsertDeltaTime.Size = new System.Drawing.Size(75, 23);
             this.btnInsertDeltaTime.TabIndex = 18;
-            this.btnInsertDeltaTime.Text = "Delta Time";
+            this.btnInsertDeltaTime.Text = Properties.StringRes.ShareRunDialog_btnInsertDeltaTime;
             this.btnInsertDeltaTime.UseVisualStyleBackColor = true;
             this.btnInsertDeltaTime.Click += new System.EventHandler(this.btnInsertDeltaTime_Click);
             // 
@@ -408,7 +408,7 @@
             this.btnInsertSplitTime.Name = "btnInsertSplitTime";
             this.btnInsertSplitTime.Size = new System.Drawing.Size(75, 23);
             this.btnInsertSplitTime.TabIndex = 19;
-            this.btnInsertSplitTime.Text = "Split Time";
+            this.btnInsertSplitTime.Text = Properties.StringRes.ShareRunDialog_btnInsertSplitTime;
             this.btnInsertSplitTime.UseVisualStyleBackColor = true;
             this.btnInsertSplitTime.Click += new System.EventHandler(this.btnInsertSplitTime_Click);
             // 
@@ -418,7 +418,7 @@
             this.btnInsertStreamLink.Name = "btnInsertStreamLink";
             this.btnInsertStreamLink.Size = new System.Drawing.Size(75, 23);
             this.btnInsertStreamLink.TabIndex = 21;
-            this.btnInsertStreamLink.Text = "Stream Link";
+            this.btnInsertStreamLink.Text = Properties.StringRes.ShareRunDialog_btnInsertStreamLink;
             this.btnInsertStreamLink.UseVisualStyleBackColor = true;
             this.btnInsertStreamLink.Click += new System.EventHandler(this.btnInsertStreamLink_Click);
             // 
@@ -432,7 +432,7 @@
             this.chkAttachSplits.Name = "chkAttachSplits";
             this.chkAttachSplits.Size = new System.Drawing.Size(85, 17);
             this.chkAttachSplits.TabIndex = 24;
-            this.chkAttachSplits.Text = "Attach Splits";
+            this.chkAttachSplits.Text = Properties.StringRes.ShareRunDialog_chkAttachSplits;
             this.chkAttachSplits.UseVisualStyleBackColor = true;
             // 
             // btnShare
@@ -443,7 +443,7 @@
             this.btnShare.Name = "btnShare";
             this.btnShare.Size = new System.Drawing.Size(75, 23);
             this.btnShare.TabIndex = 22;
-            this.btnShare.Text = "Share";
+            this.btnShare.Text = Properties.StringRes.ShareRunDialog_btnShare;
             this.btnShare.UseVisualStyleBackColor = true;
             this.btnShare.Click += new System.EventHandler(this.btnSubmit_Click);
             // 
@@ -459,7 +459,7 @@
             this.MinimumSize = new System.Drawing.Size(508, 483);
             this.Name = "ShareRunDialog";
             this.Padding = new System.Windows.Forms.Padding(7);
-            this.Text = "Run Sharer";
+            this.Text = Properties.StringRes.ShareRunDialog;
             this.Load += new System.EventHandler(this.SubmitDialog_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();

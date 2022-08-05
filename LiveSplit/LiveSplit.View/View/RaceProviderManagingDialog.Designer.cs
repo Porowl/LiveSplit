@@ -92,7 +92,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 1;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = Properties.StringRes.RaceProviderManagingDialog_btnCancel;
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
@@ -102,7 +102,7 @@
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
             this.btnOK.TabIndex = 0;
-            this.btnOK.Text = "OK";
+            this.btnOK.Text = Properties.StringRes.RaceProviderManagingDialog_btnOK;
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
@@ -140,7 +140,7 @@
             this.websiteTextLabel.Name = "websiteTextLabel";
             this.websiteTextLabel.Size = new System.Drawing.Size(49, 17);
             this.websiteTextLabel.TabIndex = 0;
-            this.websiteTextLabel.Text = "Website:";
+            this.websiteTextLabel.Text = Properties.StringRes.RaceProviderManagingDialog_websiteTextLabel;
             this.websiteTextLabel.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.websiteTextLabel.Visible = false;
             // 
@@ -152,7 +152,7 @@
             this.rulesTextLabel.Name = "rulesTextLabel";
             this.rulesTextLabel.Size = new System.Drawing.Size(49, 17);
             this.rulesTextLabel.TabIndex = 1;
-            this.rulesTextLabel.Text = "Rules:";
+            this.rulesTextLabel.Text = Properties.StringRes.RaceProviderManagingDialog_rulesTextLabel;
             this.rulesTextLabel.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.rulesTextLabel.Visible = false;
             // 
@@ -185,7 +185,7 @@
             this.MinimumSize = new System.Drawing.Size(450, 230);
             this.Name = "RaceProviderManagingDialog";
             this.ShowIcon = false;
-            this.Text = "Manage Racing Services";
+            this.Text = Properties.StringRes.RaceProviderManagingDialog;
             this.tableLayoutPanel1.ResumeLayout(false);
             this.flowLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);

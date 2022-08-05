@@ -45,7 +45,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(245, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "The game you\'re playing was not found on Twitch.";
+            this.label1.Text = Properties.StringRes.TwitchGameResolveDialog_label1;
             // 
             // label2
             // 
@@ -54,7 +54,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(119, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Select a different game:";
+            this.label2.Text = Properties.StringRes.TwitchGameResolveDialog_label2;
             // 
             // cbxGames
             // 
@@ -72,7 +72,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 4;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = Properties.StringRes.TwitchGameResolveDialog_btnCancel;
             this.btnCancel.UseVisualStyleBackColor = true;
             // 
             // btnOK
@@ -81,7 +81,7 @@
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
             this.btnOK.TabIndex = 3;
-            this.btnOK.Text = "OK";
+            this.btnOK.Text = Properties.StringRes.TwitchGameResolveDialog_btnOK;
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
@@ -91,7 +91,7 @@
             this.btnNoGame.Name = "btnNoGame";
             this.btnNoGame.Size = new System.Drawing.Size(75, 23);
             this.btnNoGame.TabIndex = 2;
-            this.btnNoGame.Text = "No Game";
+            this.btnNoGame.Text = Properties.StringRes.TwitchGameResolveDialog_btnNoGame;
             this.btnNoGame.UseVisualStyleBackColor = true;
             this.btnNoGame.Click += new System.EventHandler(this.btnNoGame_Click);
             // 
@@ -101,7 +101,7 @@
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(75, 23);
             this.btnSearch.TabIndex = 1;
-            this.btnSearch.Text = "Search";
+            this.btnSearch.Text = Properties.StringRes.TwitchGameResolveDialog_btnSearch;
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
@@ -122,7 +122,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "TwitchGameResolveDialog";
-            this.Text = "Game Not Found";
+            this.Text = Properties.StringRes.TwitchGameResolveDialog;
             this.ResumeLayout(false);
             this.PerformLayout();
 

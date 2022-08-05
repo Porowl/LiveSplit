@@ -194,7 +194,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(69, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Game Name:";
+            this.label2.Text = Properties.StringRes.RunEditorDialog_label2;
             // 
             // label3
             // 
@@ -206,7 +206,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(75, 13);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Run Category:";
+            this.label3.Text = Properties.StringRes.RunEditorDialog_label3;
             // 
             // label1
             // 
@@ -218,7 +218,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(73, 13);
             this.label1.TabIndex = 9;
-            this.label1.Text = "Start Timer at:";
+            this.label1.Text = Properties.StringRes.RunEditorDialog_label1;
             // 
             // cbxGameName
             // 
@@ -292,7 +292,7 @@
             this.RealTime.Padding = new System.Windows.Forms.Padding(3);
             this.RealTime.Size = new System.Drawing.Size(522, 0);
             this.RealTime.TabIndex = 0;
-            this.RealTime.Text = "Real Time";
+            this.RealTime.Text = Properties.StringRes.RunEditorDialog_RealTime;
             this.RealTime.UseVisualStyleBackColor = true;
             // 
             // GameTime
@@ -302,7 +302,7 @@
             this.GameTime.Padding = new System.Windows.Forms.Padding(3);
             this.GameTime.Size = new System.Drawing.Size(522, 0);
             this.GameTime.TabIndex = 1;
-            this.GameTime.Text = "Game Time";
+            this.GameTime.Text = Properties.StringRes.RunEditorDialog_GameTime;
             this.GameTime.UseVisualStyleBackColor = true;
             // 
             // Metadata
@@ -312,7 +312,7 @@
             this.Metadata.Name = "Metadata";
             this.Metadata.Size = new System.Drawing.Size(522, 0);
             this.Metadata.TabIndex = 2;
-            this.Metadata.Text = "Additional Info";
+            this.Metadata.Text = Properties.StringRes.RunEditorDialog_Metadata;
             this.Metadata.UseVisualStyleBackColor = true;
             // 
             // metadataControl
@@ -343,7 +343,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(51, 13);
             this.label4.TabIndex = 10;
-            this.label4.Text = "Attempts:";
+            this.label4.Text = Properties.StringRes.RunEditorDialog_label4;
             // 
             // tableLayoutPanel2
             // 
@@ -371,7 +371,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 1;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = Properties.StringRes.RunEditorDialog_btnCancel;
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
@@ -383,7 +383,7 @@
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
             this.btnOK.TabIndex = 0;
-            this.btnOK.Text = "OK";
+            this.btnOK.Text = Properties.StringRes.RunEditorDialog_btnOK;
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
@@ -396,7 +396,7 @@
             this.btnOther.Name = "btnOther";
             this.btnOther.Size = new System.Drawing.Size(120, 23);
             this.btnOther.TabIndex = 19;
-            this.btnOther.Text = "Other...";
+            this.btnOther.Text = Properties.StringRes.RunEditorDialog_btnOther;
             this.btnOther.UseVisualStyleBackColor = true;
             this.btnOther.Click += new System.EventHandler(this.btnOther_Click);
             // 
@@ -409,7 +409,7 @@
             this.btnImportComparison.Name = "btnImportComparison";
             this.btnImportComparison.Size = new System.Drawing.Size(120, 23);
             this.btnImportComparison.TabIndex = 18;
-            this.btnImportComparison.Text = "Import Comparison...";
+            this.btnImportComparison.Text = Properties.StringRes.RunEditorDialog_btnImportComparison;
             this.btnImportComparison.UseVisualStyleBackColor = true;
             this.btnImportComparison.Click += new System.EventHandler(this.btnImportComparison_Click);
             // 
@@ -421,7 +421,7 @@
             this.btnAddComparison.Name = "btnAddComparison";
             this.btnAddComparison.Size = new System.Drawing.Size(120, 23);
             this.btnAddComparison.TabIndex = 17;
-            this.btnAddComparison.Text = "Add Comparison";
+            this.btnAddComparison.Text = Properties.StringRes.RunEditorDialog_btnAddComparison;
             this.btnAddComparison.UseVisualStyleBackColor = true;
             this.btnAddComparison.Click += new System.EventHandler(this.btnAddComparison_Click);
             // 
@@ -433,7 +433,7 @@
             this.btnMoveDown.Name = "btnMoveDown";
             this.btnMoveDown.Size = new System.Drawing.Size(120, 23);
             this.btnMoveDown.TabIndex = 16;
-            this.btnMoveDown.Text = "Move Down";
+            this.btnMoveDown.Text = Properties.StringRes.RunEditorDialog_btnMoveDown;
             this.btnMoveDown.UseVisualStyleBackColor = true;
             this.btnMoveDown.Click += new System.EventHandler(this.btnMoveDown_Click);
             // 
@@ -445,7 +445,7 @@
             this.btnMoveUp.Name = "btnMoveUp";
             this.btnMoveUp.Size = new System.Drawing.Size(120, 23);
             this.btnMoveUp.TabIndex = 15;
-            this.btnMoveUp.Text = "Move Up";
+            this.btnMoveUp.Text = Properties.StringRes.RunEditorDialog_btnMoveUp;
             this.btnMoveUp.UseVisualStyleBackColor = true;
             this.btnMoveUp.Click += new System.EventHandler(this.btnMoveUp_Click);
             // 
@@ -457,7 +457,7 @@
             this.btnRemove.Name = "btnRemove";
             this.btnRemove.Size = new System.Drawing.Size(120, 23);
             this.btnRemove.TabIndex = 14;
-            this.btnRemove.Text = "Remove Segment";
+            this.btnRemove.Text = Properties.StringRes.RunEditorDialog_btnRemove;
             this.btnRemove.UseVisualStyleBackColor = true;
             this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
             // 
@@ -469,7 +469,7 @@
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(120, 23);
             this.btnAdd.TabIndex = 13;
-            this.btnAdd.Text = "Insert Below";
+            this.btnAdd.Text = Properties.StringRes.RunEditorDialog_btnAdd;
             this.btnAdd.UseVisualStyleBackColor = true;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
@@ -481,7 +481,7 @@
             this.btnInsert.Name = "btnInsert";
             this.btnInsert.Size = new System.Drawing.Size(120, 23);
             this.btnInsert.TabIndex = 12;
-            this.btnInsert.Text = "Insert Above";
+            this.btnInsert.Text = Properties.StringRes.RunEditorDialog_btnInsert;
             this.btnInsert.UseVisualStyleBackColor = true;
             this.btnInsert.Click += new System.EventHandler(this.btnInsert_Click);
             // 
@@ -515,7 +515,7 @@
             this.btnBrowseLayout.Name = "btnBrowseLayout";
             this.btnBrowseLayout.Size = new System.Drawing.Size(75, 23);
             this.btnBrowseLayout.TabIndex = 1;
-            this.btnBrowseLayout.Text = "Browse";
+            this.btnBrowseLayout.Text = Properties.StringRes.RunEditorDialog_btnBrowseLayout;
             this.btnBrowseLayout.UseVisualStyleBackColor = true;
             this.btnBrowseLayout.Click += new System.EventHandler(this.btnBrowseLayout_Click);
             // 
@@ -528,7 +528,7 @@
             this.chkbxUseLayout.Name = "chkbxUseLayout";
             this.chkbxUseLayout.Size = new System.Drawing.Size(80, 17);
             this.chkbxUseLayout.TabIndex = 9;
-            this.chkbxUseLayout.Text = "Use Layout";
+            this.chkbxUseLayout.Text = Properties.StringRes.RunEditorDialog_chkbxUseLayout;
             this.chkbxUseLayout.UseVisualStyleBackColor = true;
             this.chkbxUseLayout.CheckedChanged += new System.EventHandler(this.chkbxUseLayout_CheckedChanged);
             // 
@@ -552,7 +552,7 @@
             this.btnWebsite.Name = "btnWebsite";
             this.btnWebsite.Size = new System.Drawing.Size(75, 23);
             this.btnWebsite.TabIndex = 2;
-            this.btnWebsite.Text = "Website";
+            this.btnWebsite.Text = Properties.StringRes.RunEditorDialog_btnWebsite;
             this.btnWebsite.UseVisualStyleBackColor = true;
             this.btnWebsite.Visible = false;
             this.btnWebsite.Click += new System.EventHandler(this.btnWebsite_Click);
@@ -564,7 +564,7 @@
             this.btnSettings.Name = "btnSettings";
             this.btnSettings.Size = new System.Drawing.Size(75, 23);
             this.btnSettings.TabIndex = 1;
-            this.btnSettings.Text = "Settings";
+            this.btnSettings.Text = Properties.StringRes.RunEditorDialog_btnSettings;
             this.btnSettings.UseVisualStyleBackColor = true;
             this.btnSettings.Click += new System.EventHandler(this.btnSettings_Click);
             // 
@@ -575,7 +575,7 @@
             this.btnActivate.Name = "btnActivate";
             this.btnActivate.Size = new System.Drawing.Size(75, 23);
             this.btnActivate.TabIndex = 0;
-            this.btnActivate.Text = "Activate";
+            this.btnActivate.Text = Properties.StringRes.RunEditorDialog_btnActivate;
             this.btnActivate.UseVisualStyleBackColor = true;
             this.btnActivate.Click += new System.EventHandler(this.btnActivate_Click);
             // 
@@ -589,7 +589,7 @@
             this.lblDescription.Name = "lblDescription";
             this.lblDescription.Size = new System.Drawing.Size(281, 13);
             this.lblDescription.TabIndex = 13;
-            this.lblDescription.Text = "Description";
+            this.lblDescription.Text = Properties.StringRes.RunEditorDialog_lblDescription;
             // 
             // RemoveIconMenu
             // 
@@ -606,35 +606,35 @@
             // 
             this.setIconToolStripMenuItem.Name = "setIconToolStripMenuItem";
             this.setIconToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
-            this.setIconToolStripMenuItem.Text = "Set Icon...";
+            this.setIconToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_setIconToolStripMenuItem;
             this.setIconToolStripMenuItem.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // downloadBoxartToolStripMenuItem
             // 
             this.downloadBoxartToolStripMenuItem.Name = "downloadBoxartToolStripMenuItem";
             this.downloadBoxartToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
-            this.downloadBoxartToolStripMenuItem.Text = "Download Box Art";
+            this.downloadBoxartToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_downloadBoxartToolStripMenuItem;
             this.downloadBoxartToolStripMenuItem.Click += new System.EventHandler(this.downloadBoxartToolStripMenuItem_Click);
             // 
             // downloadIconToolStripMenuItem
             // 
             this.downloadIconToolStripMenuItem.Name = "downloadIconToolStripMenuItem";
             this.downloadIconToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
-            this.downloadIconToolStripMenuItem.Text = "Download Icon";
+            this.downloadIconToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_downloadIconToolStripMenuItem;
             this.downloadIconToolStripMenuItem.Click += new System.EventHandler(this.downloadIconToolStripMenuItem_Click);
             // 
             // openFromURLMenuItem
             // 
             this.openFromURLMenuItem.Name = "openFromURLMenuItem";
             this.openFromURLMenuItem.Size = new System.Drawing.Size(170, 22);
-            this.openFromURLMenuItem.Text = "Open from URL...";
+            this.openFromURLMenuItem.Text = Properties.StringRes.RunEditorDialog_openFromURLMenuItem;
             this.openFromURLMenuItem.Click += new System.EventHandler(this.openFromURLMenuItem_Click);
             // 
             // removeIconToolStripMenuItem
             // 
             this.removeIconToolStripMenuItem.Name = "removeIconToolStripMenuItem";
             this.removeIconToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
-            this.removeIconToolStripMenuItem.Text = "Remove Icon";
+            this.removeIconToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_removeIconToolStripMenuItem;
             this.removeIconToolStripMenuItem.Click += new System.EventHandler(this.removeIconToolStripMenuItem_Click);
             // 
             // ImportComparisonMenu
@@ -650,21 +650,21 @@
             // 
             this.fromFileToolStripMenuItem.Name = "fromFileToolStripMenuItem";
             this.fromFileToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
-            this.fromFileToolStripMenuItem.Text = "From File...";
+            this.fromFileToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_fromFileToolStripMenuItem;
             this.fromFileToolStripMenuItem.Click += new System.EventHandler(this.fromFileToolStripMenuItem_Click);
             // 
             // fromURLToolStripMenuItem
             // 
             this.fromURLToolStripMenuItem.Name = "fromURLToolStripMenuItem";
             this.fromURLToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
-            this.fromURLToolStripMenuItem.Text = "From URL...";
+            this.fromURLToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_fromURLToolStripMenuItem;
             this.fromURLToolStripMenuItem.Click += new System.EventHandler(this.fromURLToolStripMenuItem_Click);
             // 
             // fromSpeedruncomToolStripMenuItem
             // 
             this.fromSpeedruncomToolStripMenuItem.Name = "fromSpeedruncomToolStripMenuItem";
             this.fromSpeedruncomToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
-            this.fromSpeedruncomToolStripMenuItem.Text = "From Speedrun.com...";
+            this.fromSpeedruncomToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_fromSpeedruncomToolStripMenuItem;
             this.fromSpeedruncomToolStripMenuItem.Click += new System.EventHandler(this.fromSpeedruncomToolStripMenuItem_Click);
             // 
             // OtherMenu
@@ -680,21 +680,21 @@
             // 
             this.clearHistoryToolStripMenuItem.Name = "clearHistoryToolStripMenuItem";
             this.clearHistoryToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
-            this.clearHistoryToolStripMenuItem.Text = "Clear History";
+            this.clearHistoryToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_clearHistoryToolStripMenuItem;
             this.clearHistoryToolStripMenuItem.Click += new System.EventHandler(this.clearHistoryToolStripMenuItem_Click);
             // 
             // clearTimesToolStripMenuItem
             // 
             this.clearTimesToolStripMenuItem.Name = "clearTimesToolStripMenuItem";
             this.clearTimesToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
-            this.clearTimesToolStripMenuItem.Text = "Clear Times";
+            this.clearTimesToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_clearTimesToolStripMenuItem;
             this.clearTimesToolStripMenuItem.Click += new System.EventHandler(this.clearTimesToolStripMenuItem_Click);
             // 
             // cleanSumOfBestToolStripMenuItem
             // 
             this.cleanSumOfBestToolStripMenuItem.Name = "cleanSumOfBestToolStripMenuItem";
             this.cleanSumOfBestToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
-            this.cleanSumOfBestToolStripMenuItem.Text = "Clean Sum of Best";
+            this.cleanSumOfBestToolStripMenuItem.Text = Properties.StringRes.RunEditorDialog_cleanSumOfBestToolStripMenuItem;
             this.cleanSumOfBestToolStripMenuItem.Click += new System.EventHandler(this.cleanSumOfBestToolStripMenuItem_Click);
             // 
             // iRunBindingSource
@@ -714,7 +714,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimumSize = new System.Drawing.Size(700, 510);
             this.Name = "RunEditorDialog";
-            this.Text = "Splits Editor";
+            this.Text = Properties.StringRes.RunEditorDialog;
             this.Load += new System.EventHandler(this.RunEditorDialog_Load);
             ((System.ComponentModel.ISupportInitialize)(this.runGrid)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);

@@ -1,0 +1,2076 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BlankSpaceSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="BlankSpaceSettings.lblSize" xml:space="preserve">
+    <value>Height:</value>
+  </data>
+  <data name="CounterComponentSettings.groupBox2" xml:space="preserve">
+    <value>Counter Colors</value>
+  </data>
+  <data name="CounterComponentSettings.chkColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="CounterComponentSettings.label3" xml:space="preserve">
+    <value>Text Color:</value>
+  </data>
+  <data name="CounterComponentSettings.label5" xml:space="preserve">
+    <value>Value Color:</value>
+  </data>
+  <data name="CounterComponentSettings.groupBox1" xml:space="preserve">
+    <value>Counter Font</value>
+  </data>
+  <data name="CounterComponentSettings.lblFont" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="CounterComponentSettings.btnFont" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="CounterComponentSettings.chkFont" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="CounterComponentSettings.label1" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="CounterComponentSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="CounterComponentSettings.groupBox4" xml:space="preserve">
+    <value>Counter</value>
+  </data>
+  <data name="CounterComponentSettings.groupBox3" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="CounterComponentSettings.lblCounterIncrement" xml:space="preserve">
+    <value>Increment Counter:</value>
+  </data>
+  <data name="CounterComponentSettings.lblCounterDecrement" xml:space="preserve">
+    <value>Decrement Counter:</value>
+  </data>
+  <data name="CounterComponentSettings.lblCounterReset" xml:space="preserve">
+    <value>Reset Counter:</value>
+  </data>
+  <data name="CounterComponentSettings.chkGlobalHotKeys" xml:space="preserve">
+    <value>Global Counter Hotkeys</value>
+  </data>
+  <data name="CounterComponentSettings.label2" xml:space="preserve">
+    <value>Counter Text:</value>
+  </data>
+  <data name="CounterComponentSettings.label4" xml:space="preserve">
+    <value>Initial Value:</value>
+  </data>
+  <data name="CounterComponentSettings.lblIncrementValue" xml:space="preserve">
+    <value>Increment Value:</value>
+  </data>
+  <data name="CurrentComparisonSettings.groupBox1" xml:space="preserve">
+    <value>Comparing Against Label</value>
+  </data>
+  <data name="CurrentComparisonSettings.groupBox4" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="CurrentComparisonSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="CurrentComparisonSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="CurrentComparisonSettings.groupBox2" xml:space="preserve">
+    <value>Comparison Text</value>
+  </data>
+  <data name="CurrentComparisonSettings.groupBox3" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="CurrentComparisonSettings.chkOverrideTimeColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="CurrentComparisonSettings.label2" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="CurrentComparisonSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="CurrentComparisonSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="DeltaSettings.groupBox4" xml:space="preserve">
+    <value>Delta Accuracy</value>
+  </data>
+  <data name="DeltaSettings.rdoSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="DeltaSettings.rdoTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="DeltaSettings.rdoHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="DeltaSettings.chkDropDecimals" xml:space="preserve">
+    <value>Drop Decimals When More Than 1 Minute</value>
+  </data>
+  <data name="DeltaSettings.label12" xml:space="preserve">
+    <value>Comparison:</value>
+  </data>
+  <data name="DeltaSettings.groupBox1" xml:space="preserve">
+    <value>Text Color</value>
+  </data>
+  <data name="DeltaSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="DeltaSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="DeltaSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="DeltaSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="DetailedTimerSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox9" xml:space="preserve">
+    <value>Icon</value>
+  </data>
+  <data name="DetailedTimerSettings.chkDisplayIcon" xml:space="preserve">
+    <value>Display Icon</value>
+  </data>
+  <data name="DetailedTimerSettings.label7" xml:space="preserve">
+    <value>Size:</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox1" xml:space="preserve">
+    <value>Timer</value>
+  </data>
+  <data name="DetailedTimerSettings.label15" xml:space="preserve">
+    <value>Format:</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox2" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="DetailedTimerSettings.chkOverrideTimerColors" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="DetailedTimerSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="DetailedTimerSettings.chkShowGradientTimer" xml:space="preserve">
+    <value>Show Gradient</value>
+  </data>
+  <data name="DetailedTimerSettings.label17" xml:space="preserve">
+    <value>Decimals Font Size:</value>
+  </data>
+  <data name="DetailedTimerSettings.lblSize" xml:space="preserve">
+    <value>Height:</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox3" xml:space="preserve">
+    <value>Segment Timer</value>
+  </data>
+  <data name="DetailedTimerSettings.chkShowGradientSegmentTimer" xml:space="preserve">
+    <value>Show Gradient</value>
+  </data>
+  <data name="DetailedTimerSettings.label2" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="DetailedTimerSettings.label14" xml:space="preserve">
+    <value>Format:</value>
+  </data>
+  <data name="DetailedTimerSettings.label18" xml:space="preserve">
+    <value>Decimals Font Size:</value>
+  </data>
+  <data name="DetailedTimerSettings.label5" xml:space="preserve">
+    <value>Segment Timer Size:</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox7" xml:space="preserve">
+    <value>Segment Labels</value>
+  </data>
+  <data name="DetailedTimerSettings.label3" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="DetailedTimerSettings.label6" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="DetailedTimerSettings.lblSegmentLabelsFont" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="DetailedTimerSettings.btnSegmentLabelsFont" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox8" xml:space="preserve">
+    <value>Segment Times</value>
+  </data>
+  <data name="DetailedTimerSettings.label8" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox6" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="DetailedTimerSettings.btnSegmentTimesHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="DetailedTimerSettings.btnSegmentTimesTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="DetailedTimerSettings.btnSegmentTimesSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="DetailedTimerSettings.lblSegmentTimesFont" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="DetailedTimerSettings.btnSegmentTimesFont" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="DetailedTimerSettings.label4" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox10" xml:space="preserve">
+    <value>Split Name</value>
+  </data>
+  <data name="DetailedTimerSettings.chkSplitName" xml:space="preserve">
+    <value>Show Split Name</value>
+  </data>
+  <data name="DetailedTimerSettings.label9" xml:space="preserve">
+    <value>Split Name Color:</value>
+  </data>
+  <data name="DetailedTimerSettings.label10" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="DetailedTimerSettings.lblSplitNameFont" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="DetailedTimerSettings.btnSplitNameFont" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="DetailedTimerSettings.groupBox11" xml:space="preserve">
+    <value>Segment Time Comparisons</value>
+  </data>
+  <data name="DetailedTimerSettings.label12" xml:space="preserve">
+    <value>Comparison 1:</value>
+  </data>
+  <data name="DetailedTimerSettings.chkHideComparison" xml:space="preserve">
+    <value>Hide Comparison 2</value>
+  </data>
+  <data name="DetailedTimerSettings.label13" xml:space="preserve">
+    <value>Comparison 2:</value>
+  </data>
+  <data name="DetailedTimerSettings.label16" xml:space="preserve">
+    <value>Timing Method:</value>
+  </data>
+  <data name="GraphSettings.heightLabel" xml:space="preserve">
+    <value>Height:</value>
+  </data>
+  <data name="GraphSettings.label1" xml:space="preserve">
+    <value>Behind Background Color:</value>
+  </data>
+  <data name="GraphSettings.label2" xml:space="preserve">
+    <value>Ahead Background Color:</value>
+  </data>
+  <data name="GraphSettings.label3" xml:space="preserve">
+    <value>Gridlines Color:</value>
+  </data>
+  <data name="GraphSettings.label4" xml:space="preserve">
+    <value>Main Graph Color:</value>
+  </data>
+  <data name="GraphSettings.label5" xml:space="preserve">
+    <value>Partial Fill Color (Behind):</value>
+  </data>
+  <data name="GraphSettings.label6" xml:space="preserve">
+    <value>Complete Fill Color (Behind):</value>
+  </data>
+  <data name="GraphSettings.chkLiveGraph" xml:space="preserve">
+    <value>Live Graph</value>
+  </data>
+  <data name="GraphSettings.label8" xml:space="preserve">
+    <value>Separators Color:</value>
+  </data>
+  <data name="GraphSettings.label7" xml:space="preserve">
+    <value>Shadows Color:</value>
+  </data>
+  <data name="GraphSettings.label9" xml:space="preserve">
+    <value>Partial Fill Color (Ahead):</value>
+  </data>
+  <data name="GraphSettings.label10" xml:space="preserve">
+    <value>Complete Fill Color (Ahead):</value>
+  </data>
+  <data name="GraphSettings.chkFlipGraph" xml:space="preserve">
+    <value>Flip Graph</value>
+  </data>
+  <data name="GraphSettings.label12" xml:space="preserve">
+    <value>Comparison:</value>
+  </data>
+  <data name="GraphSettings.chkShowBestSegments" xml:space="preserve">
+    <value>Show Best Segments</value>
+  </data>
+  <data name="GraphSettings.lblBestSegmentColor" xml:space="preserve">
+    <value>Best Segment Color:</value>
+  </data>
+  <data name="HotkeyIndicatorSettings.label11" xml:space="preserve">
+    <value>Global Hotkeys On Color:</value>
+  </data>
+  <data name="HotkeyIndicatorSettings.label1" xml:space="preserve">
+    <value>Global Hotkeys Off Color:</value>
+  </data>
+  <data name="ManualGameTimeSettings.groupBox4" xml:space="preserve">
+    <value>Game Time Input</value>
+  </data>
+  <data name="ManualGameTimeSettings.rdoSegmentTimes" xml:space="preserve">
+    <value>Segment Times</value>
+  </data>
+  <data name="ManualGameTimeSettings.rdoSplitTimes" xml:space="preserve">
+    <value>Split Times</value>
+  </data>
+  <data name="ShitSplitter" xml:space="preserve">
+    <value>Enter Game Time</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.label12" xml:space="preserve">
+    <value>Comparison:</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.groupBox1" xml:space="preserve">
+    <value>Text Color</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.groupBox2" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.groupBox4" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.chkDropDecimals" xml:space="preserve">
+    <value>Drop Decimals When More Than 1 Minute</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.rdoTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.rdoHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.rdoSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.groupBox3" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.chkOverrideTimeColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.label2" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="PossibleTimeSaveSettings.chkTotalTimeSave" xml:space="preserve">
+    <value>Show Total Possible Time Save</value>
+  </data>
+  <data name="PreviousSegmentSettings.groupBox6" xml:space="preserve">
+    <value>Delta Accuracy</value>
+  </data>
+  <data name="PreviousSegmentSettings.groupBox7" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="PreviousSegmentSettings.rdoDeltaSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="PreviousSegmentSettings.rdoDeltaTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="PreviousSegmentSettings.rdoDeltaHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="PreviousSegmentSettings.chkDropDecimals" xml:space="preserve">
+    <value>Drop Decimals When More Than 1 Minute</value>
+  </data>
+  <data name="PreviousSegmentSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="PreviousSegmentSettings.groupBox1" xml:space="preserve">
+    <value>Text Color</value>
+  </data>
+  <data name="PreviousSegmentSettings.chkOverride" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="PreviousSegmentSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="PreviousSegmentSettings.label12" xml:space="preserve">
+    <value>Comparison:</value>
+  </data>
+  <data name="PreviousSegmentSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="PreviousSegmentSettings.chkPossibleTimeSave" xml:space="preserve">
+    <value>Show Possible Time Save</value>
+  </data>
+  <data name="PreviousSegmentSettings.groupBox2" xml:space="preserve">
+    <value>Possible Time Save</value>
+  </data>
+  <data name="PreviousSegmentSettings.boxTimeSaveAccuracy" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="PreviousSegmentSettings.rdoTimeSaveSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="PreviousSegmentSettings.rdoTimeSaveTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="PreviousSegmentSettings.rdoTimeSaveHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="RacetimeSettingsControl.label1" xml:space="preserve">
+    <value>There are no options available for this racing service.</value>
+  </data>
+  <data name="ChannelForm.loadMessage" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="ChannelForm" xml:space="preserve">
+    <value>ChannelWindow</value>
+  </data>
+  <data name="RunPredictionSettings.label12" xml:space="preserve">
+    <value>Comparison:</value>
+  </data>
+  <data name="RunPredictionSettings.groupBox1" xml:space="preserve">
+    <value>Text Color</value>
+  </data>
+  <data name="RunPredictionSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="RunPredictionSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="RunPredictionSettings.groupBox2" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="RunPredictionSettings.groupBox4" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="RunPredictionSettings.rdoSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="RunPredictionSettings.rdoTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="RunPredictionSettings.rdoHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="RunPredictionSettings.groupBox3" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="RunPredictionSettings.chkOverrideTimeColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="RunPredictionSettings.label2" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="RunPredictionSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="RunPredictionSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="ComponentSettings.labelScriptPath" xml:space="preserve">
+    <value>Script Path:</value>
+  </data>
+  <data name="ComponentSettings.btnSelectFile" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="ComponentSettings.btnCheckAll" xml:space="preserve">
+    <value>Check All</value>
+  </data>
+  <data name="ComponentSettings.btnUncheckAll" xml:space="preserve">
+    <value>Uncheck All</value>
+  </data>
+  <data name="ComponentSettings.btnResetToDefault" xml:space="preserve">
+    <value>Reset to Default</value>
+  </data>
+  <data name="ComponentSettings.checkboxStart" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="ComponentSettings.checkboxSplit" xml:space="preserve">
+    <value>Split</value>
+  </data>
+  <data name="ComponentSettings.checkboxReset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="ComponentSettings.lblGameVersion" xml:space="preserve">
+    <value>Game Version: 1.0</value>
+  </data>
+  <data name="ComponentSettings.labelOptions" xml:space="preserve">
+    <value>Options:</value>
+  </data>
+  <data name="ComponentSettings.labelCustomSettings" xml:space="preserve">
+    <value>Advanced:</value>
+  </data>
+  <data name="ComponentSettings.cmiExpandTree" xml:space="preserve">
+    <value>Expand Tree</value>
+  </data>
+  <data name="ComponentSettings.cmiCollapseTree" xml:space="preserve">
+    <value>Collapse Tree</value>
+  </data>
+  <data name="ComponentSettings.cmiCollapseTreeToSelection" xml:space="preserve">
+    <value>Collapse Tree to Selection</value>
+  </data>
+  <data name="ComponentSettings.cmiExpandBranch" xml:space="preserve">
+    <value>Expand Branch</value>
+  </data>
+  <data name="ComponentSettings.cmiCollapseBranch" xml:space="preserve">
+    <value>Collapse Branch</value>
+  </data>
+  <data name="ComponentSettings.cmiCheckBranch" xml:space="preserve">
+    <value>Check Branch</value>
+  </data>
+  <data name="ComponentSettings.cmiUncheckBranch" xml:space="preserve">
+    <value>Uncheck Branch</value>
+  </data>
+  <data name="ComponentSettings.cmiResetBranchToDefault" xml:space="preserve">
+    <value>Reset Branch to Default</value>
+  </data>
+  <data name="ComponentSettings.cmiExpandTree2" xml:space="preserve">
+    <value>Expand Tree</value>
+  </data>
+  <data name="ComponentSettings.cmiCollapseTree2" xml:space="preserve">
+    <value>Collapse Tree</value>
+  </data>
+  <data name="ComponentSettings.cmiCollapseTreeToSelection2" xml:space="preserve">
+    <value>Collapse Tree to Selection</value>
+  </data>
+  <data name="ComponentSettings.cmiResetSettingToDefault" xml:space="preserve">
+    <value>Reset Setting to Default</value>
+  </data>
+  <data name="ComponentSettings.resetSettingToDefaultToolStripMenuItem" xml:space="preserve">
+    <value>Reset Setting to Default</value>
+  </data>
+  <data name="Settings.label1" xml:space="preserve">
+    <value>Port:</value>
+  </data>
+  <data name="Settings.label2" xml:space="preserve">
+    <value>Local IP(s):</value>
+  </data>
+  <data name="Settings.label3" xml:space="preserve">
+    <value>IP Address</value>
+  </data>
+  <data name="Settings.label4" xml:space="preserve">
+    <value>This is NOT your public IP. With most network setups, only devices on your networ"</value>
+  </data>
+  <data name="SoundSettings.tpSoundFiles" xml:space="preserve">
+    <value>Sound Files</value>
+  </data>
+  <data name="SoundSettings.label14" xml:space="preserve">
+    <value>Start Timer:</value>
+  </data>
+  <data name="SoundSettings.label13" xml:space="preserve">
+    <value>Resume:</value>
+  </data>
+  <data name="SoundSettings.label12" xml:space="preserve">
+    <value>Pause:</value>
+  </data>
+  <data name="SoundSettings.label11" xml:space="preserve">
+    <value>Reset:</value>
+  </data>
+  <data name="SoundSettings.label10" xml:space="preserve">
+    <value>Not a Personal Best:</value>
+  </data>
+  <data name="SoundSettings.label9" xml:space="preserve">
+    <value>Personal Best:</value>
+  </data>
+  <data name="SoundSettings.label8" xml:space="preserve">
+    <value>Skip Split:</value>
+  </data>
+  <data name="SoundSettings.label7" xml:space="preserve">
+    <value>Undo Split:</value>
+  </data>
+  <data name="SoundSettings.label5" xml:space="preserve">
+    <value>Split (Best Segment):</value>
+  </data>
+  <data name="SoundSettings.label6" xml:space="preserve">
+    <value>Split (Behind, Losing Time):</value>
+  </data>
+  <data name="SoundSettings.label4" xml:space="preserve">
+    <value>Split (Behind, Gaining Time):</value>
+  </data>
+  <data name="SoundSettings.label3" xml:space="preserve">
+    <value>Split (Ahead, Losing Time):</value>
+  </data>
+  <data name="SoundSettings.label2" xml:space="preserve">
+    <value>Split (Ahead, Gaining Time):</value>
+  </data>
+  <data name="SoundSettings.label1" xml:space="preserve">
+    <value>Split:</value>
+  </data>
+  <data name="SoundSettings.btnResume" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnPause" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnReset" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnNotAPersonalBest" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnPersonalBest" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnSkipSplit" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnUndo" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnBestSegment" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnBehindLosing" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnBehindGaining" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnAheadLosing" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnAheadGaining" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnSplit" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.btnStartTimer" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="SoundSettings.tpVolumeMixer" xml:space="preserve">
+    <value>Volume Mixer</value>
+  </data>
+  <data name="SoundSettings.label16" xml:space="preserve">
+    <value>Start Timer:</value>
+  </data>
+  <data name="SoundSettings.label17" xml:space="preserve">
+    <value>Resume:</value>
+  </data>
+  <data name="SoundSettings.label18" xml:space="preserve">
+    <value>Pause:</value>
+  </data>
+  <data name="SoundSettings.label19" xml:space="preserve">
+    <value>Reset:</value>
+  </data>
+  <data name="SoundSettings.label20" xml:space="preserve">
+    <value>Not a Personal Best:</value>
+  </data>
+  <data name="SoundSettings.label21" xml:space="preserve">
+    <value>Personal Best:</value>
+  </data>
+  <data name="SoundSettings.label22" xml:space="preserve">
+    <value>Skip Split:</value>
+  </data>
+  <data name="SoundSettings.label23" xml:space="preserve">
+    <value>Undo Split:</value>
+  </data>
+  <data name="SoundSettings.label24" xml:space="preserve">
+    <value>Split (Best Segment):</value>
+  </data>
+  <data name="SoundSettings.label25" xml:space="preserve">
+    <value>Split (Behind, Losing Time):</value>
+  </data>
+  <data name="SoundSettings.label26" xml:space="preserve">
+    <value>Split (Behind, Gaining Time):</value>
+  </data>
+  <data name="SoundSettings.label27" xml:space="preserve">
+    <value>Split (Ahead, Losing Time):</value>
+  </data>
+  <data name="SoundSettings.label28" xml:space="preserve">
+    <value>Split (Ahead, Gaining Time):</value>
+  </data>
+  <data name="SoundSettings.label29" xml:space="preserve">
+    <value>Split:</value>
+  </data>
+  <data name="SoundSettings.label15" xml:space="preserve">
+    <value>General Volume:</value>
+  </data>
+  <data name="SoundSettings.label30" xml:space="preserve">
+    <value>Output Device:</value>
+  </data>
+  <data name="ColumnSettings.label1" xml:space="preserve">
+    <value>Name:</value>
+  </data>
+  <data name="ColumnSettings.label2" xml:space="preserve">
+    <value>Timing Method:</value>
+  </data>
+  <data name="ColumnSettings.label3" xml:space="preserve">
+    <value>Column Type:</value>
+  </data>
+  <data name="ColumnSettings.label4" xml:space="preserve">
+    <value>Comparison:</value>
+  </data>
+  <data name="ColumnSettings.btnRemoveColumn" xml:space="preserve">
+    <value>Remove Column</value>
+  </data>
+  <data name="ColumnSettings.btnMoveDown" xml:space="preserve">
+    <value>Move Down</value>
+  </data>
+  <data name="ColumnSettings.btnMoveUp" xml:space="preserve">
+    <value>Move Up</value>
+  </data>
+  <data name="ColumnSettings.groupColumn" xml:space="preserve">
+    <value>Column Name</value>
+  </data>
+  <data name="SplitsSettings.label4" xml:space="preserve">
+    <value>Current Split Background Color:</value>
+  </data>
+  <data name="SplitsSettings.label1" xml:space="preserve">
+    <value>Total Splits:</value>
+  </data>
+  <data name="SplitsSettings.label2" xml:space="preserve">
+    <value>Upcoming Splits:</value>
+  </data>
+  <data name="SplitsSettings.chkThinSeparators" xml:space="preserve">
+    <value>Show Thin Separators</value>
+  </data>
+  <data name="SplitsSettings.chkLastSplit" xml:space="preserve">
+    <value>Always Show Last Split</value>
+  </data>
+  <data name="SplitsSettings.groupBox3" xml:space="preserve">
+    <value>Icons</value>
+  </data>
+  <data name="SplitsSettings.chkDisplayIcons" xml:space="preserve">
+    <value>Display Icons</value>
+  </data>
+  <data name="SplitsSettings.label5" xml:space="preserve">
+    <value>Size:</value>
+  </data>
+  <data name="SplitsSettings.chkIconShadows" xml:space="preserve">
+    <value>Icon Shadows</value>
+  </data>
+  <data name="SplitsSettings.groupBox4" xml:space="preserve">
+    <value>Split Times</value>
+  </data>
+  <data name="SplitsSettings.groupBox5" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="SplitsSettings.label9" xml:space="preserve">
+    <value>Color (Current Split):</value>
+  </data>
+  <data name="SplitsSettings.label7" xml:space="preserve">
+    <value>Color (After Current Split):</value>
+  </data>
+  <data name="SplitsSettings.chkOverrideTimesColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="SplitsSettings.label6" xml:space="preserve">
+    <value>Color (Before Current Split):</value>
+  </data>
+  <data name="SplitsSettings.groupBox1" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="SplitsSettings.rdoSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="SplitsSettings.rdoTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="SplitsSettings.rdoHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="SplitsSettings.lblSplitSize" xml:space="preserve">
+    <value>Horizontal Split Width:</value>
+  </data>
+  <data name="SplitsSettings.chkSeparatorLastSplit" xml:space="preserve">
+    <value>Show Separator Before Last Split</value>
+  </data>
+  <data name="SplitsSettings.groupBox6" xml:space="preserve">
+    <value>Deltas</value>
+  </data>
+  <data name="SplitsSettings.groupBox8" xml:space="preserve">
+    <value>Live Delta Color</value>
+  </data>
+  <data name="SplitsSettings.chkOverrideDeltaColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="SplitsSettings.label8" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="SplitsSettings.groupBox7" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="SplitsSettings.rdoDeltaSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="SplitsSettings.chkDropDecimals" xml:space="preserve">
+    <value>Drop Decimals When More Than 1 Minute</value>
+  </data>
+  <data name="SplitsSettings.rdoDeltaTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="SplitsSettings.rdoDeltaHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="SplitsSettings.chkLockLastSplit" xml:space="preserve">
+    <value>Lock Last Split to Bottom</value>
+  </data>
+  <data name="SplitsSettings.chkShowBlankSplits" xml:space="preserve">
+    <value>Fill with Blank Space if Not Enough Splits</value>
+  </data>
+  <data name="SplitsSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="SplitsSettings.chkDisplayRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="SplitsSettings.groupColumns" xml:space="preserve">
+    <value>Columns</value>
+  </data>
+  <data name="SplitsSettings.chkColumnLabels" xml:space="preserve">
+    <value>Show Column Labels</value>
+  </data>
+  <data name="SplitsSettings.btnAddColumn" xml:space="preserve">
+    <value>Add Column</value>
+  </data>
+  <data name="SplitsSettings.lblLabelsColor" xml:space="preserve">
+    <value>Labels Color:</value>
+  </data>
+  <data name="SplitsSettings.groupBox9a" xml:space="preserve">
+    <value>Split Names</value>
+  </data>
+  <data name="SplitsSettings.groupBox2" xml:space="preserve">
+    <value>Split Names Color</value>
+  </data>
+  <data name="SplitsSettings.label13" xml:space="preserve">
+    <value>Color (After Current Split):</value>
+  </data>
+  <data name="SplitsSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="SplitsSettings.label3" xml:space="preserve">
+    <value>Color (Before Current Split):</value>
+  </data>
+  <data name="SplitsSettings.label10" xml:space="preserve">
+    <value>Color (Current Split):</value>
+  </data>
+  <data name="SplitsSettings.chkAutomaticAbbreviations" xml:space="preserve">
+    <value>Automatically Abbreviate Names If Necessary</value>
+  </data>
+  <data name="SplitsSettings.chkIndentBlankIcons" xml:space="preserve">
+    <value>Indent Blank Icons</value>
+  </data>
+  <data name="SplitsSettings.GroupBox9b" xml:space="preserve">
+    <value>Subsplits</value>
+  </data>
+  <data name="SplitsSettings.groupBox11" xml:space="preserve">
+    <value>Section Header</value>
+  </data>
+  <data name="SplitsSettings.groupBox13" xml:space="preserve">
+    <value>Section Timer</value>
+  </data>
+  <data name="SplitsSettings.groupBox14" xml:space="preserve">
+    <value>Timer Accuracy</value>
+  </data>
+  <data name="SplitsSettings.rdoSectionTimerAccuracySeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="SplitsSettings.rdoSectionTimerAccuracyTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="SplitsSettings.rdoSectionTimerAccuracyHundreths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="SplitsSettings.chkSectionTimer" xml:space="preserve">
+    <value>Show Section Timer</value>
+  </data>
+  <data name="SplitsSettings.label19" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="SplitsSettings.chkSectionTimerGradient" xml:space="preserve">
+    <value>Show Gradient</value>
+  </data>
+  <data name="SplitsSettings.groupBox12" xml:space="preserve">
+    <value>Section Header Color</value>
+  </data>
+  <data name="SplitsSettings.groupBox15" xml:space="preserve">
+    <value>Time Accuracy</value>
+  </data>
+  <data name="SplitsSettings.rdoHeaderAccuracySeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="SplitsSettings.rdoHeaderAccuracyTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="SplitsSettings.rdoHeaderAccuracyHundreths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="SplitsSettings.label18" xml:space="preserve">
+    <value>Time Color</value>
+  </data>
+  <data name="SplitsSettings.chkHeaderTimes" xml:space="preserve">
+    <value>Show Total Section Time</value>
+  </data>
+  <data name="SplitsSettings.label17" xml:space="preserve">
+    <value>Name Color</value>
+  </data>
+  <data name="SplitsSettings.label16" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="SplitsSettings.chkOverrideHeaderColor" xml:space="preserve">
+    <value>Override Layout Text Colors</value>
+  </data>
+  <data name="SplitsSettings.chkHeaderText" xml:space="preserve">
+    <value>Show Split Name</value>
+  </data>
+  <data name="SplitsSettings.lblTimingMethod" xml:space="preserve">
+    <value>Timing Method:</value>
+  </data>
+  <data name="SplitsSettings.chkShowHeader" xml:space="preserve">
+    <value>Show Section Header</value>
+  </data>
+  <data name="SplitsSettings.lblComparison" xml:space="preserve">
+    <value>Comparison:</value>
+  </data>
+  <data name="SplitsSettings.chkShowSectionIcon" xml:space="preserve">
+    <value>Show Icon</value>
+  </data>
+  <data name="SplitsSettings.chkShowIconSectionSplit" xml:space="preserve">
+    <value>Show Icon of Last Split of Section</value>
+  </data>
+  <data name="SplitsSettings.chkIndentSectionSplit" xml:space="preserve">
+    <value>Indent Last Split Of Section</value>
+  </data>
+  <data name="SplitsSettings.groupBox10" xml:space="preserve">
+    <value>Subsplit Color</value>
+  </data>
+  <data name="SplitsSettings.label15" xml:space="preserve">
+    <value>Subsplit Background Color:</value>
+  </data>
+  <data name="SplitsSettings.chkOverrideSubsplitColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="SplitsSettings.label14" xml:space="preserve">
+    <value>To set a split as a subsplit, add a - (dash) to the beginning of the split name.\r"</value>
+  </data>
+  <data name="SplitsSettings.rdoHideSubsplits" xml:space="preserve">
+    <value>Always Hide Subsplits</value>
+  </data>
+  <data name="SplitsSettings.rdoNormalSubsplits" xml:space="preserve">
+    <value>Contextual Subsplits</value>
+  </data>
+  <data name="SplitsSettings.rdoShowSubsplits" xml:space="preserve">
+    <value>Always Show Subsplits</value>
+  </data>
+  <data name="SplitsSettings.chkIndentSubsplits" xml:space="preserve">
+    <value>Indent Subsplits</value>
+  </data>
+  <data name="SplitsSettings.chkCurrentSectionOnly" xml:space="preserve">
+    <value>Only Current Section</value>
+  </data>
+  <data name="SplitsSettings.lblMinimumMajorSplits" xml:space="preserve">
+    <value>Minimum Number of Sections Before Current Section:</value>
+  </data>
+  <data name="SumOfBestSettings.groupBox1" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="SumOfBestSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="SumOfBestSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="SumOfBestSettings.groupBox2" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="SumOfBestSettings.groupBox4" xml:space="preserve">
+    <value>Accuracy</value>
+  </data>
+  <data name="SumOfBestSettings.rdoSeconds" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="SumOfBestSettings.rdoTenths" xml:space="preserve">
+    <value>Tenths</value>
+  </data>
+  <data name="SumOfBestSettings.rdoHundredths" xml:space="preserve">
+    <value>Hundredths</value>
+  </data>
+  <data name="SumOfBestSettings.groupBox3" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="SumOfBestSettings.chkOverrideTimeColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="SumOfBestSettings.label2" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="SumOfBestSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="SumOfBestSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="TextComponentSettings.groupBox1" xml:space="preserve">
+    <value>Left Text</value>
+  </data>
+  <data name="TextComponentSettings.groupBox5" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="TextComponentSettings.lblFont" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="TextComponentSettings.btnFont" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="TextComponentSettings.chkFont" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TextComponentSettings.label5" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="TextComponentSettings.groupBox4" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="TextComponentSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TextComponentSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="TextComponentSettings.label3" xml:space="preserve">
+    <value>Text:</value>
+  </data>
+  <data name="TextComponentSettings.groupBox2" xml:space="preserve">
+    <value>Right Text</value>
+  </data>
+  <data name="TextComponentSettings.groupBox6" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="TextComponentSettings.lblFont2" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="TextComponentSettings.btnFont2" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="TextComponentSettings.chkFont2" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TextComponentSettings.label7" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="TextComponentSettings.label4" xml:space="preserve">
+    <value>Text:</value>
+  </data>
+  <data name="TextComponentSettings.groupBox3" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="TextComponentSettings.chkOverrideTimeColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TextComponentSettings.label2" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="TextComponentSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="TextComponentSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="TimerSettings.lblSize" xml:space="preserve">
+    <value>Height:</value>
+  </data>
+  <data name="TimerSettings.chkGradient" xml:space="preserve">
+    <value>Show Gradient</value>
+  </data>
+  <data name="TimerSettings.groupBox2" xml:space="preserve">
+    <value>Timer Color</value>
+  </data>
+  <data name="TimerSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="TimerSettings.chkOverrideTimerColors" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TimerSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="TimerSettings.chkCenterTimer" xml:space="preserve">
+    <value>Align to Center</value>
+  </data>
+  <data name="TimerSettings.label2" xml:space="preserve">
+    <value>Timing Method:</value>
+  </data>
+  <data name="TimerSettings.label3" xml:space="preserve">
+    <value>Timer Format:</value>
+  </data>
+  <data name="TimerSettings.label4" xml:space="preserve">
+    <value>Decimals Font Size:</value>
+  </data>
+  <data name="TitleSettings.chkCategoryName" xml:space="preserve">
+    <value>Show Category Name</value>
+  </data>
+  <data name="TitleSettings.chkGameName" xml:space="preserve">
+    <value>Show Game Name</value>
+  </data>
+  <data name="TitleSettings.groupBox2" xml:space="preserve">
+    <value>Title Color</value>
+  </data>
+  <data name="TitleSettings.chkColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TitleSettings.label3" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="TitleSettings.groupBox1" xml:space="preserve">
+    <value>Title Font</value>
+  </data>
+  <data name="TitleSettings.lblFont" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="TitleSettings.btnFont" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="TitleSettings.chkFont" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TitleSettings.label1" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="TitleSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="TitleSettings.chkAttemptCount" xml:space="preserve">
+    <value>Show Attempt Count</value>
+  </data>
+  <data name="TitleSettings.chkFinishedRuns" xml:space="preserve">
+    <value>Show Finished Runs Count</value>
+  </data>
+  <data name="TitleSettings.chkDisplayGameIcon" xml:space="preserve">
+    <value>Display Game Icon</value>
+  </data>
+  <data name="TitleSettings.groupBox3" xml:space="preserve">
+    <value>Additional Category Info</value>
+  </data>
+  <data name="TitleSettings.chkVariables" xml:space="preserve">
+    <value>Show Variables</value>
+  </data>
+  <data name="TitleSettings.chkPlatform" xml:space="preserve">
+    <value>Show Platform</value>
+  </data>
+  <data name="TitleSettings.chkRegion" xml:space="preserve">
+    <value>Show Region</value>
+  </data>
+  <data name="TitleSettings.chkSingleLine" xml:space="preserve">
+    <value>Display Game and Category in Single Line</value>
+  </data>
+  <data name="TitleSettings.label2" xml:space="preserve">
+    <value>Text Alignment:</value>
+  </data>
+  <data name="TotalPlaytimeSettings.groupBox1" xml:space="preserve">
+    <value>Text Color</value>
+  </data>
+  <data name="TotalPlaytimeSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TotalPlaytimeSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="TotalPlaytimeSettings.groupBox2" xml:space="preserve">
+    <value>Time Color</value>
+  </data>
+  <data name="TotalPlaytimeSettings.label2" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="TotalPlaytimeSettings.chkOverrideTimeColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="TotalPlaytimeSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="TotalPlaytimeSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="TotalPlaytimeSettings.chkShowTotalHours" xml:space="preserve">
+    <value>Show Total Hours</value>
+  </data>
+  <data name="ComponentHostForm" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="VideoSettings.label1" xml:space="preserve">
+    <value>Video Path:</value>
+  </data>
+  <data name="VideoSettings.btnSelectFile" xml:space="preserve">
+    <value>Browse...</value>
+  </data>
+  <data name="VideoSettings.label2" xml:space="preserve">
+    <value>Run Starts At:</value>
+  </data>
+  <data name="VideoSettings.lblHeightWidth" xml:space="preserve">
+    <value>Height:</value>
+  </data>
+  <data name="WorldRecordSettings.groupBox1" xml:space="preserve">
+    <value>Text Color</value>
+  </data>
+  <data name="WorldRecordSettings.chkOverrideTextColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="WorldRecordSettings.label1" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="WorldRecordSettings.groupBox2" xml:space="preserve">
+    <value>Time Color</value>
+  </data>
+  <data name="WorldRecordSettings.label2" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="WorldRecordSettings.chkOverrideTimeColor" xml:space="preserve">
+    <value>Override Layout Settings</value>
+  </data>
+  <data name="WorldRecordSettings.label11" xml:space="preserve">
+    <value>Background Color:</value>
+  </data>
+  <data name="WorldRecordSettings.chkTwoRows" xml:space="preserve">
+    <value>Display 2 Rows</value>
+  </data>
+  <data name="WorldRecordSettings.chkCenteredText" xml:space="preserve">
+    <value>Centered Text</value>
+  </data>
+  <data name="WorldRecordSettings.groupBox3" xml:space="preserve">
+    <value>Filter Leaderboard By</value>
+  </data>
+  <data name="WorldRecordSettings.chkVariables" xml:space="preserve">
+    <value>Variables</value>
+  </data>
+  <data name="WorldRecordSettings.chkPlatform" xml:space="preserve">
+    <value>Platform</value>
+  </data>
+  <data name="WorldRecordSettings.chkRegion" xml:space="preserve">
+    <value>Region</value>
+  </data>
+  <data name="WorldRecordSettings.chkSubcategories" xml:space="preserve">
+    <value>Subcategories</value>
+  </data>
+  <data name="FontDialog.label1" xml:space="preserve">
+    <value>Font:</value>
+  </data>
+  <data name="FontDialog.label2" xml:space="preserve">
+    <value>Size:</value>
+  </data>
+  <data name="FontDialog.chbBold" xml:space="preserve">
+    <value>Bold</value>
+  </data>
+  <data name="FontDialog.chbItalic" xml:space="preserve">
+    <value>Italic</value>
+  </data>
+  <data name="FontDialog.groupBox1" xml:space="preserve">
+    <value>Font Style</value>
+  </data>
+  <data name="FontDialog.groupBox2" xml:space="preserve">
+    <value>Sample Text</value>
+  </data>
+  <data name="FontDialog.lblSampleText" xml:space="preserve">
+    <value>AaBbCcXxYyZz</value>
+  </data>
+  <data name="FontDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="FontDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="FontDialog" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="MainForm.buttonPicker" xml:space="preserve">
+    <value>ColorPicker</value>
+  </data>
+  <data name="MainForm.buttonPickerWithAlpha" xml:space="preserve">
+    <value>ColorPicker +A</value>
+  </data>
+  <data name="MainForm.                 this" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="ScrollableMessageBox" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="TwitchGameResolveDialog.label1" xml:space="preserve">
+    <value>The game you\'re playing was not found on Twitch.</value>
+  </data>
+  <data name="TwitchGameResolveDialog.label2" xml:space="preserve">
+    <value>Select a different game:</value>
+  </data>
+  <data name="TwitchGameResolveDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="TwitchGameResolveDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="TwitchGameResolveDialog.btnNoGame" xml:space="preserve">
+    <value>No Game</value>
+  </data>
+  <data name="TwitchGameResolveDialog.btnSearch" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="TwitchGameResolveDialog" xml:space="preserve">
+    <value>Game Not Found</value>
+  </data>
+  <data name="TwitterOAuthForm" xml:space="preserve">
+    <value>Authorize LiveSplit</value>
+  </data>
+  <data name="AboutBox.labelProductName" xml:space="preserve">
+    <value>LiveSplit</value>
+  </data>
+  <data name="AboutBox.textBoxDescription" xml:space="preserve">
+    <value>Made by:</value>
+  </data>
+  <data name="AboutBox.lblWebsite" xml:space="preserve">
+    <value>livesplit.org</value>
+  </data>
+  <data name="AboutBox.linkLabel1" xml:space="preserve">
+    <value>CryZe</value>
+  </data>
+  <data name="AboutBox.linkLabel2" xml:space="preserve">
+    <value>wooferzfg</value>
+  </data>
+  <data name="AboutBox.label1" xml:space="preserve">
+    <value>We\'ve put a lot of work into LiveSplit. If you like the program, please consider "</value>
+  </data>
+  <data name="AboutBox.okButton" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="AboutBox" xml:space="preserve">
+    <value>About LiveSplit</value>
+  </data>
+  <data name="AuthenticationDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="AuthenticationDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="AuthenticationDialog.label2" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="AuthenticationDialog.label1" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="AuthenticationDialog.chkRememberPassword" xml:space="preserve">
+    <value>Remember Password</value>
+  </data>
+  <data name="AuthenticationDialog" xml:space="preserve">
+    <value>Authentication</value>
+  </data>
+  <data name="BrowseSpeedrunComDialog.btnSearch" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="BrowseSpeedrunComDialog.btnDownload" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="BrowseSpeedrunComDialog.chkDownloadEmpty" xml:space="preserve">
+    <value>Download Empty</value>
+  </data>
+  <data name="BrowseSpeedrunComDialog.chkIncludeTimes" xml:space="preserve">
+    <value>Include Times as Comparison</value>
+  </data>
+  <data name="BrowseSpeedrunComDialog.btnShowOnSpeedrunCom" xml:space="preserve">
+    <value>Show on Speedrun.com</value>
+  </data>
+  <data name="BrowseSpeedrunComDialog" xml:space="preserve">
+    <value>Browse Speedrun.com</value>
+  </data>
+  <data name="ChooseComparisonsDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="ChooseComparisonsDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ChooseComparisonsDialog" xml:space="preserve">
+    <value>Choose Comparisons</value>
+  </data>
+  <data name="ComponentSettingsDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ComponentSettingsDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="ComponentSettingsDialog" xml:space="preserve">
+    <value>Component Settings</value>
+  </data>
+  <data name="EditHistoryDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="EditHistoryDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="EditHistoryDialog.btnRemove" xml:space="preserve">
+    <value>Remove Selected</value>
+  </data>
+  <data name="EditHistoryDialog" xml:space="preserve">
+    <value>Edit History</value>
+  </data>
+  <data name="LayoutEditorDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="LayoutEditorDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="LayoutEditorDialog.btnLayoutSettings" xml:space="preserve">
+    <value>Layout Settings</value>
+  </data>
+  <data name="LayoutEditorDialog.rdoHorizontal" xml:space="preserve">
+    <value>Horizontal</value>
+  </data>
+  <data name="LayoutEditorDialog.rdoVertical" xml:space="preserve">
+    <value>Vertical</value>
+  </data>
+  <data name="LayoutEditorDialog.btnSetSize" xml:space="preserve">
+    <value>Set Size</value>
+  </data>
+  <data name="LayoutEditorDialog" xml:space="preserve">
+    <value>Layout Editor</value>
+  </data>
+  <data name="LayoutSettingsControl.chkMousePassThroughWhileRunning" xml:space="preserve">
+    <value>Ignore Mouse While Running and Not In Focus</value>
+  </data>
+  <data name="LayoutSettingsControl.groupBox2" xml:space="preserve">
+    <value>Colors</value>
+  </data>
+  <data name="LayoutSettingsControl.lblOutlines" xml:space="preserve">
+    <value>Text Outlines:</value>
+  </data>
+  <data name="LayoutSettingsControl.label9" xml:space="preserve">
+    <value>Best Segment:</value>
+  </data>
+  <data name="LayoutSettingsControl.label5" xml:space="preserve">
+    <value>Ahead (Gaining Time):</value>
+  </data>
+  <data name="LayoutSettingsControl.label6" xml:space="preserve">
+    <value>Ahead (Losing Time):</value>
+  </data>
+  <data name="LayoutSettingsControl.label7" xml:space="preserve">
+    <value>Behind (Gaining Time):</value>
+  </data>
+  <data name="LayoutSettingsControl.label11" xml:space="preserve">
+    <value>Text:</value>
+  </data>
+  <data name="LayoutSettingsControl.label8" xml:space="preserve">
+    <value>Behind (Losing Time):</value>
+  </data>
+  <data name="LayoutSettingsControl.chkRainbow" xml:space="preserve">
+    <value>Use Rainbow Best Segment Color</value>
+  </data>
+  <data name="LayoutSettingsControl.label10" xml:space="preserve">
+    <value>Not Running:</value>
+  </data>
+  <data name="LayoutSettingsControl.label2" xml:space="preserve">
+    <value>Thin Separators:</value>
+  </data>
+  <data name="LayoutSettingsControl.label4" xml:space="preserve">
+    <value>Personal Best:</value>
+  </data>
+  <data name="LayoutSettingsControl.label3" xml:space="preserve">
+    <value>Separators:</value>
+  </data>
+  <data name="LayoutSettingsControl.label12" xml:space="preserve">
+    <value>Paused:</value>
+  </data>
+  <data name="LayoutSettingsControl.label14" xml:space="preserve">
+    <value>Shadows:</value>
+  </data>
+  <data name="LayoutSettingsControl.chkAlwaysOnTop" xml:space="preserve">
+    <value>Always on Top</value>
+  </data>
+  <data name="LayoutSettingsControl.groupBox1" xml:space="preserve">
+    <value>Fonts</value>
+  </data>
+  <data name="LayoutSettingsControl.chkAntiAliasing" xml:space="preserve">
+    <value>Anti-Aliasing</value>
+  </data>
+  <data name="LayoutSettingsControl.label16" xml:space="preserve">
+    <value>Timer:</value>
+  </data>
+  <data name="LayoutSettingsControl.label17" xml:space="preserve">
+    <value>Times:</value>
+  </data>
+  <data name="LayoutSettingsControl.label18" xml:space="preserve">
+    <value>Text:</value>
+  </data>
+  <data name="LayoutSettingsControl.btnTimer" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="LayoutSettingsControl.btnTimes" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="LayoutSettingsControl.btnTextFont" xml:space="preserve">
+    <value>Choose...</value>
+  </data>
+  <data name="LayoutSettingsControl.chkDropShadows" xml:space="preserve">
+    <value>Drop Shadows</value>
+  </data>
+  <data name="LayoutSettingsControl.lblTimer" xml:space="preserve">
+    <value>something</value>
+  </data>
+  <data name="LayoutSettingsControl.lblTimes" xml:space="preserve">
+    <value>something</value>
+  </data>
+  <data name="LayoutSettingsControl.lblText" xml:space="preserve">
+    <value>something</value>
+  </data>
+  <data name="LayoutSettingsControl.chkBestSegments" xml:space="preserve">
+    <value>Show Best Segments</value>
+  </data>
+  <data name="LayoutSettingsControl.label13" xml:space="preserve">
+    <value>Opacity:</value>
+  </data>
+  <data name="LayoutSettingsControl.groupBox3" xml:space="preserve">
+    <value>Background</value>
+  </data>
+  <data name="LayoutSettingsControl.lblBackground" xml:space="preserve">
+    <value>Color:</value>
+  </data>
+  <data name="LayoutSettingsControl.lblImageOpacity" xml:space="preserve">
+    <value>Image Opacity:</value>
+  </data>
+  <data name="LayoutSettingsControl.lblBlur" xml:space="preserve">
+    <value>Image Blur:</value>
+  </data>
+  <data name="LayoutSettingsDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="LayoutSettingsDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="LayoutSettingsDialog" xml:space="preserve">
+    <value>Layout Settings</value>
+  </data>
+  <data name="MetadataControl.lblRegion" xml:space="preserve">
+    <value>Region:</value>
+  </data>
+  <data name="MetadataControl.lblPlatform" xml:space="preserve">
+    <value>Platform:</value>
+  </data>
+  <data name="MetadataControl.lblRules" xml:space="preserve">
+    <value>Rules:</value>
+  </data>
+  <data name="MetadataControl.btnAssociate" xml:space="preserve">
+    <value>Associate with Speedrun.com...</value>
+  </data>
+  <data name="MetadataControl.tbxRules" xml:space="preserve">
+    <value />
+  </data>
+  <data name="MetadataControl.btnSubmit" xml:space="preserve">
+    <value>Submit Run...</value>
+  </data>
+  <data name="RaceProviderManagingDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="RaceProviderManagingDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="RaceProviderManagingDialog.websiteTextLabel" xml:space="preserve">
+    <value>Website:</value>
+  </data>
+  <data name="RaceProviderManagingDialog.rulesTextLabel" xml:space="preserve">
+    <value>Rules:</value>
+  </data>
+  <data name="RaceProviderManagingDialog" xml:space="preserve">
+    <value>Manage Racing Services</value>
+  </data>
+  <data name="RunEditorDialog.label2" xml:space="preserve">
+    <value>Game Name:</value>
+  </data>
+  <data name="RunEditorDialog.label3" xml:space="preserve">
+    <value>Run Category:</value>
+  </data>
+  <data name="RunEditorDialog.label1" xml:space="preserve">
+    <value>Start Timer at:</value>
+  </data>
+  <data name="RunEditorDialog.RealTime" xml:space="preserve">
+    <value>Real Time</value>
+  </data>
+  <data name="RunEditorDialog.GameTime" xml:space="preserve">
+    <value>Game Time</value>
+  </data>
+  <data name="RunEditorDialog.Metadata" xml:space="preserve">
+    <value>Additional Info</value>
+  </data>
+  <data name="RunEditorDialog.label4" xml:space="preserve">
+    <value>Attempts:</value>
+  </data>
+  <data name="RunEditorDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="RunEditorDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="RunEditorDialog.btnOther" xml:space="preserve">
+    <value>Other...</value>
+  </data>
+  <data name="RunEditorDialog.btnImportComparison" xml:space="preserve">
+    <value>Import Comparison...</value>
+  </data>
+  <data name="RunEditorDialog.btnAddComparison" xml:space="preserve">
+    <value>Add Comparison</value>
+  </data>
+  <data name="RunEditorDialog.btnMoveDown" xml:space="preserve">
+    <value>Move Down</value>
+  </data>
+  <data name="RunEditorDialog.btnMoveUp" xml:space="preserve">
+    <value>Move Up</value>
+  </data>
+  <data name="RunEditorDialog.btnRemove" xml:space="preserve">
+    <value>Remove Segment</value>
+  </data>
+  <data name="RunEditorDialog.btnAdd" xml:space="preserve">
+    <value>Insert Below</value>
+  </data>
+  <data name="RunEditorDialog.btnInsert" xml:space="preserve">
+    <value>Insert Above</value>
+  </data>
+  <data name="RunEditorDialog.btnBrowseLayout" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="RunEditorDialog.chkbxUseLayout" xml:space="preserve">
+    <value>Use Layout</value>
+  </data>
+  <data name="RunEditorDialog.btnWebsite" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="RunEditorDialog.btnSettings" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="RunEditorDialog.btnActivate" xml:space="preserve">
+    <value>Activate</value>
+  </data>
+  <data name="RunEditorDialog.lblDescription" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="RunEditorDialog.setIconToolStripMenuItem" xml:space="preserve">
+    <value>Set Icon...</value>
+  </data>
+  <data name="RunEditorDialog.downloadBoxartToolStripMenuItem" xml:space="preserve">
+    <value>Download Box Art</value>
+  </data>
+  <data name="RunEditorDialog.downloadIconToolStripMenuItem" xml:space="preserve">
+    <value>Download Icon</value>
+  </data>
+  <data name="RunEditorDialog.openFromURLMenuItem" xml:space="preserve">
+    <value>Open from URL...</value>
+  </data>
+  <data name="RunEditorDialog.removeIconToolStripMenuItem" xml:space="preserve">
+    <value>Remove Icon</value>
+  </data>
+  <data name="RunEditorDialog.fromFileToolStripMenuItem" xml:space="preserve">
+    <value>From File...</value>
+  </data>
+  <data name="RunEditorDialog.fromURLToolStripMenuItem" xml:space="preserve">
+    <value>From URL...</value>
+  </data>
+  <data name="RunEditorDialog.fromSpeedruncomToolStripMenuItem" xml:space="preserve">
+    <value>From Speedrun.com...</value>
+  </data>
+  <data name="RunEditorDialog.clearHistoryToolStripMenuItem" xml:space="preserve">
+    <value>Clear History</value>
+  </data>
+  <data name="RunEditorDialog.clearTimesToolStripMenuItem" xml:space="preserve">
+    <value>Clear Times</value>
+  </data>
+  <data name="RunEditorDialog.cleanSumOfBestToolStripMenuItem" xml:space="preserve">
+    <value>Clean Sum of Best</value>
+  </data>
+  <data name="RunEditorDialog" xml:space="preserve">
+    <value>Splits Editor</value>
+  </data>
+  <data name="SetSizeForm.label1" xml:space="preserve">
+    <value>Width:</value>
+  </data>
+  <data name="SetSizeForm.label2" xml:space="preserve">
+    <value>Height:</value>
+  </data>
+  <data name="SetSizeForm.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="SetSizeForm.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="SetSizeForm.chkKeepAspectRatio" xml:space="preserve">
+    <value>Keep Aspect Ratio</value>
+  </data>
+  <data name="SetSizeForm" xml:space="preserve">
+    <value>Set Layout Size</value>
+  </data>
+  <data name="SettingsDialog.btnChooseRaceProvider" xml:space="preserve">
+    <value>Manage Racing Services...</value>
+  </data>
+  <data name="SettingsDialog.btnOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="SettingsDialog.label5" xml:space="preserve">
+    <value>Saved Accounts:</value>
+  </data>
+  <data name="SettingsDialog.btnLogOut" xml:space="preserve">
+    <value>Log Out of All Accounts</value>
+  </data>
+  <data name="SettingsDialog.groupBox1" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="SettingsDialog.chkDeactivateForOtherPrograms" xml:space="preserve">
+    <value>Deactivate For Other Programs</value>
+  </data>
+  <data name="SettingsDialog.label1" xml:space="preserve">
+    <value>Start / Split:</value>
+  </data>
+  <data name="SettingsDialog.chkGlobalHotkeys" xml:space="preserve">
+    <value>Global Hotkeys</value>
+  </data>
+  <data name="SettingsDialog.chkDoubleTap" xml:space="preserve">
+    <value>Double Tap Prevention</value>
+  </data>
+  <data name="SettingsDialog.label2" xml:space="preserve">
+    <value>Reset:</value>
+  </data>
+  <data name="SettingsDialog.label6" xml:space="preserve">
+    <value>Pause:</value>
+  </data>
+  <data name="SettingsDialog.label3" xml:space="preserve">
+    <value>Skip Split:</value>
+  </data>
+  <data name="SettingsDialog.label4" xml:space="preserve">
+    <value>Undo Split:</value>
+  </data>
+  <data name="SettingsDialog.label7" xml:space="preserve">
+    <value>Toggle Global Hotkeys:</value>
+  </data>
+  <data name="SettingsDialog.label8" xml:space="preserve">
+    <value>Switch Comparison (Previous):</value>
+  </data>
+  <data name="SettingsDialog.label9" xml:space="preserve">
+    <value>Switch Comparison (Next):</value>
+  </data>
+  <data name="SettingsDialog.label10" xml:space="preserve">
+    <value>Hotkey Delay (Seconds):</value>
+  </data>
+  <data name="SettingsDialog.grpHotkeyProfiles" xml:space="preserve">
+    <value>Hotkey Profiles</value>
+  </data>
+  <data name="SettingsDialog.lblProfile" xml:space="preserve">
+    <value>Active Hotkey Profile:</value>
+  </data>
+  <data name="SettingsDialog.btnRemoveProfile" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="SettingsDialog.btnRenameProfile" xml:space="preserve">
+    <value>Rename</value>
+  </data>
+  <data name="SettingsDialog.btnNewProfile" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="SettingsDialog.chkAllowGamepads" xml:space="preserve">
+    <value>Allow Gamepads as Hotkeys</value>
+  </data>
+  <data name="SettingsDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="SettingsDialog.label11" xml:space="preserve">
+    <value>Race Viewer:</value>
+  </data>
+  <data name="SettingsDialog.label12" xml:space="preserve">
+    <value>Active Comparisons:</value>
+  </data>
+  <data name="SettingsDialog.label13" xml:space="preserve">
+    <value>Racing Services:</value>
+  </data>
+  <data name="SettingsDialog.btnChooseComparisons" xml:space="preserve">
+    <value>Choose Active Comparisons...</value>
+  </data>
+  <data name="SettingsDialog.chkSimpleSOB" xml:space="preserve">
+    <value>Simple Sum of Best Calculation</value>
+  </data>
+  <data name="SettingsDialog.chkWarnOnReset" xml:space="preserve">
+    <value>Warn On Reset If Better Times</value>
+  </data>
+  <data name="SettingsDialog.labelRefreshRate" xml:space="preserve">
+    <value>Refresh Rate (Hz):</value>
+  </data>
+  <data name="SettingsDialog" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="ShareRunDialog.label1" xml:space="preserve">
+    <value>Platform:</value>
+  </data>
+  <data name="ShareRunDialog.label2" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="ShareRunDialog.label3" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="ShareRunDialog.label4" xml:space="preserve">
+    <value>Game:</value>
+  </data>
+  <data name="ShareRunDialog.label5" xml:space="preserve">
+    <value>Category:</value>
+  </data>
+  <data name="ShareRunDialog.label6" xml:space="preserve">
+    <value>Version:</value>
+  </data>
+  <data name="ShareRunDialog.label7" xml:space="preserve">
+    <value>Video URL:</value>
+  </data>
+  <data name="ShareRunDialog.label8" xml:space="preserve">
+    <value>Text:</value>
+  </data>
+  <data name="ShareRunDialog.btnClose" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="ShareRunDialog.label9" xml:space="preserve">
+    <value>Insert:</value>
+  </data>
+  <data name="ShareRunDialog.btnInsertGame" xml:space="preserve">
+    <value>Game</value>
+  </data>
+  <data name="ShareRunDialog.btnInsertCategory" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="ShareRunDialog.btnInsertTitle" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="ShareRunDialog.btnInsertPB" xml:space="preserve">
+    <value>PB</value>
+  </data>
+  <data name="ShareRunDialog.btnPreview" xml:space="preserve">
+    <value>Preview...</value>
+  </data>
+  <data name="ShareRunDialog.btnInsertSplitName" xml:space="preserve">
+    <value>Split Name</value>
+  </data>
+  <data name="ShareRunDialog.btnInsertDeltaTime" xml:space="preserve">
+    <value>Delta Time</value>
+  </data>
+  <data name="ShareRunDialog.btnInsertSplitTime" xml:space="preserve">
+    <value>Split Time</value>
+  </data>
+  <data name="ShareRunDialog.btnInsertStreamLink" xml:space="preserve">
+    <value>Stream Link</value>
+  </data>
+  <data name="ShareRunDialog.chkAttachSplits" xml:space="preserve">
+    <value>Attach Splits</value>
+  </data>
+  <data name="ShareRunDialog.btnShare" xml:space="preserve">
+    <value>Share</value>
+  </data>
+  <data name="ShareRunDialog" xml:space="preserve">
+    <value>Run Sharer</value>
+  </data>
+  <data name="SpeedrunComSubmitDialog.label1" xml:space="preserve">
+    <value>Video:</value>
+  </data>
+  <data name="SpeedrunComSubmitDialog.label2" xml:space="preserve">
+    <value>Comment:</value>
+  </data>
+  <data name="SpeedrunComSubmitDialog.btnSubmit" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="SpeedrunComSubmitDialog.btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="SpeedrunComSubmitDialog" xml:space="preserve">
+    <value>Submitting to Speedrun.com</value>
+  </data>
+  <data name="SpeedRunsLiveForm.chatBox" xml:space="preserve">
+    <value />
+  </data>
+  <data name="SpeedRunsLiveForm.chkReady" xml:space="preserve">
+    <value>Ready</value>
+  </data>
+  <data name="SpeedRunsLiveForm.btnJoinQuit" xml:space="preserve">
+    <value>Enter Race</value>
+  </data>
+  <data name="SpeedRunsLiveForm" xml:space="preserve">
+    <value>Joining Channel...</value>
+  </data>
+  <data name="TimerForm.editSplitsMenuItem" xml:space="preserve">
+    <value>Edit Splits...</value>
+  </data>
+  <data name="TimerForm.openSplitsMenuItem" xml:space="preserve">
+    <value>Open Splits</value>
+  </data>
+  <data name="TimerForm.saveSplitsMenuItem" xml:space="preserve">
+    <value>Save Splits</value>
+  </data>
+  <data name="TimerForm.saveSplitsAsMenuItem" xml:space="preserve">
+    <value>Save Splits As...</value>
+  </data>
+  <data name="TimerForm.closeSplitsMenuItem" xml:space="preserve">
+    <value>Close Splits</value>
+  </data>
+  <data name="TimerForm.controlMenuItem" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="TimerForm.shareMenuItem" xml:space="preserve">
+    <value>Share...</value>
+  </data>
+  <data name="TimerForm.editLayoutMenuItem" xml:space="preserve">
+    <value>Edit Layout...</value>
+  </data>
+  <data name="TimerForm.openLayoutMenuItem" xml:space="preserve">
+    <value>Open Layout</value>
+  </data>
+  <data name="TimerForm.saveLayoutMenuItem" xml:space="preserve">
+    <value>Save Layout</value>
+  </data>
+  <data name="TimerForm.saveLayoutAsMenuItem" xml:space="preserve">
+    <value>Save Layout As...</value>
+  </data>
+  <data name="TimerForm.settingsMenuItem" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="TimerForm.aboutMenuItem" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="TimerForm.exitMenuItem" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="TimerForm.splitMenuItem" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="TimerForm.resetMenuItem" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="TimerForm.undoSplitMenuItem" xml:space="preserve">
+    <value>Undo Split</value>
+  </data>
+  <data name="TimerForm.skipSplitMenuItem" xml:space="preserve">
+    <value>Skip Split</value>
+  </data>
+  <data name="TimerForm.pauseMenuItem" xml:space="preserve">
+    <value>Pause</value>
+  </data>
+  <data name="TimerForm.undoPausesMenuItem" xml:space="preserve">
+    <value>Undo All Pauses</value>
+  </data>
+  <data name="TimerForm.hotkeysMenuItem" xml:space="preserve">
+    <value>Global Hotkeys</value>
+  </data>
+  <data name="TimerForm.comparisonMenuItem" xml:space="preserve">
+    <value>Compare Against</value>
+  </data>
+  <data name="TimerForm" xml:space="preserve">
+    <value>LiveSplit</value>
+  </data>
+  <data name="UpdateForm" xml:space="preserve">
+    <value>Update</value>
+  </data>
+</root>

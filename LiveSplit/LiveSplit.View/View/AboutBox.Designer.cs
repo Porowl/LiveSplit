@@ -90,7 +90,7 @@
             this.labelProductName.Name = "labelProductName";
             this.labelProductName.Size = new System.Drawing.Size(267, 17);
             this.labelProductName.TabIndex = 19;
-            this.labelProductName.Text = "LiveSplit";
+            this.labelProductName.Text = Properties.StringRes.AboutBox_labelProductName;
             this.labelProductName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // textBoxDescription
@@ -102,7 +102,7 @@
             this.textBoxDescription.Name = "textBoxDescription";
             this.textBoxDescription.Size = new System.Drawing.Size(140, 16);
             this.textBoxDescription.TabIndex = 23;
-            this.textBoxDescription.Text = "Made by:";
+            this.textBoxDescription.Text = Properties.StringRes.AboutBox_textBoxDescription;
             // 
             // lblWebsite
             // 
@@ -114,7 +114,7 @@
             this.lblWebsite.Size = new System.Drawing.Size(140, 13);
             this.lblWebsite.TabIndex = 25;
             this.lblWebsite.TabStop = true;
-            this.lblWebsite.Text = "livesplit.org";
+            this.lblWebsite.Text = Properties.StringRes.AboutBox_lblWebsite;
             this.lblWebsite.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.lblWebsite.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.WebsiteLinkClicked);
             // 
@@ -129,7 +129,7 @@
             this.linkLabel1.Size = new System.Drawing.Size(140, 13);
             this.linkLabel1.TabIndex = 26;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "CryZe";
+            this.linkLabel1.Text = Properties.StringRes.AboutBox_linkLabel1;
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.CryZeLinkClicked);
             // 
             // linkLabel2
@@ -141,7 +141,7 @@
             this.linkLabel2.Size = new System.Drawing.Size(53, 13);
             this.linkLabel2.TabIndex = 27;
             this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "wooferzfg";
+            this.linkLabel2.Text = Properties.StringRes.AboutBox_linkLabel2;
             this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.wooferzfgLinkClicked);
             // 
             // label1
@@ -154,7 +154,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(249, 26);
             this.label1.TabIndex = 28;
-            this.label1.Text = "We\'ve put a lot of work into LiveSplit. If you like the program, please consider " +
+            this.label1.Text = Properties.StringRes.AboutBox_label1 +
     "donating.";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -183,7 +183,7 @@
             this.okButton.Name = "okButton";
             this.okButton.Size = new System.Drawing.Size(75, 23);
             this.okButton.TabIndex = 24;
-            this.okButton.Text = "&OK";
+            this.okButton.Text = Properties.StringRes.AboutBox_okButton;
             // 
             // lblVersion
             // 
@@ -228,7 +228,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "About LiveSplit";
+            this.Text = Properties.StringRes.AboutBox;
             this.tableLayoutPanel.ResumeLayout(false);
             this.tableLayoutPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.donateButton)).EndInit();

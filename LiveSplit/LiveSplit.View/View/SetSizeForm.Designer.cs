@@ -74,7 +74,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(46, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Width:";
+            this.label1.Text = Properties.StringRes.SetSizeForm_label1;
             // 
             // label2
             // 
@@ -84,7 +84,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Height:";
+            this.label2.Text = Properties.StringRes.SetSizeForm_label2;
             // 
             // nmWidth
             // 
@@ -144,7 +144,7 @@
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 5;
-            this.btnCancel.Text = "Cancel";
+            this.btnCancel.Text = Properties.StringRes.SetSizeForm_btnCancel;
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
@@ -156,7 +156,7 @@
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
             this.btnOK.TabIndex = 4;
-            this.btnOK.Text = "OK";
+            this.btnOK.Text = Properties.StringRes.SetSizeForm_btnOK;
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
@@ -170,7 +170,7 @@
             this.chkKeepAspectRatio.Name = "chkKeepAspectRatio";
             this.chkKeepAspectRatio.Size = new System.Drawing.Size(206, 17);
             this.chkKeepAspectRatio.TabIndex = 6;
-            this.chkKeepAspectRatio.Text = "Keep Aspect Ratio";
+            this.chkKeepAspectRatio.Text = Properties.StringRes.SetSizeForm_chkKeepAspectRatio;
             this.chkKeepAspectRatio.UseVisualStyleBackColor = true;
             // 
             // SetSizeForm
@@ -183,7 +183,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "SetSizeForm";
             this.Padding = new System.Windows.Forms.Padding(7);
-            this.Text = "Set Layout Size";
+            this.Text = Properties.StringRes.SetSizeForm;
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nmWidth)).EndInit();

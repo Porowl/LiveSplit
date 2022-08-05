@@ -99,7 +99,7 @@
             this.chatBox.ReadOnly = true;
             this.chatBox.Size = new System.Drawing.Size(474, 365);
             this.chatBox.TabIndex = 0;
-            this.chatBox.Text = "";
+            this.chatBox.Text = Properties.StringRes.SpeedRunsLiveForm_chatBox;
             this.chatBox.LinkClicked += new System.Windows.Forms.LinkClickedEventHandler(this.chatBox_LinkClicked);
             // 
             // lstUsers
@@ -169,7 +169,7 @@
             this.chkReady.Name = "chkReady";
             this.chkReady.Size = new System.Drawing.Size(100, 17);
             this.chkReady.TabIndex = 3;
-            this.chkReady.Text = "Ready";
+            this.chkReady.Text = Properties.StringRes.SpeedRunsLiveForm_chkReady;
             this.chkReady.UseVisualStyleBackColor = true;
             this.chkReady.CheckedChanged += new System.EventHandler(this.chkReady_CheckedChanged);
             this.chkReady.Click += new System.EventHandler(this.chkReady_Click);
@@ -182,7 +182,7 @@
             this.btnJoinQuit.Name = "btnJoinQuit";
             this.btnJoinQuit.Size = new System.Drawing.Size(101, 22);
             this.btnJoinQuit.TabIndex = 4;
-            this.btnJoinQuit.Text = "Enter Race";
+            this.btnJoinQuit.Text = Properties.StringRes.SpeedRunsLiveForm_btnJoinQuit;
             this.btnJoinQuit.UseVisualStyleBackColor = true;
             this.btnJoinQuit.Click += new System.EventHandler(this.btnJoinQuit_Click);
             // 
@@ -196,7 +196,7 @@
             this.MinimumSize = new System.Drawing.Size(250, 250);
             this.Name = "SpeedRunsLiveForm";
             this.Padding = new System.Windows.Forms.Padding(10);
-            this.Text = "Joining Channel...";
+            this.Text = Properties.StringRes.SpeedRunsLiveForm;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.SpeedRunsLiveForm_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.SpeedRunsLiveForm_FormClosed);
             this.Load += new System.EventHandler(this.SpeedRunsLiveForm_Load);
