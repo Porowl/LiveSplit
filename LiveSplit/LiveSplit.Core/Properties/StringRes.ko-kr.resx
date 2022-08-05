@@ -118,511 +118,511 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BlankSpaceSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="BlankSpaceSettings.lblSize" xml:space="preserve">
-    <value>Height:</value>
+    <value>높이:</value>
   </data>
   <data name="CounterComponentSettings.groupBox2" xml:space="preserve">
-    <value>Counter Colors</value>
+    <value>카운터 색상</value>
   </data>
   <data name="CounterComponentSettings.chkColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="CounterComponentSettings.label3" xml:space="preserve">
-    <value>Text Color:</value>
+    <value>텍스트 색상:</value>
   </data>
   <data name="CounterComponentSettings.label5" xml:space="preserve">
-    <value>Value Color:</value>
+    <value>값 색상:</value>
   </data>
   <data name="CounterComponentSettings.groupBox1" xml:space="preserve">
-    <value>Counter Font</value>
+    <value>카운터 글꼴</value>
   </data>
   <data name="CounterComponentSettings.lblFont" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴</value>
   </data>
   <data name="CounterComponentSettings.btnFont" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="CounterComponentSettings.chkFont" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="CounterComponentSettings.label1" xml:space="preserve">
-    <value>Font:</value>
+    <value>글꼴:</value>
   </data>
   <data name="CounterComponentSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="CounterComponentSettings.groupBox4" xml:space="preserve">
-    <value>Counter</value>
+    <value>카운터</value>
   </data>
   <data name="CounterComponentSettings.groupBox3" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>단축키</value>
   </data>
   <data name="CounterComponentSettings.lblCounterIncrement" xml:space="preserve">
-    <value>Increment Counter:</value>
+    <value>값 증가:</value>
   </data>
   <data name="CounterComponentSettings.lblCounterDecrement" xml:space="preserve">
-    <value>Decrement Counter:</value>
+    <value>값 감소:</value>
   </data>
   <data name="CounterComponentSettings.lblCounterReset" xml:space="preserve">
-    <value>Reset Counter:</value>
+    <value>값 초기화:</value>
   </data>
   <data name="CounterComponentSettings.chkGlobalHotKeys" xml:space="preserve">
-    <value>Global Counter Hotkeys</value>
+    <value>글로벌 카운터 단축키</value>
   </data>
   <data name="CounterComponentSettings.label2" xml:space="preserve">
-    <value>Counter Text:</value>
+    <value>카운터 텍스트:</value>
   </data>
   <data name="CounterComponentSettings.label4" xml:space="preserve">
-    <value>Initial Value:</value>
+    <value>초기값:</value>
   </data>
   <data name="CounterComponentSettings.lblIncrementValue" xml:space="preserve">
-    <value>Increment Value:</value>
+    <value>증가값:</value>
   </data>
   <data name="CurrentComparisonSettings.groupBox1" xml:space="preserve">
-    <value>Comparing Against Label</value>
+    <value>비교할 런 표제</value>
   </data>
   <data name="CurrentComparisonSettings.groupBox4" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="CurrentComparisonSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="CurrentComparisonSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상</value>
   </data>
   <data name="CurrentComparisonSettings.groupBox2" xml:space="preserve">
-    <value>Comparison Text</value>
+    <value>비교할 런 텍스트</value>
   </data>
   <data name="CurrentComparisonSettings.groupBox3" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="CurrentComparisonSettings.chkOverrideTimeColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="CurrentComparisonSettings.label2" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="CurrentComparisonSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="CurrentComparisonSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>2줄로 표시</value>
   </data>
   <data name="DeltaSettings.groupBox4" xml:space="preserve">
-    <value>Delta Accuracy</value>
+    <value>차이값 정확도</value>
   </data>
   <data name="DeltaSettings.rdoSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="DeltaSettings.rdoTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="DeltaSettings.rdoHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="DeltaSettings.chkDropDecimals" xml:space="preserve">
-    <value>Drop Decimals When More Than 1 Minute</value>
+    <value>1분 이상은 소숫점을 표시하지 않음</value>
   </data>
   <data name="DeltaSettings.label12" xml:space="preserve">
-    <value>Comparison:</value>
+    <value>비교할 런:</value>
   </data>
   <data name="DeltaSettings.groupBox1" xml:space="preserve">
-    <value>Text Color</value>
+    <value>텍스트 색상</value>
   </data>
   <data name="DeltaSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="DeltaSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="DeltaSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="DeltaSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>2줄로 표시</value>
   </data>
   <data name="DetailedTimerSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="DetailedTimerSettings.groupBox9" xml:space="preserve">
-    <value>Icon</value>
+    <value>아이콘</value>
   </data>
   <data name="DetailedTimerSettings.chkDisplayIcon" xml:space="preserve">
-    <value>Display Icon</value>
+    <value>아이콘 표시</value>
   </data>
   <data name="DetailedTimerSettings.label7" xml:space="preserve">
-    <value>Size:</value>
+    <value>크기:</value>
   </data>
   <data name="DetailedTimerSettings.groupBox1" xml:space="preserve">
-    <value>Timer</value>
+    <value>타이머</value>
   </data>
   <data name="DetailedTimerSettings.label15" xml:space="preserve">
-    <value>Format:</value>
+    <value>서식:</value>
   </data>
   <data name="DetailedTimerSettings.groupBox2" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="DetailedTimerSettings.chkOverrideTimerColors" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="DetailedTimerSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="DetailedTimerSettings.chkShowGradientTimer" xml:space="preserve">
-    <value>Show Gradient</value>
+    <value>그래디언트 표시</value>
   </data>
   <data name="DetailedTimerSettings.label17" xml:space="preserve">
-    <value>Decimals Font Size:</value>
+    <value>소숫점자리 글꼴 크기:</value>
   </data>
   <data name="DetailedTimerSettings.lblSize" xml:space="preserve">
-    <value>Height:</value>
+    <value>높이:</value>
   </data>
   <data name="DetailedTimerSettings.groupBox3" xml:space="preserve">
-    <value>Segment Timer</value>
+    <value>구간 타이머</value>
   </data>
   <data name="DetailedTimerSettings.chkShowGradientSegmentTimer" xml:space="preserve">
-    <value>Show Gradient</value>
+    <value>그래디언트 표시</value>
   </data>
   <data name="DetailedTimerSettings.label2" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="DetailedTimerSettings.label14" xml:space="preserve">
-    <value>Format:</value>
+    <value>서식:</value>
   </data>
   <data name="DetailedTimerSettings.label18" xml:space="preserve">
-    <value>Decimals Font Size:</value>
+    <value>소숫점자리 글꼴 크기:</value>
   </data>
   <data name="DetailedTimerSettings.label5" xml:space="preserve">
-    <value>Segment Timer Size:</value>
+    <value>구간 타이머 크기:</value>
   </data>
   <data name="DetailedTimerSettings.groupBox7" xml:space="preserve">
-    <value>Segment Labels</value>
+    <value>구간 표제</value>
   </data>
   <data name="DetailedTimerSettings.label3" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="DetailedTimerSettings.label6" xml:space="preserve">
-    <value>Font:</value>
+    <value>글꼴:</value>
   </data>
   <data name="DetailedTimerSettings.lblSegmentLabelsFont" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴</value>
   </data>
   <data name="DetailedTimerSettings.btnSegmentLabelsFont" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="DetailedTimerSettings.groupBox8" xml:space="preserve">
-    <value>Segment Times</value>
+    <value>구간 시간</value>
   </data>
   <data name="DetailedTimerSettings.label8" xml:space="preserve">
-    <value>Font:</value>
+    <value>색상:</value>
   </data>
   <data name="DetailedTimerSettings.groupBox6" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>정확도</value>
   </data>
   <data name="DetailedTimerSettings.btnSegmentTimesHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="DetailedTimerSettings.btnSegmentTimesTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="DetailedTimerSettings.btnSegmentTimesSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="DetailedTimerSettings.lblSegmentTimesFont" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴</value>
   </data>
   <data name="DetailedTimerSettings.btnSegmentTimesFont" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="DetailedTimerSettings.label4" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="DetailedTimerSettings.groupBox10" xml:space="preserve">
-    <value>Split Name</value>
+    <value>스플릿 이름</value>
   </data>
   <data name="DetailedTimerSettings.chkSplitName" xml:space="preserve">
-    <value>Show Split Name</value>
+    <value>스플릿 이름 표시</value>
   </data>
   <data name="DetailedTimerSettings.label9" xml:space="preserve">
-    <value>Split Name Color:</value>
+    <value>스플릿 이름 색상:</value>
   </data>
   <data name="DetailedTimerSettings.label10" xml:space="preserve">
-    <value>Font:</value>
+    <value>글꼴:</value>
   </data>
   <data name="DetailedTimerSettings.lblSplitNameFont" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴</value>
   </data>
   <data name="DetailedTimerSettings.btnSplitNameFont" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="DetailedTimerSettings.groupBox11" xml:space="preserve">
-    <value>Segment Time Comparisons</value>
+    <value>구간 기록 비교군</value>
   </data>
   <data name="DetailedTimerSettings.label12" xml:space="preserve">
-    <value>Comparison 1:</value>
+    <value>비교할 런 1:</value>
   </data>
   <data name="DetailedTimerSettings.chkHideComparison" xml:space="preserve">
-    <value>Hide Comparison 2</value>
+    <value>비교할 런 2 감추기</value>
   </data>
   <data name="DetailedTimerSettings.label13" xml:space="preserve">
-    <value>Comparison 2:</value>
+    <value>비교할 런 2:</value>
   </data>
   <data name="DetailedTimerSettings.label16" xml:space="preserve">
-    <value>Timing Method:</value>
+    <value>기록시간 종류:</value>
   </data>
   <data name="GraphSettings.heightLabel" xml:space="preserve">
-    <value>Height:</value>
+    <value>높이:</value>
   </data>
   <data name="GraphSettings.label1" xml:space="preserve">
-    <value>Behind Background Color:</value>
+    <value>뒤쳐질 때 배경 색상:</value>
   </data>
   <data name="GraphSettings.label2" xml:space="preserve">
-    <value>Ahead Background Color:</value>
+    <value>앞설 때 배경 색상:</value>
   </data>
   <data name="GraphSettings.label3" xml:space="preserve">
-    <value>Gridlines Color:</value>
+    <value>격자선 색상:</value>
   </data>
   <data name="GraphSettings.label4" xml:space="preserve">
-    <value>Main Graph Color:</value>
+    <value>주 그래프 색상:</value>
   </data>
   <data name="GraphSettings.label5" xml:space="preserve">
-    <value>Partial Fill Color (Behind):</value>
+    <value>부분 채우기 색상 (뒤쳐질 때):</value>
   </data>
   <data name="GraphSettings.label6" xml:space="preserve">
-    <value>Complete Fill Color (Behind):</value>
+    <value>완료 구간 채우기 색상 (뒤쳐질 때):</value>
   </data>
   <data name="GraphSettings.chkLiveGraph" xml:space="preserve">
-    <value>Live Graph</value>
+    <value>실시간 그래프</value>
   </data>
   <data name="GraphSettings.label8" xml:space="preserve">
-    <value>Separators Color:</value>
+    <value>구분자 색상:</value>
   </data>
   <data name="GraphSettings.label7" xml:space="preserve">
-    <value>Shadows Color:</value>
+    <value>그림자 색상:</value>
   </data>
   <data name="GraphSettings.label9" xml:space="preserve">
-    <value>Partial Fill Color (Ahead):</value>
+    <value>부분 채우기 색상 (앞설 때):</value>
   </data>
   <data name="GraphSettings.label10" xml:space="preserve">
-    <value>Complete Fill Color (Ahead):</value>
+    <value>완료 구간 채우기 색상 (앞설 때):</value>
   </data>
   <data name="GraphSettings.chkFlipGraph" xml:space="preserve">
-    <value>Flip Graph</value>
+    <value>그래프 반전</value>
   </data>
   <data name="GraphSettings.label12" xml:space="preserve">
-    <value>Comparison:</value>
+    <value>비교할 런:</value>
   </data>
   <data name="GraphSettings.chkShowBestSegments" xml:space="preserve">
-    <value>Show Best Segments</value>
+    <value>구간별 최고 기록 표시</value>
   </data>
   <data name="GraphSettings.lblBestSegmentColor" xml:space="preserve">
-    <value>Best Segment Color:</value>
+    <value>구간 최고기록 색상:</value>
   </data>
   <data name="HotkeyIndicatorSettings.label11" xml:space="preserve">
-    <value>Global Hotkeys On Color:</value>
+    <value>글로벌 단축키 켜짐 색상</value>
   </data>
   <data name="HotkeyIndicatorSettings.label1" xml:space="preserve">
-    <value>Global Hotkeys Off Color:</value>
+    <value>글로벌 단축키 꺼짐 색상</value>
   </data>
   <data name="ManualGameTimeSettings.groupBox4" xml:space="preserve">
-    <value>Game Time Input</value>
+    <value>게임 시간 입력</value>
   </data>
   <data name="ManualGameTimeSettings.rdoSegmentTimes" xml:space="preserve">
-    <value>Segment Times</value>
+    <value>구간 기록</value>
   </data>
   <data name="ManualGameTimeSettings.rdoSplitTimes" xml:space="preserve">
-    <value>Split Times</value>
+    <value>스플릿 기록</value>
   </data>
   <data name="ShitSplitter" xml:space="preserve">
-    <value>Enter Game Time</value>
+    <value>기록 입력</value>
   </data>
   <data name="PossibleTimeSaveSettings.label12" xml:space="preserve">
-    <value>Comparison:</value>
+    <value>비교할 런:</value>
   </data>
   <data name="PossibleTimeSaveSettings.groupBox1" xml:space="preserve">
-    <value>Text Color</value>
+    <value>텍스트 색상</value>
   </data>
   <data name="PossibleTimeSaveSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="PossibleTimeSaveSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="PossibleTimeSaveSettings.groupBox2" xml:space="preserve">
-    <value>Time</value>
+    <value>시간</value>
   </data>
   <data name="PossibleTimeSaveSettings.groupBox4" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>정확도</value>
   </data>
   <data name="PossibleTimeSaveSettings.chkDropDecimals" xml:space="preserve">
-    <value>Drop Decimals When More Than 1 Minute</value>
+    <value>1분 이상은 소숫점을 표시하지 않음</value>
   </data>
   <data name="PossibleTimeSaveSettings.rdoTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="PossibleTimeSaveSettings.rdoHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="PossibleTimeSaveSettings.rdoSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="PossibleTimeSaveSettings.groupBox3" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="PossibleTimeSaveSettings.chkOverrideTimeColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="PossibleTimeSaveSettings.label2" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="PossibleTimeSaveSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="PossibleTimeSaveSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>두 줄로 표시</value>
   </data>
   <data name="PossibleTimeSaveSettings.chkTotalTimeSave" xml:space="preserve">
-    <value>Show Total Possible Time Save</value>
+    <value>총 아낄 수 있는 시간 표시</value>
   </data>
   <data name="PreviousSegmentSettings.groupBox6" xml:space="preserve">
-    <value>Delta Accuracy</value>
+    <value>차이값 정확도</value>
   </data>
   <data name="PreviousSegmentSettings.groupBox7" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>정확도</value>
   </data>
   <data name="PreviousSegmentSettings.rdoDeltaSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="PreviousSegmentSettings.rdoDeltaTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="PreviousSegmentSettings.rdoDeltaHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="PreviousSegmentSettings.chkDropDecimals" xml:space="preserve">
-    <value>Drop Decimals When More Than 1 Minute</value>
+    <value>1분 이상은 소숫점을 표시하지 않음</value>
   </data>
   <data name="PreviousSegmentSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="PreviousSegmentSettings.groupBox1" xml:space="preserve">
-    <value>Text Color</value>
+    <value>텍스트 색상</value>
   </data>
   <data name="PreviousSegmentSettings.chkOverride" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="PreviousSegmentSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="PreviousSegmentSettings.label12" xml:space="preserve">
-    <value>Comparison:</value>
+    <value>비교할 런:</value>
   </data>
   <data name="PreviousSegmentSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>두 줄로 표시</value>
   </data>
   <data name="PreviousSegmentSettings.chkPossibleTimeSave" xml:space="preserve">
-    <value>Show Possible Time Save</value>
+    <value>총 아낄 수 있는 시간 표시</value>
   </data>
   <data name="PreviousSegmentSettings.groupBox2" xml:space="preserve">
-    <value>Possible Time Save</value>
+    <value>아낄 수 있는 시간</value>
   </data>
   <data name="PreviousSegmentSettings.boxTimeSaveAccuracy" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>정확도</value>
   </data>
   <data name="PreviousSegmentSettings.rdoTimeSaveSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="PreviousSegmentSettings.rdoTimeSaveTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="PreviousSegmentSettings.rdoTimeSaveHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="RacetimeSettingsControl.label1" xml:space="preserve">
-    <value>There are no options available for this racing service.</value>
+    <value>현재 레이스 서비스는 추가 옵션이 제공되지 않습니다.</value>
   </data>
   <data name="ChannelForm.loadMessage" xml:space="preserve">
-    <value>Loading...</value>
+    <value>불러오는 중...</value>
   </data>
   <data name="ChannelForm" xml:space="preserve">
     <value>ChannelWindow</value>
   </data>
   <data name="RunPredictionSettings.label12" xml:space="preserve">
-    <value>Comparison:</value>
+    <value>비교할 런:</value>
   </data>
   <data name="RunPredictionSettings.groupBox1" xml:space="preserve">
-    <value>Text Color</value>
+    <value>텍스트 색상</value>
   </data>
   <data name="RunPredictionSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="RunPredictionSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="RunPredictionSettings.groupBox2" xml:space="preserve">
-    <value>Time</value>
+    <value>시간</value>
   </data>
   <data name="RunPredictionSettings.groupBox4" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>정확도</value>
   </data>
   <data name="RunPredictionSettings.rdoSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="RunPredictionSettings.rdoTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="RunPredictionSettings.rdoHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="RunPredictionSettings.groupBox3" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="RunPredictionSettings.chkOverrideTimeColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="RunPredictionSettings.label2" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="RunPredictionSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="RunPredictionSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>2줄로 표시</value>
   </data>
   <data name="ComponentSettings.labelScriptPath" xml:space="preserve">
-    <value>Script Path:</value>
+    <value>스크립트 경로:</value>
   </data>
   <data name="ComponentSettings.btnSelectFile" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="ComponentSettings.btnCheckAll" xml:space="preserve">
-    <value>Check All</value>
+    <value>전체선택</value>
   </data>
   <data name="ComponentSettings.btnUncheckAll" xml:space="preserve">
-    <value>Uncheck All</value>
+    <value>전체선택해제</value>
   </data>
   <data name="ComponentSettings.btnResetToDefault" xml:space="preserve">
-    <value>Reset to Default</value>
+    <value>기본값으로 초기화</value>
   </data>
   <data name="ComponentSettings.checkboxStart" xml:space="preserve">
-    <value>Start</value>
+    <value>시작</value>
   </data>
   <data name="ComponentSettings.checkboxSplit" xml:space="preserve">
-    <value>Split</value>
+    <value>스플릿</value>
   </data>
   <data name="ComponentSettings.checkboxReset" xml:space="preserve">
-    <value>Reset</value>
+    <value>초기화</value>
   </data>
   <data name="ComponentSettings.lblGameVersion" xml:space="preserve">
-    <value>Game Version: 1.0</value>
+    <value>게임 버전: 1.0</value>
   </data>
   <data name="ComponentSettings.labelOptions" xml:space="preserve">
-    <value>Options:</value>
+    <value>설정:</value>
   </data>
   <data name="ComponentSettings.labelCustomSettings" xml:space="preserve">
-    <value>Advanced:</value>
+    <value>고급:</value>
   </data>
   <data name="ComponentSettings.cmiExpandTree" xml:space="preserve">
     <value>Expand Tree</value>
@@ -661,724 +661,724 @@
     <value>Reset Setting to Default</value>
   </data>
   <data name="ComponentSettings.resetSettingToDefaultToolStripMenuItem" xml:space="preserve">
-    <value>Reset Setting to Default</value>
+    <value>설정 기본값으로 초기하기</value>
   </data>
   <data name="Settings.label1" xml:space="preserve">
-    <value>Port:</value>
+    <value>포트:</value>
   </data>
   <data name="Settings.label2" xml:space="preserve">
-    <value>Local IP(s):</value>
+    <value>로컬 IP:</value>
   </data>
   <data name="Settings.label3" xml:space="preserve">
-    <value>IP Address</value>
+    <value>IP 주소</value>
   </data>
   <data name="Settings.label4" xml:space="preserve">
-    <value>This is NOT your public IP. With most network setups, only devices on your network can use this address to find your computer.</value>
+    <value>이 주소는 공용 IP 주소가 아닙니다. 대부분의 네트워크 환경에서는 같은 네트워크 상 기기만 이 주소의 기기를 찾을 수 있습니다.</value>
   </data>
   <data name="SoundSettings.tpSoundFiles" xml:space="preserve">
-    <value>Sound Files</value>
+    <value>음향 파일</value>
   </data>
   <data name="SoundSettings.label14" xml:space="preserve">
-    <value>Start Timer:</value>
+    <value>타이머 시작:</value>
   </data>
   <data name="SoundSettings.label13" xml:space="preserve">
-    <value>Resume:</value>
+    <value>재개:</value>
   </data>
   <data name="SoundSettings.label12" xml:space="preserve">
-    <value>Pause:</value>
+    <value>일시정지:</value>
   </data>
   <data name="SoundSettings.label11" xml:space="preserve">
-    <value>Reset:</value>
+    <value>초기화:</value>
   </data>
   <data name="SoundSettings.label10" xml:space="preserve">
-    <value>Not a Personal Best:</value>
+    <value>개인 최고 기록 아님:</value>
   </data>
   <data name="SoundSettings.label9" xml:space="preserve">
-    <value>Personal Best:</value>
+    <value>개인 최고 기록 갱신:</value>
   </data>
   <data name="SoundSettings.label8" xml:space="preserve">
-    <value>Skip Split:</value>
+    <value>스플릿 넘기기:</value>
   </data>
   <data name="SoundSettings.label7" xml:space="preserve">
-    <value>Undo Split:</value>
+    <value>스플릿 되돌리기:</value>
   </data>
   <data name="SoundSettings.label5" xml:space="preserve">
-    <value>Split (Best Segment):</value>
+    <value>스플릿 (구간 최고):</value>
   </data>
   <data name="SoundSettings.label6" xml:space="preserve">
-    <value>Split (Behind, Losing Time):</value>
+    <value>스플릿 (뒤쳐질 때, 시간 잃음):</value>
   </data>
   <data name="SoundSettings.label4" xml:space="preserve">
-    <value>Split (Behind, Gaining Time):</value>
+    <value>스플릿 (뒤쳐질 때, 시간 아낌):</value>
   </data>
   <data name="SoundSettings.label3" xml:space="preserve">
-    <value>Split (Ahead, Losing Time):</value>
+    <value>스플릿 (앞설 때, 시간 잃음):</value>
   </data>
   <data name="SoundSettings.label2" xml:space="preserve">
-    <value>Split (Ahead, Gaining Time):</value>
+    <value>스플릿 (앞설 때, 시간 아낌):</value>
   </data>
   <data name="SoundSettings.label1" xml:space="preserve">
-    <value>Split:</value>
+    <value>스플릿:</value>
   </data>
   <data name="SoundSettings.btnResume" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnPause" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnReset" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnNotAPersonalBest" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnPersonalBest" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnSkipSplit" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnUndo" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnBestSegment" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnBehindLosing" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnBehindGaining" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnAheadLosing" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnAheadGaining" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnSplit" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.btnStartTimer" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="SoundSettings.tpVolumeMixer" xml:space="preserve">
-    <value>Volume Mixer</value>
+    <value>볼륨 믹서</value>
   </data>
   <data name="SoundSettings.label16" xml:space="preserve">
-    <value>Start Timer:</value>
+    <value>타이머 시작:</value>
   </data>
   <data name="SoundSettings.label17" xml:space="preserve">
-    <value>Resume:</value>
+    <value>재개:</value>
   </data>
   <data name="SoundSettings.label18" xml:space="preserve">
-    <value>Pause:</value>
+    <value>일시정지:</value>
   </data>
   <data name="SoundSettings.label19" xml:space="preserve">
-    <value>Reset:</value>
+    <value>초기화:</value>
   </data>
   <data name="SoundSettings.label20" xml:space="preserve">
-    <value>Not a Personal Best:</value>
+    <value>개인 최고 기록 아님:</value>
   </data>
   <data name="SoundSettings.label21" xml:space="preserve">
-    <value>Personal Best:</value>
+    <value>개인 최고 기록 갱신:</value>
   </data>
   <data name="SoundSettings.label22" xml:space="preserve">
-    <value>Skip Split:</value>
+    <value>스플릿 넘기기:</value>
   </data>
   <data name="SoundSettings.label23" xml:space="preserve">
-    <value>Undo Split:</value>
+    <value>스플릿 되돌리기:</value>
   </data>
   <data name="SoundSettings.label24" xml:space="preserve">
-    <value>Split (Best Segment):</value>
+    <value>스플릿 (구간 최고):</value>
   </data>
   <data name="SoundSettings.label25" xml:space="preserve">
-    <value>Split (Behind, Losing Time):</value>
+    <value>스플릿 (뒤쳐질 때, 시간 잃음):</value>
   </data>
   <data name="SoundSettings.label26" xml:space="preserve">
-    <value>Split (Behind, Gaining Time):</value>
+    <value>스플릿 (뒤쳐질 때, 시간 아낌):</value>
   </data>
   <data name="SoundSettings.label27" xml:space="preserve">
-    <value>Split (Ahead, Losing Time):</value>
+    <value>스플릿 (앞설 때, 시간 잃음):</value>
   </data>
   <data name="SoundSettings.label28" xml:space="preserve">
-    <value>Split (Ahead, Gaining Time):</value>
+    <value>스플릿 (앞설 때, 시간 아낌):</value>
   </data>
   <data name="SoundSettings.label29" xml:space="preserve">
-    <value>Split:</value>
+    <value>스플릿:</value>
   </data>
   <data name="SoundSettings.label15" xml:space="preserve">
-    <value>General Volume:</value>
+    <value>마스터 볼륨:</value>
   </data>
   <data name="SoundSettings.label30" xml:space="preserve">
-    <value>Output Device:</value>
+    <value>출력 기기:</value>
   </data>
   <data name="ColumnSettings.label1" xml:space="preserve">
-    <value>Name:</value>
+    <value>이름:</value>
   </data>
   <data name="ColumnSettings.label2" xml:space="preserve">
-    <value>Timing Method:</value>
+    <value>기록시간 종류:</value>
   </data>
   <data name="ColumnSettings.label3" xml:space="preserve">
-    <value>Column Type:</value>
+    <value>행 종류:</value>
   </data>
   <data name="ColumnSettings.label4" xml:space="preserve">
-    <value>Comparison:</value>
+    <value>비교할 런:</value>
   </data>
   <data name="ColumnSettings.btnRemoveColumn" xml:space="preserve">
-    <value>Remove Column</value>
+    <value>행 삭제</value>
   </data>
   <data name="ColumnSettings.btnMoveDown" xml:space="preserve">
-    <value>Move Down</value>
+    <value>아래로</value>
   </data>
   <data name="ColumnSettings.btnMoveUp" xml:space="preserve">
-    <value>Move Up</value>
+    <value>위로</value>
   </data>
   <data name="ColumnSettings.groupColumn" xml:space="preserve">
-    <value>Column Name</value>
+    <value>행 이름</value>
   </data>
   <data name="SplitsSettings.label4" xml:space="preserve">
-    <value>Current Split Background Color:</value>
+    <value>현재 스플릿 배경색:</value>
   </data>
   <data name="SplitsSettings.label1" xml:space="preserve">
-    <value>Total Splits:</value>
+    <value>총 스플릿 갯수:</value>
   </data>
   <data name="SplitsSettings.label2" xml:space="preserve">
-    <value>Upcoming Splits:</value>
+    <value>다음 스플릿:</value>
   </data>
   <data name="SplitsSettings.chkThinSeparators" xml:space="preserve">
-    <value>Show Thin Separators</value>
+    <value>얇은 구분자 표시</value>
   </data>
   <data name="SplitsSettings.chkLastSplit" xml:space="preserve">
-    <value>Always Show Last Split</value>
+    <value>마지막 스플릿 항상 보이기</value>
   </data>
   <data name="SplitsSettings.groupBox3" xml:space="preserve">
-    <value>Icons</value>
+    <value>아이콘</value>
   </data>
   <data name="SplitsSettings.chkDisplayIcons" xml:space="preserve">
-    <value>Display Icons</value>
+    <value>아이콘 표시</value>
   </data>
   <data name="SplitsSettings.label5" xml:space="preserve">
-    <value>Size:</value>
+    <value>크기:</value>
   </data>
   <data name="SplitsSettings.chkIconShadows" xml:space="preserve">
-    <value>Icon Shadows</value>
+    <value>아이콘 그림자 표시</value>
   </data>
   <data name="SplitsSettings.groupBox4" xml:space="preserve">
-    <value>Split Times</value>
+    <value>스플릿 기록</value>
   </data>
   <data name="SplitsSettings.groupBox5" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="SplitsSettings.label9" xml:space="preserve">
-    <value>Color (Current Split):</value>
+    <value>색상 (현재 스플릿):</value>
   </data>
   <data name="SplitsSettings.label7" xml:space="preserve">
-    <value>Color (After Current Split):</value>
+    <value>색상 (현재 스플릿 이후):</value>
   </data>
   <data name="SplitsSettings.chkOverrideTimesColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="SplitsSettings.label6" xml:space="preserve">
-    <value>Color (Before Current Split):</value>
+    <value>색상 (현재 스플릿 이전):</value>
   </data>
   <data name="SplitsSettings.groupBox1" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>정확도</value>
   </data>
   <data name="SplitsSettings.rdoSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>초</value>
   </data>
   <data name="SplitsSettings.rdoTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="SplitsSettings.rdoHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="SplitsSettings.lblSplitSize" xml:space="preserve">
-    <value>Horizontal Split Width:</value>
+    <value>가로 스플릿 너비:</value>
   </data>
   <data name="SplitsSettings.chkSeparatorLastSplit" xml:space="preserve">
-    <value>Show Separator Before Last Split</value>
+    <value>마지막 스플릿 전 구분자 표시</value>
   </data>
   <data name="SplitsSettings.groupBox6" xml:space="preserve">
-    <value>Deltas</value>
+    <value>차이값</value>
   </data>
   <data name="SplitsSettings.groupBox8" xml:space="preserve">
-    <value>Live Delta Color</value>
+    <value>실시간 차이값 색상</value>
   </data>
   <data name="SplitsSettings.chkOverrideDeltaColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="SplitsSettings.label8" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="SplitsSettings.groupBox7" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>정확도</value>
   </data>
   <data name="SplitsSettings.rdoDeltaSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="SplitsSettings.chkDropDecimals" xml:space="preserve">
-    <value>Drop Decimals When More Than 1 Minute</value>
+    <value>1분 이상은 소숫점을 표시하지 않음</value>
   </data>
   <data name="SplitsSettings.rdoDeltaTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="SplitsSettings.rdoDeltaHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="SplitsSettings.chkLockLastSplit" xml:space="preserve">
-    <value>Lock Last Split to Bottom</value>
+    <value>마지막 스플릿 가장 아래에 고정</value>
   </data>
   <data name="SplitsSettings.chkShowBlankSplits" xml:space="preserve">
-    <value>Fill with Blank Space if Not Enough Splits</value>
+    <value>스플릿 수가 충분하지 않을 경우 빈 공간으로 대체</value>
   </data>
   <data name="SplitsSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="SplitsSettings.chkDisplayRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>2줄로 표시</value>
   </data>
   <data name="SplitsSettings.groupColumns" xml:space="preserve">
-    <value>Columns</value>
+    <value>행</value>
   </data>
   <data name="SplitsSettings.chkColumnLabels" xml:space="preserve">
-    <value>Show Column Labels</value>
+    <value>행 이름 표시</value>
   </data>
   <data name="SplitsSettings.btnAddColumn" xml:space="preserve">
-    <value>Add Column</value>
+    <value>행 추가</value>
   </data>
   <data name="SplitsSettings.lblLabelsColor" xml:space="preserve">
-    <value>Labels Color:</value>
+    <value>표제 색상:</value>
   </data>
   <data name="SplitsSettings.groupBox9a" xml:space="preserve">
-    <value>Split Names</value>
+    <value>스플릿 이름</value>
   </data>
   <data name="SplitsSettings.groupBox2" xml:space="preserve">
-    <value>Split Names Color</value>
+    <value>스플릿 이름 색상</value>
   </data>
   <data name="SplitsSettings.label13" xml:space="preserve">
-    <value>Color (After Current Split):</value>
+    <value>색상 (현재 스플릿 이후):</value>
   </data>
   <data name="SplitsSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="SplitsSettings.label3" xml:space="preserve">
-    <value>Color (Before Current Split):</value>
+    <value>색상 (현재 스플릿 이전):</value>
   </data>
   <data name="SplitsSettings.label10" xml:space="preserve">
-    <value>Color (Current Split):</value>
+    <value>색상 (현재 스플릿):</value>
   </data>
   <data name="SplitsSettings.chkAutomaticAbbreviations" xml:space="preserve">
-    <value>Automatically Abbreviate Names If Necessary</value>
+    <value>필요시 자동으로 이름 줄이기</value>
   </data>
   <data name="SplitsSettings.chkIndentBlankIcons" xml:space="preserve">
-    <value>Indent Blank Icons</value>
+    <value>빈 아이콘 들여표시</value>
   </data>
   <data name="SplitsSettings.GroupBox9b" xml:space="preserve">
-    <value>Subsplits</value>
+    <value>서브스플릿</value>
   </data>
   <data name="SplitsSettings.groupBox11" xml:space="preserve">
-    <value>Section Header</value>
+    <value>서브스플릿 헤더</value>
   </data>
   <data name="SplitsSettings.groupBox13" xml:space="preserve">
-    <value>Section Timer</value>
+    <value>구간별 타이머</value>
   </data>
   <data name="SplitsSettings.groupBox14" xml:space="preserve">
-    <value>Timer Accuracy</value>
+    <value>타이머 정확도</value>
   </data>
   <data name="SplitsSettings.rdoSectionTimerAccuracySeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="SplitsSettings.rdoSectionTimerAccuracyTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="SplitsSettings.rdoSectionTimerAccuracyHundreths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="SplitsSettings.chkSectionTimer" xml:space="preserve">
-    <value>Show Section Timer</value>
+    <value>구간 타이머 표시</value>
   </data>
   <data name="SplitsSettings.label19" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="SplitsSettings.chkSectionTimerGradient" xml:space="preserve">
-    <value>Show Gradient</value>
+    <value>그래디언트 표시</value>
   </data>
   <data name="SplitsSettings.groupBox12" xml:space="preserve">
-    <value>Section Header Color</value>
+    <value>구간 헤더 색상</value>
   </data>
   <data name="SplitsSettings.groupBox15" xml:space="preserve">
-    <value>Time Accuracy</value>
+    <value>기록 정확도</value>
   </data>
   <data name="SplitsSettings.rdoHeaderAccuracySeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="SplitsSettings.rdoHeaderAccuracyTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="SplitsSettings.rdoHeaderAccuracyHundreths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="SplitsSettings.label18" xml:space="preserve">
-    <value>Time Color</value>
+    <value>시간 색상</value>
   </data>
   <data name="SplitsSettings.chkHeaderTimes" xml:space="preserve">
-    <value>Show Total Section Time</value>
+    <value>총 구간 기록 표시</value>
   </data>
   <data name="SplitsSettings.label17" xml:space="preserve">
-    <value>Name Color</value>
+    <value>이름 색상</value>
   </data>
   <data name="SplitsSettings.label16" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="SplitsSettings.chkOverrideHeaderColor" xml:space="preserve">
-    <value>Override Layout Text Colors</value>
+    <value>레이아웃 텍스트 색상 덮어쓰기</value>
   </data>
   <data name="SplitsSettings.chkHeaderText" xml:space="preserve">
-    <value>Show Split Name</value>
+    <value>스플릿 이름 표시</value>
   </data>
   <data name="SplitsSettings.lblTimingMethod" xml:space="preserve">
-    <value>Timing Method:</value>
+    <value>기록시간 종류:</value>
   </data>
   <data name="SplitsSettings.chkShowHeader" xml:space="preserve">
-    <value>Show Section Header</value>
+    <value>구간 헤더 표시</value>
   </data>
   <data name="SplitsSettings.lblComparison" xml:space="preserve">
-    <value>Comparison:</value>
+    <value>비교할 런:</value>
   </data>
   <data name="SplitsSettings.chkShowSectionIcon" xml:space="preserve">
-    <value>Show Icon</value>
+    <value>아이콘 표시</value>
   </data>
   <data name="SplitsSettings.chkShowIconSectionSplit" xml:space="preserve">
-    <value>Show Icon of Last Split of Section</value>
+    <value>구간 중 마지막 스플릿의 아이콘 표시 </value>
   </data>
   <data name="SplitsSettings.chkIndentSectionSplit" xml:space="preserve">
-    <value>Indent Last Split Of Section</value>
+    <value>구간 중 마지막 스플릿 들여표시</value>
   </data>
   <data name="SplitsSettings.groupBox10" xml:space="preserve">
-    <value>Subsplit Color</value>
+    <value>서브스플릿 색상</value>
   </data>
   <data name="SplitsSettings.label15" xml:space="preserve">
-    <value>Subsplit Background Color:</value>
+    <value>서브스플릿 배경 색상:</value>
   </data>
   <data name="SplitsSettings.chkOverrideSubsplitColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="SplitsSettings.label14" xml:space="preserve">
-    <value>To set a split as a subsplit, add a - (dash) to the beginning of the split name.\r\nOptional: Add a section name with {}. Ex: \"{Section Name} Split Name\"</value>
+    <value>스플릿을 서브스플릿으로 설정하려면 스플릿 이름 앞에 - (대쉬)를 추가하세요.\r\n선택사항: 스플릿에 구간 이름을 {}와 함께 입력하세요. . 예): \"{구간 이름} 스플릿 이름\"</value>
   </data>
   <data name="SplitsSettings.rdoHideSubsplits" xml:space="preserve">
-    <value>Always Hide Subsplits</value>
+    <value>서브스플릿 항상 감추기</value>
   </data>
   <data name="SplitsSettings.rdoNormalSubsplits" xml:space="preserve">
-    <value>Contextual Subsplits</value>
+    <value>맥락상 서브스플릿</value>
   </data>
   <data name="SplitsSettings.rdoShowSubsplits" xml:space="preserve">
-    <value>Always Show Subsplits</value>
+    <value>서브스플릿 항상 표시</value>
   </data>
   <data name="SplitsSettings.chkIndentSubsplits" xml:space="preserve">
-    <value>Indent Subsplits</value>
+    <value>서브스플릿 들여표시</value>
   </data>
   <data name="SplitsSettings.chkCurrentSectionOnly" xml:space="preserve">
-    <value>Only Current Section</value>
+    <value>현재 구간만</value>
   </data>
   <data name="SplitsSettings.lblMinimumMajorSplits" xml:space="preserve">
-    <value>Minimum Number of Sections Before Current Section:</value>
+    <value>현재 구간 이전에 표시 할 최소 구간 수</value>
   </data>
   <data name="SumOfBestSettings.groupBox1" xml:space="preserve">
-    <value>Text</value>
+    <value>텍스트</value>
   </data>
   <data name="SumOfBestSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="SumOfBestSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="SumOfBestSettings.groupBox2" xml:space="preserve">
-    <value>Time</value>
+    <value>시간</value>
   </data>
   <data name="SumOfBestSettings.groupBox4" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>정확도</value>
   </data>
   <data name="SumOfBestSettings.rdoSeconds" xml:space="preserve">
-    <value>Seconds</value>
+    <value>1초</value>
   </data>
   <data name="SumOfBestSettings.rdoTenths" xml:space="preserve">
-    <value>Tenths</value>
+    <value>0.1초</value>
   </data>
   <data name="SumOfBestSettings.rdoHundredths" xml:space="preserve">
-    <value>Hundredths</value>
+    <value>0.01초</value>
   </data>
   <data name="SumOfBestSettings.groupBox3" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="SumOfBestSettings.chkOverrideTimeColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="SumOfBestSettings.label2" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="SumOfBestSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="SumOfBestSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>2줄로 표시</value>
   </data>
   <data name="TextComponentSettings.groupBox1" xml:space="preserve">
-    <value>Left Text</value>
+    <value>왼쪽 텍스트</value>
   </data>
   <data name="TextComponentSettings.groupBox5" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴</value>
   </data>
   <data name="TextComponentSettings.lblFont" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴:</value>
   </data>
   <data name="TextComponentSettings.btnFont" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="TextComponentSettings.chkFont" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TextComponentSettings.label5" xml:space="preserve">
-    <value>Font:</value>
+    <value>글꼴:</value>
   </data>
   <data name="TextComponentSettings.groupBox4" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="TextComponentSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TextComponentSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="TextComponentSettings.label3" xml:space="preserve">
-    <value>Text:</value>
+    <value>텍스트:</value>
   </data>
   <data name="TextComponentSettings.groupBox2" xml:space="preserve">
-    <value>Right Text</value>
+    <value>오른쪽 텍스트</value>
   </data>
   <data name="TextComponentSettings.groupBox6" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴</value>
   </data>
   <data name="TextComponentSettings.lblFont2" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴:</value>
   </data>
   <data name="TextComponentSettings.btnFont2" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="TextComponentSettings.chkFont2" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TextComponentSettings.label7" xml:space="preserve">
-    <value>Font:</value>
+    <value>글꼴:</value>
   </data>
   <data name="TextComponentSettings.label4" xml:space="preserve">
-    <value>Text:</value>
+    <value>텍스트:</value>
   </data>
   <data name="TextComponentSettings.groupBox3" xml:space="preserve">
-    <value>Color</value>
+    <value>색상</value>
   </data>
   <data name="TextComponentSettings.chkOverrideTimeColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TextComponentSettings.label2" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="TextComponentSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="TextComponentSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>2줄로 표시</value>
   </data>
   <data name="TimerSettings.lblSize" xml:space="preserve">
-    <value>Height:</value>
+    <value>높이:</value>
   </data>
   <data name="TimerSettings.chkGradient" xml:space="preserve">
-    <value>Show Gradient</value>
+    <value>그래디언트 표시</value>
   </data>
   <data name="TimerSettings.groupBox2" xml:space="preserve">
-    <value>Timer Color</value>
+    <value>타이머 색상</value>
   </data>
   <data name="TimerSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="TimerSettings.chkOverrideTimerColors" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TimerSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="TimerSettings.chkCenterTimer" xml:space="preserve">
-    <value>Align to Center</value>
+    <value>중앙 정렬</value>
   </data>
   <data name="TimerSettings.label2" xml:space="preserve">
-    <value>Timing Method:</value>
+    <value>기록시간 종류:</value>
   </data>
   <data name="TimerSettings.label3" xml:space="preserve">
-    <value>Timer Format:</value>
+    <value>타이머 형식:</value>
   </data>
   <data name="TimerSettings.label4" xml:space="preserve">
-    <value>Decimals Font Size:</value>
+    <value>소숫점 글꼴 크기:</value>
   </data>
   <data name="TitleSettings.chkCategoryName" xml:space="preserve">
-    <value>Show Category Name</value>
+    <value>카테고리 이름 표시</value>
   </data>
   <data name="TitleSettings.chkGameName" xml:space="preserve">
-    <value>Show Game Name</value>
+    <value>게임 이름 표시</value>
   </data>
   <data name="TitleSettings.groupBox2" xml:space="preserve">
-    <value>Title Color</value>
+    <value>제목 색상</value>
   </data>
   <data name="TitleSettings.chkColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TitleSettings.label3" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="TitleSettings.groupBox1" xml:space="preserve">
-    <value>Title Font</value>
+    <value>제목 글꼴</value>
   </data>
   <data name="TitleSettings.lblFont" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴</value>
   </data>
   <data name="TitleSettings.btnFont" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="TitleSettings.chkFont" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TitleSettings.label1" xml:space="preserve">
-    <value>Font:</value>
+    <value>글꼴:</value>
   </data>
   <data name="TitleSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="TitleSettings.chkAttemptCount" xml:space="preserve">
-    <value>Show Attempt Count</value>
+    <value>시도 횟수 표시</value>
   </data>
   <data name="TitleSettings.chkFinishedRuns" xml:space="preserve">
-    <value>Show Finished Runs Count</value>
+    <value>완료한 런 횟수 표시</value>
   </data>
   <data name="TitleSettings.chkDisplayGameIcon" xml:space="preserve">
-    <value>Display Game Icon</value>
+    <value>게임 아이콘 표시</value>
   </data>
   <data name="TitleSettings.groupBox3" xml:space="preserve">
-    <value>Additional Category Info</value>
+    <value>추가 카테고리 정보</value>
   </data>
   <data name="TitleSettings.chkVariables" xml:space="preserve">
-    <value>Show Variables</value>
+    <value>변형 표시</value>
   </data>
   <data name="TitleSettings.chkPlatform" xml:space="preserve">
-    <value>Show Platform</value>
+    <value>플랫폼 표시</value>
   </data>
   <data name="TitleSettings.chkRegion" xml:space="preserve">
-    <value>Show Region</value>
+    <value>지역 표시</value>
   </data>
   <data name="TitleSettings.chkSingleLine" xml:space="preserve">
-    <value>Display Game and Category in Single Line</value>
+    <value>게임 이름과 카테고리를 한 줄에 표시</value>
   </data>
   <data name="TitleSettings.label2" xml:space="preserve">
-    <value>Text Alignment:</value>
+    <value>텍스트 정렬:</value>
   </data>
   <data name="TotalPlaytimeSettings.groupBox1" xml:space="preserve">
-    <value>Text Color</value>
+    <value>텍스트 색상</value>
   </data>
   <data name="TotalPlaytimeSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TotalPlaytimeSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="TotalPlaytimeSettings.groupBox2" xml:space="preserve">
-    <value>Time Color</value>
+    <value>시간 색상</value>
   </data>
   <data name="TotalPlaytimeSettings.label2" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="TotalPlaytimeSettings.chkOverrideTimeColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="TotalPlaytimeSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="TotalPlaytimeSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>2줄로 표시</value>
   </data>
   <data name="TotalPlaytimeSettings.chkShowTotalHours" xml:space="preserve">
-    <value>Show Total Hours</value>
+    <value>총 시간 표시</value>
   </data>
   <data name="ComponentHostForm" xml:space="preserve">
     <value>Form1</value>
   </data>
   <data name="VideoSettings.label1" xml:space="preserve">
-    <value>Video Path:</value>
+    <value>영상 경로:</value>
   </data>
   <data name="VideoSettings.btnSelectFile" xml:space="preserve">
-    <value>Browse...</value>
+    <value>찾아보기...</value>
   </data>
   <data name="VideoSettings.label2" xml:space="preserve">
-    <value>Run Starts At:</value>
+    <value>런 시작 시각:</value>
   </data>
   <data name="VideoSettings.lblHeightWidth" xml:space="preserve">
-    <value>Height:</value>
+    <value>높이:</value>
   </data>
   <data name="WorldRecordSettings.groupBox1" xml:space="preserve">
-    <value>Text Color</value>
+    <value>텍스트 색상</value>
   </data>
   <data name="WorldRecordSettings.chkOverrideTextColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="WorldRecordSettings.label1" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="WorldRecordSettings.groupBox2" xml:space="preserve">
-    <value>Time Color</value>
+    <value>시간 색상</value>
   </data>
   <data name="WorldRecordSettings.label2" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="WorldRecordSettings.chkOverrideTimeColor" xml:space="preserve">
-    <value>Override Layout Settings</value>
+    <value>레이아웃 설정 덮어쓰기</value>
   </data>
   <data name="WorldRecordSettings.label11" xml:space="preserve">
-    <value>Background Color:</value>
+    <value>배경 색상:</value>
   </data>
   <data name="WorldRecordSettings.chkTwoRows" xml:space="preserve">
-    <value>Display 2 Rows</value>
+    <value>2줄로 표시</value>
   </data>
   <data name="WorldRecordSettings.chkCenteredText" xml:space="preserve">
-    <value>Centered Text</value>
+    <value>텍스트 중앙 정렬:</value>
   </data>
   <data name="WorldRecordSettings.groupBox3" xml:space="preserve">
-    <value>Filter Leaderboard By</value>
+    <value>리더보드 필터</value>
   </data>
   <data name="WorldRecordSettings.chkVariables" xml:space="preserve">
-    <value>Variables</value>
+    <value>변형</value>
   </data>
   <data name="WorldRecordSettings.chkPlatform" xml:space="preserve">
-    <value>Platform</value>
+    <value>플랫폼</value>
   </data>
   <data name="WorldRecordSettings.chkRegion" xml:space="preserve">
-    <value>Region</value>
+    <value>지역</value>
   </data>
   <data name="WorldRecordSettings.chkSubcategories" xml:space="preserve">
-    <value>Subcategories</value>
+    <value>서브카테고리</value>
   </data>
   <data name="FontDialog.label1" xml:space="preserve">
-    <value>Font:</value>
+    <value>글꼴:</value>
   </data>
   <data name="FontDialog.label2" xml:space="preserve">
-    <value>Size:</value>
+    <value>크기:</value>
   </data>
   <data name="FontDialog.chbBold" xml:space="preserve">
-    <value>Bold</value>
+    <value>굵게</value>
   </data>
   <data name="FontDialog.chbItalic" xml:space="preserve">
-    <value>Italic</value>
+    <value>기울이기</value>
   </data>
   <data name="FontDialog.groupBox1" xml:space="preserve">
-    <value>Font Style</value>
+    <value>글꼴 스타일</value>
   </data>
   <data name="FontDialog.groupBox2" xml:space="preserve">
     <value>Sample Text</value>
@@ -1387,19 +1387,19 @@
     <value>AaBbCcXxYyZz</value>
   </data>
   <data name="FontDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="FontDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="FontDialog" xml:space="preserve">
-    <value>Font</value>
+    <value>글꼴</value>
   </data>
   <data name="MainForm.buttonPicker" xml:space="preserve">
-    <value>ColorPicker</value>
+    <value>색상선택도구</value>
   </data>
   <data name="MainForm.buttonPickerWithAlpha" xml:space="preserve">
-    <value>ColorPicker +A</value>
+    <value>색상선택도구 + 투명도</value>
   </data>
   <data name="MainForm.                 this" xml:space="preserve">
     <value>Form1</value>
@@ -1408,34 +1408,34 @@
     <value>Message</value>
   </data>
   <data name="TwitchGameResolveDialog.label1" xml:space="preserve">
-    <value>The game you\'re playing was not found on Twitch.</value>
+    <value>플레이 하시는 게임을 트위치에서 찾을 수 없습니다.</value>
   </data>
   <data name="TwitchGameResolveDialog.label2" xml:space="preserve">
-    <value>Select a different game:</value>
+    <value>다른 게임을 선택해 주세요.</value>
   </data>
   <data name="TwitchGameResolveDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="TwitchGameResolveDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="TwitchGameResolveDialog.btnNoGame" xml:space="preserve">
-    <value>No Game</value>
+    <value>게임 없음</value>
   </data>
   <data name="TwitchGameResolveDialog.btnSearch" xml:space="preserve">
-    <value>Search</value>
+    <value>검색</value>
   </data>
   <data name="TwitchGameResolveDialog" xml:space="preserve">
-    <value>Game Not Found</value>
+    <value>게임을 찾을 수 없습니다.</value>
   </data>
   <data name="TwitterOAuthForm" xml:space="preserve">
-    <value>Authorize LiveSplit</value>
+    <value>라이브스플릿 허용하기</value>
   </data>
   <data name="AboutBox.labelProductName" xml:space="preserve">
-    <value>LiveSplit</value>
+    <value>라이브스플릿</value>
   </data>
   <data name="AboutBox.textBoxDescription" xml:space="preserve">
-    <value>Made by:</value>
+    <value>제작자:</value>
   </data>
   <data name="AboutBox.lblWebsite" xml:space="preserve">
     <value>livesplit.org</value>
@@ -1447,175 +1447,178 @@
     <value>wooferzfg</value>
   </data>
   <data name="AboutBox.label1" xml:space="preserve">
-    <value>We\'ve put a lot of work into LiveSplit. If you like the program, please consider donating</value>
+    <value>라이브스플릿 제작에는 많은 노력이 들어갔습니다. 라이브스플릿이 마음에 드신다면 후원을 해주시면 감사하겠습니다.</value>
   </data>
   <data name="AboutBox.okButton" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
+  </data>
+  <data name="AboutBox" xml:space="preserve">
+    <value>라이브스플릿 소개</value>
   </data>
   <data name="AuthenticationDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="AuthenticationDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="AuthenticationDialog.label2" xml:space="preserve">
-    <value>Password:</value>
+    <value>비밀번호:</value>
   </data>
   <data name="AuthenticationDialog.label1" xml:space="preserve">
-    <value>Username:</value>
+    <value>아이디:</value>
   </data>
   <data name="AuthenticationDialog.chkRememberPassword" xml:space="preserve">
-    <value>Remember Password</value>
+    <value>비밀번호 기억하기</value>
   </data>
   <data name="AuthenticationDialog" xml:space="preserve">
-    <value>Authentication</value>
+    <value>인증</value>
   </data>
   <data name="BrowseSpeedrunComDialog.btnSearch" xml:space="preserve">
-    <value>Search</value>
+    <value>검색</value>
   </data>
   <data name="BrowseSpeedrunComDialog.btnDownload" xml:space="preserve">
-    <value>Download</value>
+    <value>다운로드</value>
   </data>
   <data name="BrowseSpeedrunComDialog.chkDownloadEmpty" xml:space="preserve">
-    <value>Download Empty</value>
+    <value>빈 스플릿 다운로드</value>
   </data>
   <data name="BrowseSpeedrunComDialog.chkIncludeTimes" xml:space="preserve">
-    <value>Include Times as Comparison</value>
+    <value>시간도 비교할 런으로 받기</value>
   </data>
   <data name="BrowseSpeedrunComDialog.btnShowOnSpeedrunCom" xml:space="preserve">
-    <value>Show on Speedrun.com</value>
+    <value>Speedrun.com에서 보이기</value>
   </data>
   <data name="BrowseSpeedrunComDialog" xml:space="preserve">
-    <value>Browse Speedrun.com</value>
+    <value>Speedrun.com 열기</value>
   </data>
   <data name="ChooseComparisonsDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="ChooseComparisonsDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="ChooseComparisonsDialog" xml:space="preserve">
-    <value>Choose Comparisons</value>
+    <value>비교할 런 선택</value>
   </data>
   <data name="ComponentSettingsDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="ComponentSettingsDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="ComponentSettingsDialog" xml:space="preserve">
-    <value>Component Settings</value>
+    <value>구성요소 설정</value>
   </data>
   <data name="EditHistoryDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="EditHistoryDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="EditHistoryDialog.btnRemove" xml:space="preserve">
-    <value>Remove Selected</value>
+    <value>선택 항목 삭제</value>
   </data>
   <data name="EditHistoryDialog" xml:space="preserve">
-    <value>Edit History</value>
+    <value>이력 수정</value>
   </data>
   <data name="LayoutEditorDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="LayoutEditorDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="LayoutEditorDialog.btnLayoutSettings" xml:space="preserve">
-    <value>Layout Settings</value>
+    <value>레이아웃 설정</value>
   </data>
   <data name="LayoutEditorDialog.rdoHorizontal" xml:space="preserve">
-    <value>Horizontal</value>
+    <value>가로 표시</value>
   </data>
   <data name="LayoutEditorDialog.rdoVertical" xml:space="preserve">
-    <value>Vertical</value>
+    <value>세로 표시</value>
   </data>
   <data name="LayoutEditorDialog.btnSetSize" xml:space="preserve">
-    <value>Set Size</value>
+    <value>크기 설정</value>
   </data>
   <data name="LayoutEditorDialog" xml:space="preserve">
-    <value>Layout Editor</value>
+    <value>레이아웃 에디터</value>
   </data>
   <data name="LayoutSettingsControl.chkMousePassThroughWhileRunning" xml:space="preserve">
-    <value>Ignore Mouse While Running and Not In Focus</value>
+    <value>런 중에 창이 선택되어있지 않을 경우 마우스 무시</value>
   </data>
   <data name="LayoutSettingsControl.groupBox2" xml:space="preserve">
-    <value>Colors</value>
+    <value>색상</value>
   </data>
   <data name="LayoutSettingsControl.lblOutlines" xml:space="preserve">
-    <value>Text Outlines:</value>
+    <value>텍스트 외각선:</value>
   </data>
   <data name="LayoutSettingsControl.label9" xml:space="preserve">
-    <value>Best Segment:</value>
+    <value>구간 최고기록:</value>
   </data>
   <data name="LayoutSettingsControl.label5" xml:space="preserve">
-    <value>Ahead (Gaining Time):</value>
+    <value>앞설 때(시간 아낌):</value>
   </data>
   <data name="LayoutSettingsControl.label6" xml:space="preserve">
-    <value>Ahead (Losing Time):</value>
+    <value>앞설 때(시간 잃음):</value>
   </data>
   <data name="LayoutSettingsControl.label7" xml:space="preserve">
-    <value>Behind (Gaining Time):</value>
+    <value>뒤쳐질 때(시간 아낌):</value>
   </data>
   <data name="LayoutSettingsControl.label11" xml:space="preserve">
-    <value>Text:</value>
+    <value>텍스트:</value>
   </data>
   <data name="LayoutSettingsControl.label8" xml:space="preserve">
-    <value>Behind (Losing Time):</value>
+    <value>뒤쳐질 때(시간 잃음):</value>
   </data>
   <data name="LayoutSettingsControl.chkRainbow" xml:space="preserve">
-    <value>Use Rainbow Best Segment Color</value>
+    <value>구간 최고 기록을 무지개 색상으로 설정</value>
   </data>
   <data name="LayoutSettingsControl.label10" xml:space="preserve">
-    <value>Not Running:</value>
+    <value>대기 상태:</value>
   </data>
   <data name="LayoutSettingsControl.label2" xml:space="preserve">
-    <value>Thin Separators:</value>
+    <value>얇은 구분자:</value>
   </data>
   <data name="LayoutSettingsControl.label4" xml:space="preserve">
-    <value>Personal Best:</value>
+    <value>개인 최고 기록:</value>
   </data>
   <data name="LayoutSettingsControl.label3" xml:space="preserve">
-    <value>Separators:</value>
+    <value>구분자:</value>
   </data>
   <data name="LayoutSettingsControl.label12" xml:space="preserve">
-    <value>Paused:</value>
+    <value>일시정지중:</value>
   </data>
   <data name="LayoutSettingsControl.label14" xml:space="preserve">
-    <value>Shadows:</value>
+    <value>그림자:</value>
   </data>
   <data name="LayoutSettingsControl.chkAlwaysOnTop" xml:space="preserve">
-    <value>Always on Top</value>
+    <value>항상 위에 표시</value>
   </data>
   <data name="LayoutSettingsControl.groupBox1" xml:space="preserve">
-    <value>Fonts</value>
+    <value>글꼴</value>
   </data>
   <data name="LayoutSettingsControl.chkAntiAliasing" xml:space="preserve">
-    <value>Anti-Aliasing</value>
+    <value>안티엘리어싱</value>
   </data>
   <data name="LayoutSettingsControl.label16" xml:space="preserve">
-    <value>Timer:</value>
+    <value>타이머:</value>
   </data>
   <data name="LayoutSettingsControl.label17" xml:space="preserve">
-    <value>Times:</value>
+    <value>기록:</value>
   </data>
   <data name="LayoutSettingsControl.label18" xml:space="preserve">
-    <value>Text:</value>
+    <value>텍스트:</value>
   </data>
   <data name="LayoutSettingsControl.btnTimer" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="LayoutSettingsControl.btnTimes" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="LayoutSettingsControl.btnTextFont" xml:space="preserve">
-    <value>Choose...</value>
+    <value>선택...</value>
   </data>
   <data name="LayoutSettingsControl.chkDropShadows" xml:space="preserve">
-    <value>Drop Shadows</value>
+    <value>그림자 표시</value>
   </data>
   <data name="LayoutSettingsControl.lblTimer" xml:space="preserve">
     <value>something</value>
@@ -1627,453 +1630,450 @@
     <value>something</value>
   </data>
   <data name="LayoutSettingsControl.chkBestSegments" xml:space="preserve">
-    <value>Show Best Segments</value>
+    <value>구간별 최고기록 표시</value>
   </data>
   <data name="LayoutSettingsControl.label13" xml:space="preserve">
-    <value>Opacity:</value>
+    <value>투명도:</value>
   </data>
   <data name="LayoutSettingsControl.groupBox3" xml:space="preserve">
-    <value>Background</value>
+    <value>배경</value>
   </data>
   <data name="LayoutSettingsControl.lblBackground" xml:space="preserve">
-    <value>Color:</value>
+    <value>색상:</value>
   </data>
   <data name="LayoutSettingsControl.lblImageOpacity" xml:space="preserve">
-    <value>Image Opacity:</value>
+    <value>이미지 투명도:</value>
   </data>
   <data name="LayoutSettingsControl.lblBlur" xml:space="preserve">
-    <value>Image Blur:</value>
+    <value>이미지 흐림:</value>
   </data>
   <data name="LayoutSettingsDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="LayoutSettingsDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="LayoutSettingsDialog" xml:space="preserve">
-    <value>Layout Settings</value>
+    <value>레이아웃 설정</value>
   </data>
   <data name="MetadataControl.lblRegion" xml:space="preserve">
-    <value>Region:</value>
+    <value>지역:</value>
   </data>
   <data name="MetadataControl.lblPlatform" xml:space="preserve">
-    <value>Platform:</value>
+    <value>플랫폼:</value>
   </data>
   <data name="MetadataControl.lblRules" xml:space="preserve">
-    <value>Rules:</value>
+    <value>규칙:</value>
   </data>
   <data name="MetadataControl.btnAssociate" xml:space="preserve">
-    <value>Associate with Speedrun.com...</value>
+    <value>Speedrun.com과 연동하기...</value>
   </data>
   <data name="MetadataControl.tbxRules" xml:space="preserve">
     <value />
   </data>
   <data name="MetadataControl.btnSubmit" xml:space="preserve">
-    <value>Submit Run...</value>
+    <value>런 제출...</value>
   </data>
   <data name="RaceProviderManagingDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="RaceProviderManagingDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="RaceProviderManagingDialog.websiteTextLabel" xml:space="preserve">
-    <value>Website:</value>
+    <value>웹사이트:</value>
   </data>
   <data name="RaceProviderManagingDialog.rulesTextLabel" xml:space="preserve">
-    <value>Rules:</value>
+    <value>규칙:</value>
   </data>
   <data name="RaceProviderManagingDialog" xml:space="preserve">
-    <value>Manage Racing Services</value>
+    <value>레이스 서비스 관리</value>
   </data>
   <data name="RunEditorDialog.label2" xml:space="preserve">
-    <value>Game Name:</value>
+    <value>게임 이름:</value>
   </data>
   <data name="RunEditorDialog.label3" xml:space="preserve">
-    <value>Run Category:</value>
+    <value>런 카테고리:</value>
   </data>
   <data name="RunEditorDialog.label1" xml:space="preserve">
-    <value>Start Timer at:</value>
+    <value>타이머 초기 값:</value>
   </data>
   <data name="RunEditorDialog.RealTime" xml:space="preserve">
-    <value>Real Time</value>
+    <value>실제 시간</value>
   </data>
   <data name="RunEditorDialog.GameTime" xml:space="preserve">
-    <value>Game Time</value>
+    <value>게임 기록</value>
   </data>
   <data name="RunEditorDialog.Metadata" xml:space="preserve">
-    <value>Additional Info</value>
+    <value>추가 정보</value>
   </data>
   <data name="RunEditorDialog.label4" xml:space="preserve">
-    <value>Attempts:</value>
+    <value>시도 횟수:</value>
   </data>
   <data name="RunEditorDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="RunEditorDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="RunEditorDialog.btnOther" xml:space="preserve">
-    <value>Other...</value>
+    <value>기타...</value>
   </data>
   <data name="RunEditorDialog.btnImportComparison" xml:space="preserve">
-    <value>Import Comparison...</value>
+    <value>비교할 런 불러오기...</value>
   </data>
   <data name="RunEditorDialog.btnAddComparison" xml:space="preserve">
-    <value>Add Comparison</value>
+    <value>비교할 런 추가</value>
   </data>
   <data name="RunEditorDialog.btnMoveDown" xml:space="preserve">
-    <value>Move Down</value>
+    <value>아래로</value>
   </data>
   <data name="RunEditorDialog.btnMoveUp" xml:space="preserve">
-    <value>Move Up</value>
+    <value>위로</value>
   </data>
   <data name="RunEditorDialog.btnRemove" xml:space="preserve">
-    <value>Remove Segment</value>
+    <value>구간 삭제</value>
   </data>
   <data name="RunEditorDialog.btnAdd" xml:space="preserve">
-    <value>Insert Below</value>
+    <value>아래에 삽입</value>
   </data>
   <data name="RunEditorDialog.btnInsert" xml:space="preserve">
-    <value>Insert Above</value>
+    <value>위에 삽입</value>
   </data>
   <data name="RunEditorDialog.btnBrowseLayout" xml:space="preserve">
-    <value>Browse</value>
+    <value>찾아보기</value>
   </data>
   <data name="RunEditorDialog.chkbxUseLayout" xml:space="preserve">
-    <value>Use Layout</value>
+    <value>레이아웃 사용</value>
   </data>
   <data name="RunEditorDialog.btnWebsite" xml:space="preserve">
-    <value>Website</value>
+    <value>웹사이트</value>
   </data>
   <data name="RunEditorDialog.btnSettings" xml:space="preserve">
-    <value>Settings</value>
+    <value>설정</value>
   </data>
   <data name="RunEditorDialog.btnActivate" xml:space="preserve">
-    <value>Activate</value>
+    <value>활성화</value>
   </data>
   <data name="RunEditorDialog.lblDescription" xml:space="preserve">
-    <value>Description</value>
+    <value>설명</value>
   </data>
   <data name="RunEditorDialog.setIconToolStripMenuItem" xml:space="preserve">
-    <value>Set Icon...</value>
+    <value>아이콘 설정...</value>
   </data>
   <data name="RunEditorDialog.downloadBoxartToolStripMenuItem" xml:space="preserve">
-    <value>Download Box Art</value>
+    <value>박스 아트 다운로드</value>
   </data>
   <data name="RunEditorDialog.downloadIconToolStripMenuItem" xml:space="preserve">
-    <value>Download Icon</value>
+    <value>아이콘 다운로드</value>
   </data>
   <data name="RunEditorDialog.openFromURLMenuItem" xml:space="preserve">
-    <value>Open from URL...</value>
+    <value>URL로 열기...</value>
   </data>
   <data name="RunEditorDialog.removeIconToolStripMenuItem" xml:space="preserve">
-    <value>Remove Icon</value>
+    <value>아이콘 제거</value>
   </data>
   <data name="RunEditorDialog.fromFileToolStripMenuItem" xml:space="preserve">
-    <value>From File...</value>
+    <value>파일로 불러오기</value>
   </data>
   <data name="RunEditorDialog.fromURLToolStripMenuItem" xml:space="preserve">
-    <value>From URL...</value>
+    <value>URL으로 불러오기</value>
   </data>
   <data name="RunEditorDialog.fromSpeedruncomToolStripMenuItem" xml:space="preserve">
-    <value>From Speedrun.com...</value>
+    <value>Speedrun.com으로 불러오기</value>
   </data>
   <data name="RunEditorDialog.clearHistoryToolStripMenuItem" xml:space="preserve">
-    <value>Clear History</value>
+    <value>이력 삭제</value>
   </data>
   <data name="RunEditorDialog.clearTimesToolStripMenuItem" xml:space="preserve">
-    <value>Clear Times</value>
+    <value>기록 삭제</value>
   </data>
   <data name="RunEditorDialog.cleanSumOfBestToolStripMenuItem" xml:space="preserve">
-    <value>Clean Sum of Best</value>
+    <value>최고 기록 합산 삭제</value>
   </data>
   <data name="RunEditorDialog" xml:space="preserve">
-    <value>Splits Editor</value>
+    <value>스플릿 에디터</value>
   </data>
   <data name="SetSizeForm.label1" xml:space="preserve">
-    <value>Width:</value>
+    <value>너비:</value>
   </data>
   <data name="SetSizeForm.label2" xml:space="preserve">
-    <value>Height:</value>
+    <value>높이:</value>
   </data>
   <data name="SetSizeForm.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="SetSizeForm.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="SetSizeForm.chkKeepAspectRatio" xml:space="preserve">
-    <value>Keep Aspect Ratio</value>
+    <value>비율 고정</value>
   </data>
   <data name="SetSizeForm" xml:space="preserve">
-    <value>Set Layout Size</value>
+    <value>레이아웃 크기 설정</value>
   </data>
   <data name="SettingsDialog.btnChooseRaceProvider" xml:space="preserve">
-    <value>Manage Racing Services...</value>
+    <value>레이스 서비스 관리...</value>
   </data>
   <data name="SettingsDialog.btnOK" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="SettingsDialog.label5" xml:space="preserve">
-    <value>Saved Accounts:</value>
+    <value>저장된 계정:</value>
   </data>
   <data name="SettingsDialog.btnLogOut" xml:space="preserve">
-    <value>Log Out of All Accounts</value>
+    <value>모든 계정 로그아웃</value>
   </data>
   <data name="SettingsDialog.groupBox1" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>단축키</value>
   </data>
   <data name="SettingsDialog.chkDeactivateForOtherPrograms" xml:space="preserve">
-    <value>Deactivate For Other Programs</value>
+    <value>다른 프로그램 </value>
   </data>
   <data name="SettingsDialog.label1" xml:space="preserve">
-    <value>Start / Split:</value>
+    <value>시작/스플릿:</value>
   </data>
   <data name="SettingsDialog.chkGlobalHotkeys" xml:space="preserve">
-    <value>Global Hotkeys</value>
+    <value>글로벌 단축키</value>
   </data>
   <data name="SettingsDialog.chkDoubleTap" xml:space="preserve">
-    <value>Double Tap Prevention</value>
+    <value>연속 입력 방지</value>
   </data>
   <data name="SettingsDialog.label2" xml:space="preserve">
-    <value>Reset:</value>
+    <value>초기화:</value>
   </data>
   <data name="SettingsDialog.label6" xml:space="preserve">
-    <value>Pause:</value>
+    <value>일시정지:</value>
   </data>
   <data name="SettingsDialog.label3" xml:space="preserve">
-    <value>Skip Split:</value>
+    <value>스플릿 넘기기:</value>
   </data>
   <data name="SettingsDialog.label4" xml:space="preserve">
-    <value>Undo Split:</value>
+    <value>스플릿 취소:</value>
   </data>
   <data name="SettingsDialog.label7" xml:space="preserve">
-    <value>Toggle Global Hotkeys:</value>
+    <value>글로벌 단축키 토글:</value>
   </data>
   <data name="SettingsDialog.label8" xml:space="preserve">
-    <value>Switch Comparison (Previous):</value>
+    <value>비교할 런 변경 (이전):</value>
   </data>
   <data name="SettingsDialog.label9" xml:space="preserve">
-    <value>Switch Comparison (Next):</value>
+    <value>비교할 런 변경 (다음):</value>
   </data>
   <data name="SettingsDialog.label10" xml:space="preserve">
-    <value>Hotkey Delay (Seconds):</value>
+    <value>단축키 딜레이(초)</value>
   </data>
   <data name="SettingsDialog.grpHotkeyProfiles" xml:space="preserve">
-    <value>Hotkey Profiles</value>
+    <value>단축키 프로필</value>
   </data>
   <data name="SettingsDialog.lblProfile" xml:space="preserve">
-    <value>Active Hotkey Profile:</value>
+    <value>활성화 된 단축키 프로필:</value>
   </data>
   <data name="SettingsDialog.btnRemoveProfile" xml:space="preserve">
-    <value>Remove</value>
+    <value>삭제</value>
   </data>
   <data name="SettingsDialog.btnRenameProfile" xml:space="preserve">
-    <value>Rename</value>
+    <value>삭제</value>
   </data>
   <data name="SettingsDialog.btnNewProfile" xml:space="preserve">
-    <value>New</value>
+    <value>새 프로필</value>
   </data>
   <data name="SettingsDialog.chkAllowGamepads" xml:space="preserve">
-    <value>Allow Gamepads as Hotkeys</value>
+    <value>컨트롤러 단축키 허용하기</value>
   </data>
   <data name="SettingsDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="SettingsDialog.label11" xml:space="preserve">
-    <value>Race Viewer:</value>
+    <value>레이스 뷰어:</value>
   </data>
   <data name="SettingsDialog.label12" xml:space="preserve">
-    <value>Active Comparisons:</value>
+    <value>활성화 된 비교할 런</value>
   </data>
   <data name="SettingsDialog.label13" xml:space="preserve">
-    <value>Racing Services:</value>
+    <value>레이스 서비스:</value>
   </data>
   <data name="SettingsDialog.btnChooseComparisons" xml:space="preserve">
-    <value>Choose Active Comparisons...</value>
+    <value>활성화 된 비교할 런 선택...</value>
   </data>
   <data name="SettingsDialog.chkSimpleSOB" xml:space="preserve">
-    <value>Simple Sum of Best Calculation</value>
+    <value>단순한 구간별 최고 기록 합산 계산</value>
   </data>
   <data name="SettingsDialog.chkWarnOnReset" xml:space="preserve">
-    <value>Warn On Reset If Better Times</value>
+    <value>단축된 기록 초기화 시 경고</value>
   </data>
   <data name="SettingsDialog.labelRefreshRate" xml:space="preserve">
-    <value>Refresh Rate (Hz):</value>
+    <value>새로고침 빈도 (Hz):</value>
   </data>
   <data name="SettingsDialog" xml:space="preserve">
-    <value>Settings</value>
+    <value>설정</value>
   </data>
   <data name="ShareRunDialog.label1" xml:space="preserve">
-    <value>Platform:</value>
+    <value>플랫폼:</value>
   </data>
   <data name="ShareRunDialog.label2" xml:space="preserve">
-    <value>Username:</value>
+    <value>아이디:</value>
   </data>
   <data name="ShareRunDialog.label3" xml:space="preserve">
-    <value>Password:</value>
+    <value>비밀번호;</value>
   </data>
   <data name="ShareRunDialog.label4" xml:space="preserve">
-    <value>Game:</value>
+    <value>게임:</value>
   </data>
   <data name="ShareRunDialog.label5" xml:space="preserve">
-    <value>Category:</value>
+    <value>카테고리:</value>
   </data>
   <data name="ShareRunDialog.label6" xml:space="preserve">
-    <value>Version:</value>
+    <value>버전:</value>
   </data>
   <data name="ShareRunDialog.label7" xml:space="preserve">
-    <value>Video URL:</value>
+    <value>영상 URL:</value>
   </data>
   <data name="ShareRunDialog.label8" xml:space="preserve">
-    <value>Text:</value>
+    <value>텍스트:</value>
   </data>
   <data name="ShareRunDialog.btnClose" xml:space="preserve">
-    <value>Close</value>
+    <value>닫기</value>
   </data>
   <data name="ShareRunDialog.label9" xml:space="preserve">
-    <value>Insert:</value>
+    <value>추가:</value>
   </data>
   <data name="ShareRunDialog.btnInsertGame" xml:space="preserve">
-    <value>Game</value>
+    <value>게임</value>
   </data>
   <data name="ShareRunDialog.btnInsertCategory" xml:space="preserve">
-    <value>Category</value>
+    <value>카테고리</value>
   </data>
   <data name="ShareRunDialog.btnInsertTitle" xml:space="preserve">
-    <value>Title</value>
+    <value>제목</value>
   </data>
   <data name="ShareRunDialog.btnInsertPB" xml:space="preserve">
-    <value>PB</value>
+    <value>개인 기록</value>
   </data>
   <data name="ShareRunDialog.btnPreview" xml:space="preserve">
-    <value>Preview...</value>
+    <value>미리보기...</value>
   </data>
   <data name="ShareRunDialog.btnInsertSplitName" xml:space="preserve">
-    <value>Split Name</value>
+    <value>스플릿 이름</value>
   </data>
   <data name="ShareRunDialog.btnInsertDeltaTime" xml:space="preserve">
-    <value>Delta Time</value>
+    <value>기록 차이 </value>
   </data>
   <data name="ShareRunDialog.btnInsertSplitTime" xml:space="preserve">
-    <value>Split Time</value>
+    <value>스플릿 시간</value>
   </data>
   <data name="ShareRunDialog.btnInsertStreamLink" xml:space="preserve">
-    <value>Stream Link</value>
+    <value>방송 링크</value>
   </data>
   <data name="ShareRunDialog.chkAttachSplits" xml:space="preserve">
     <value>Attach Splits</value>
   </data>
   <data name="ShareRunDialog.btnShare" xml:space="preserve">
-    <value>Share</value>
+    <value>공유</value>
   </data>
   <data name="ShareRunDialog" xml:space="preserve">
-    <value>Run Sharer</value>
+    <value>런 공유</value>
   </data>
   <data name="SpeedrunComSubmitDialog.label1" xml:space="preserve">
-    <value>Video:</value>
+    <value>영상:</value>
   </data>
   <data name="SpeedrunComSubmitDialog.label2" xml:space="preserve">
-    <value>Comment:</value>
+    <value>코멘트:</value>
   </data>
   <data name="SpeedrunComSubmitDialog.btnSubmit" xml:space="preserve">
-    <value>Submit</value>
+    <value>제출</value>
   </data>
   <data name="SpeedrunComSubmitDialog.btnCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>취소</value>
   </data>
   <data name="SpeedrunComSubmitDialog" xml:space="preserve">
-    <value>Submitting to Speedrun.com</value>
+    <value>Speedrun.com에 제출중</value>
   </data>
   <data name="SpeedRunsLiveForm.chatBox" xml:space="preserve">
     <value />
   </data>
   <data name="SpeedRunsLiveForm.chkReady" xml:space="preserve">
-    <value>Ready</value>
+    <value>준비</value>
   </data>
   <data name="SpeedRunsLiveForm.btnJoinQuit" xml:space="preserve">
-    <value>Enter Race</value>
+    <value>레이스 참가</value>
   </data>
   <data name="SpeedRunsLiveForm" xml:space="preserve">
-    <value>Joining Channel...</value>
+    <value>채널 입장하는 중...</value>
   </data>
   <data name="TimerForm.editSplitsMenuItem" xml:space="preserve">
-    <value>Edit Splits...</value>
+    <value>스플릿 수정...</value>
   </data>
   <data name="TimerForm.openSplitsMenuItem" xml:space="preserve">
-    <value>Open Splits</value>
+    <value>스플릿 열기</value>
   </data>
   <data name="TimerForm.saveSplitsMenuItem" xml:space="preserve">
-    <value>Save Splits</value>
+    <value>스플릿 저장</value>
   </data>
   <data name="TimerForm.saveSplitsAsMenuItem" xml:space="preserve">
-    <value>Save Splits As...</value>
+    <value>다른 이름으로 스플릿 저장...</value>
   </data>
   <data name="TimerForm.closeSplitsMenuItem" xml:space="preserve">
-    <value>Close Splits</value>
+    <value>스플릿 닫기</value>
   </data>
   <data name="TimerForm.controlMenuItem" xml:space="preserve">
-    <value>Control</value>
+    <value>컨트롤</value>
   </data>
   <data name="TimerForm.shareMenuItem" xml:space="preserve">
-    <value>Share...</value>
+    <value>공유....</value>
   </data>
   <data name="TimerForm.editLayoutMenuItem" xml:space="preserve">
-    <value>Edit Layout...</value>
+    <value>레이아웃 수정...</value>
   </data>
   <data name="TimerForm.openLayoutMenuItem" xml:space="preserve">
-    <value>Open Layout</value>
+    <value>레이아웃 열기</value>
   </data>
   <data name="TimerForm.saveLayoutMenuItem" xml:space="preserve">
-    <value>Save Layout</value>
+    <value>레이아웃 저장</value>
   </data>
   <data name="TimerForm.saveLayoutAsMenuItem" xml:space="preserve">
-    <value>Save Layout As...</value>
+    <value>다른 이름으로 레이아웃 저장...</value>
   </data>
   <data name="TimerForm.settingsMenuItem" xml:space="preserve">
-    <value>Settings</value>
+    <value>설정</value>
   </data>
   <data name="TimerForm.aboutMenuItem" xml:space="preserve">
-    <value>About</value>
+    <value>더보기</value>
   </data>
   <data name="TimerForm.exitMenuItem" xml:space="preserve">
-    <value>Exit</value>
+    <value>종료</value>
   </data>
   <data name="TimerForm.splitMenuItem" xml:space="preserve">
-    <value>Start</value>
+    <value>시작</value>
   </data>
   <data name="TimerForm.resetMenuItem" xml:space="preserve">
-    <value>Reset</value>
+    <value>초기화</value>
   </data>
   <data name="TimerForm.undoSplitMenuItem" xml:space="preserve">
-    <value>Undo Split</value>
+    <value>스플릿 되돌리기</value>
   </data>
   <data name="TimerForm.skipSplitMenuItem" xml:space="preserve">
-    <value>Skip Split</value>
+    <value>스플릿 넘기기</value>
   </data>
   <data name="TimerForm.pauseMenuItem" xml:space="preserve">
-    <value>Pause</value>
+    <value>일시정지</value>
   </data>
   <data name="TimerForm.undoPausesMenuItem" xml:space="preserve">
-    <value>Undo All Pauses</value>
+    <value>일시정지 모두 되돌리기</value>
   </data>
   <data name="TimerForm.hotkeysMenuItem" xml:space="preserve">
-    <value>Global Hotkeys</value>
+    <value>글로벌 단축키</value>
   </data>
   <data name="TimerForm.comparisonMenuItem" xml:space="preserve">
-    <value>Compare Against</value>
+    <value>비교할 런 설정</value>
   </data>
   <data name="TimerForm" xml:space="preserve">
-    <value>LiveSplit</value>
+    <value>라이브스플릿</value>
   </data>
   <data name="UpdateForm" xml:space="preserve">
-    <value>Update</value>
-  </data>
-  <data name="AboutBox" xml:space="preserve">
-    <value>About LiveSplit</value>
+    <value>업데이트</value>
   </data>
   <data name="SettingsDialog.label14" xml:space="preserve">
-    <value>Language:</value>
+    <value>언어:</value>
   </data>
 </root>

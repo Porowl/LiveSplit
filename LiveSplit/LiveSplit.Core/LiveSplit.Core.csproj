@@ -163,6 +163,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>StringRes.resx</DependentUpon>
     </Compile>
+    <Compile Include="Properties\StringRes.ko-kr.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StringRes.ko-kr.resx</DependentUpon>
+    </Compile>
     <Compile Include="Server\Connection.cs" />
     <Compile Include="Server\CSharpScript.cs" />
     <Compile Include="Server\IScript.cs" />
@@ -331,6 +336,11 @@
     <None Include="Updates\GitInfo\branch.txt" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Properties\StringRes.ko-kr.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>StringRes.ko-kr.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\StringRes.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>StringRes.Designer.cs</LastGenOutput>

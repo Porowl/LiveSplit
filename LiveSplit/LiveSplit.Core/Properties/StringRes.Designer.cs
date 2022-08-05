@@ -70,7 +70,7 @@ namespace LiveSplit.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We\&apos;ve put a lot of work into LiveSplit. If you like the program, please consider &quot;.
+        ///   Looks up a localized string similar to We\&apos;ve put a lot of work into LiveSplit. If you like the program, please consider donating.
         /// </summary>
         public static string AboutBox_label1 {
             get {
@@ -3067,7 +3067,7 @@ namespace LiveSplit.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This is NOT your public IP. With most network setups, only devices on your networ&quot;.
+        ///   Looks up a localized string similar to This is NOT your public IP. With most network setups, only devices on your network can use this address to find your computer..
         /// </summary>
         public static string Settings_label4 {
             get {
@@ -3270,6 +3270,15 @@ namespace LiveSplit.Properties {
         public static string SettingsDialog_label13 {
             get {
                 return ResourceManager.GetString("SettingsDialog.label13", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language:.
+        /// </summary>
+        public static string SettingsDialog_label14 {
+            get {
+                return ResourceManager.GetString("SettingsDialog.label14", resourceCulture);
             }
         }
         
@@ -4507,7 +4516,7 @@ namespace LiveSplit.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To set a split as a subsplit, add a - (dash) to the beginning of the split name.\r&quot;.
+        ///   Looks up a localized string similar to To set a split as a subsplit, add a - (dash) to the beginning of the split name.\r\nOptional: Add a section name with {}. Ex: \&quot;{Section Name} Split Name\&quot;.
         /// </summary>
         public static string SplitsSettings_label14 {
             get {

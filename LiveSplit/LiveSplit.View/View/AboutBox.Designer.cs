@@ -154,8 +154,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(249, 26);
             this.label1.TabIndex = 28;
-            this.label1.Text = Properties.StringRes.AboutBox_label1 +
-    "donating.";
+            this.label1.Text = Properties.StringRes.AboutBox_label1;
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // donateButton
